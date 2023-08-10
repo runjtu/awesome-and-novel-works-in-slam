@@ -17,23 +17,21 @@ If you find this repository useful, please consider STARing this list. Feel free
 ---
 
 ## NeRF
-* **Neural-Sim**: "Learning to Generate Training Data with NeRF", *ECCV 2022*.  [[Paper](https://arxiv.org/pdf/2207.11368.pdf)] [[Pytorch Code](https://github.com/gyhandy/Neural-Sim-NeRF)] [[Webpage](https://fylwen.github.io/disp6d.html)]
+* **Neural-Sim**: "Learning to Generate Training Data with NeRF", *ECCV 2022*.  [[Paper](https://arxiv.org/pdf/2207.11368.pdf)] [[Code](https://github.com/gyhandy/Neural-Sim-NeRF)] [[Webpage](https://fylwen.github.io/disp6d.html)]
 
 
-* **iNeRF**: "Inverting Neural Radiance Fields for Pose Estimation", *IROS, 2021*. [[Paper](https://arxiv.org/pdf/2012.05877.pdf)] [[Pytorch Code](https://github.com/yenchenlin/iNeRF-public)] [[Website](https://yenchenlin.me/inerf/)] [[Dataset](https://github.com/BerkeleyAutomation/dex-nerf-datasets)]
+* **iNeRF**: "Inverting Neural Radiance Fields for Pose Estimation", *IROS, 2021*. [[Paper](https://arxiv.org/pdf/2012.05877.pdf)] [[Code](https://github.com/yenchenlin/iNeRF-public)] [[Website](https://yenchenlin.me/inerf/)] [[Dataset](https://github.com/BerkeleyAutomation/dex-nerf-datasets)]
 
-
-
-* **iMAP**: "Implicit Mapping and Positioning in Real-Time", *ICCV, 2021*. [[Paper](https://arxiv.org/abs/2103.12352)] [[Website](https://edgarsucar.github.io/iMAP/)]
+* **iMAP**: "Implicit Mapping and Positioning in Real-Time", *ICCV, 2021*. [[Paper](https://arxiv.org/abs/2103.12352)] [[Code](https://edgarsucar.github.io/iMAP/)]
 
 * **SHINE-Mapping**: "Large-Scale 3D Mapping Using Sparse Hierarchical Implicit Neural Representations", *ICRA, 2023*. [[Paper](https://arxiv.org/pdf/2210.02299.pdf)] [[Code](https://github.com/PRBonn/SHINE_mapping)]
 
-* **H2-Mapping**: "Real-time Dense Mapping Using Hierarchical Hybrid Representation", *RA-L, 2023*. [[Paper](https://arxiv.org/pdf/2306.03207.pdf)] [[code](https://github.com/SYSU-STAR/H2-Mapping)]
+* **H2-Mapping**: "Real-time Dense Mapping Using Hierarchical Hybrid Representation", *RA-L, 2023*. [[Paper](https://arxiv.org/pdf/2306.03207.pdf)] [[Code](https://github.com/SYSU-STAR/H2-Mapping)]
 
-* **LATITUDE**: Robotic Global Localization with Truncated Dynamic Low-pass Filter in City-scale NeRF, *ICRA,  2023*. [[Paper](https://arxiv.org/pdf/2209.09357.pdf)] [[Pytorch Code](https://github.com/jike5/LATITUDE)]
+* **LATITUDE**: Robotic Global Localization with Truncated Dynamic Low-pass Filter in City-scale NeRF, *ICRA,  2023*. [[Paper](https://arxiv.org/pdf/2209.09357.pdf)] [[Code](https://github.com/jike5/LATITUDE)]
 
 
-* **NeuSE**: "Neural SE(3)-Equivariant Embedding for Consistent Spatial Understanding with Objects", *arXiv*. [[Paper](https://arxiv.org/pdf/2303.07308.pdf)] [[Website](https://neuse-slam.github.io/neuse/)]
+* **NeuSE**: "Neural SE(3)-Equivariant Embedding for Consistent Spatial Understanding with Objects", *arXiv*. [[Paper](https://arxiv.org/pdf/2303.07308.pdf)] [[Code](https://neuse-slam.github.io/neuse/)]
 
 * **ObjectFusion**: "Accurate object-level SLAM with neural object priors", *Graphical Models,  2022*. [[Paper](https://www.sciencedirect.com/science/article/pii/S1524070322000418)]
 
@@ -44,7 +42,6 @@ If you find this repository useful, please consider STARing this list. Feel free
 - **NeRF-LOAM**: Neural Implicit Representation for Large-Scale Incremental LiDAR Odometry and Mapping, *arXiv*. [[Paper](https://arxiv.org/pdf/2303.10709.pdf)] [[Code](https://github.com/JunyuanDeng/NeRF-LOAM)]
 
 * "Implicit Map Augmentation for Relocalization", *ECCV Workshop, 2022*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-25066-8_36)]
-
 
 *  **Co-SLAM**: Joint Coordinate and Sparse Parametric Encodings for Neural Real-Time SLAM, *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2304.14377.pdf)] [[Website](https://hengyiwang.github.io/projects/CoSLAM)]
 *  Neural Implicit Dense Semantic SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2304.14560.pdf)]
@@ -57,28 +54,28 @@ If you find this repository useful, please consider STARing this list. Feel free
 ---
 ## v2x
 
-* **HighwayEnv**: "An Environment for Autonomous Driving Decision-Making", *GitHub*. [[code](https://github.com/Farama-Foundation/HighwayEnv)]
+* **HighwayEnv**: "An Environment for Autonomous Driving Decision-Making", *GitHub*. [[Code](https://github.com/Farama-Foundation/HighwayEnv)]
 
-* **OpenLane-V2**: "The World's First Perception and Reasoning Benchmark for Scene Structure in Autonomous Driving.", *GitHub*. [[code](https://github.com/OpenDriveLab/OpenLane-V2)]
+* **OpenLane-V2**: "The World's First Perception and Reasoning Benchmark for Scene Structure in Autonomous Driving.", *GitHub*. [[Code](https://github.com/OpenDriveLab/OpenLane-V2)]
 
 
 
 ---
 ## semantic
 
-* **OPen3d**: "A Modern Library for 3D Data Processing", *arxiv*. [[Paper](https://arxiv.org/abs/1801.09847)] [[code](https://github.com/isl-org/Open3D-ML)]
+* **OPen3d**: "A Modern Library for 3D Data Processing", *arxiv*. [[Paper](https://arxiv.org/abs/1801.09847)] [[Code](https://github.com/isl-org/Open3D-ML)]
 
 
 ---
 ## novelcv
 
-* **UniDistill**: "A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View", *Github*. [[code](https://github.com/megvii-research/CVPR2023-UniDistill)]
+* **UniDistill**: "A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View", *Github*. [[Code](https://github.com/megvii-research/CVPR2023-UniDistill)]
 
 
 ---
 ## end2end
 
-* **DriveLikeAHuman**: "Rethinking Autonomous Driving with Large Language Models", *CVPR2023*. [[code](https://github.com/PJLab-ADG/DriveLikeAHuman)]
+* **DriveLikeAHuman**: "Rethinking Autonomous Driving with Large Language Models", *CVPR, 2023*. [[Code](https://github.com/PJLab-ADG/DriveLikeAHuman)]
 
 
 
