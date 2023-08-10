@@ -66,19 +66,19 @@ If you find this repository useful, please consider STARing this list. Feel free
 ---
 ## semantic
 
-* **OPen3d**: "Open3D:A Modern Library for 3D Data Processing", *arxiv*. [[Paper](https://arxiv.org/abs/1801.09847)] [[code](https://github.com/isl-org/Open3D-ML)]
+* **OPen3d**: "A Modern Library for 3D Data Processing", *arxiv*. [[Paper](https://arxiv.org/abs/1801.09847)] [[code](https://github.com/isl-org/Open3D-ML)]
 
 
 ---
 ## novelcv
 
-* **UniDistill**: "UniDistill: A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View", *Github*. [[code](https://github.com/megvii-research/CVPR2023-UniDistill)]
+* **UniDistill**: "A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View", *Github*. [[code](https://github.com/megvii-research/CVPR2023-UniDistill)]
 
 
 ---
 ## end2end
 
-* **DriveLikeAHuman**: "Drive Like a Human: Rethinking Autonomous Driving with Large Language Models", *CVPR2023*. [[code](https://github.com/PJLab-ADG/DriveLikeAHuman)]
+* **DriveLikeAHuman**: "Rethinking Autonomous Driving with Large Language Models", *CVPR2023*. [[code](https://github.com/PJLab-ADG/DriveLikeAHuman)]
 
 
 
