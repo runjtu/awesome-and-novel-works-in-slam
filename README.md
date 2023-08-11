@@ -11,7 +11,7 @@ If you find this repository useful, please consider STARing this list. Feel free
   - [v2x](#v2x)
   - [Semantic](#semantic)
   - [novelcv](#novelcv)
-  - [end2end and LLM](#end2end&llm)
+  - [end2end-LLM](#end2end&llm)
   - [leaders](#leaders)
 
 ---
