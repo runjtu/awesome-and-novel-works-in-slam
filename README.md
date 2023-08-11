@@ -11,7 +11,7 @@ If you find this repository useful, please consider STARing this list. Feel free
   - [v2x](#v2x)
   - [Semantic](#semantic)
   - [novelcv](#novelcv)
-  - [Largemodel](#Largemodel)
+  - [Largemodel](#largemodel)
   - [leaders](#leaders)
 
 ---
@@ -73,7 +73,7 @@ If you find this repository useful, please consider STARing this list. Feel free
 
 
 ---
-## Largemodel
+## largemodel
 
 * **DriveLikeAHuman**: "Rethinking Autonomous Driving with Large Language Models", *CVPR, 2023*. [[Code](https://github.com/PJLab-ADG/DriveLikeAHuman)]
 
