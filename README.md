@@ -73,7 +73,7 @@ If you find this repository useful, please consider STARing this list. Feel free
 
 
 ---
-## end2end&LLM
+## end2endandLLM
 
 * **DriveLikeAHuman**: "Rethinking Autonomous Driving with Large Language Models", *CVPR, 2023*. [[Code](https://github.com/PJLab-ADG/DriveLikeAHuman)]
 
