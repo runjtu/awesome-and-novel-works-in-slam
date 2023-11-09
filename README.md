@@ -259,7 +259,7 @@ If you find this repository useful, please consider STARing this list. Feel free
 
 * **Yonsei Computational Intelligence Laboratory** [[Homepage](https://github.com/yonsei-cilab)]
 
-* **RPM SNU** [[Homepage](https://github.com/irapkaist)]
+* **SNU RPM** [[Homepage](https://github.com/irapkaist)]
 
 * **KAIST Urban Robotics Lab** [[Homepage](https://github.com/url-kaist)]
 
