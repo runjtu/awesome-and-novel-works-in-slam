@@ -13,6 +13,8 @@ If you find this repository useful, please consider STARing this list. Feel free
   - [novelcv](#novelcv)
   - [Largemodel](#largemodel)
   - [leaders](#leaders)
+  - [journals](#journals)
+  - [conferences](#conferences)
 
 ---
 
@@ -83,7 +85,7 @@ If you find this repository useful, please consider STARing this list. Feel free
 ----
 ## leaders
 
-# Industries and the off-campus
+### Industries and the off-campus
 
 * **NVlabs** [[Homepage](https://github.com/NVlabs)]
 
@@ -143,7 +145,7 @@ If you find this repository useful, please consider STARing this list. Feel free
 
 * **Toyota Research Institute Machine Learning** [[Homepage](https://github.com/TRI-ML)]
 
-# Europe 
+### Europe 
 
 * **Oxford Control Group** [[Homepage](https://github.com/oxfordcontrol)]
 
@@ -191,7 +193,7 @@ If you find this repository useful, please consider STARing this list. Feel free
 
 * **Poznan University of Technology Mobile Robots Lab** [[Homepage](https://github.com/LRMPUT)]
 
-# Notrh America
+### Notrh America
 
 * **Stanford Autonomous Systems Lab** [[Homepage](https://github.com/StanfordASL)]
 
@@ -253,7 +255,7 @@ If you find this repository useful, please consider STARing this list. Feel free
 
 * **École Polytechnique de Montréal Making Innovative Space Technology Lab** [[Homepage](https://github.com/MISTLab)]
   
-# Asia 
+### Asia 
 
 * **Yonsei Computational Intelligence Laboratory** [[Homepage](https://github.com/yonsei-cilab)]
 
@@ -324,7 +326,7 @@ If you find this repository useful, please consider STARing this list. Feel free
 * **Israel Autonomous Navigation and Sensor Fusion Lab** [[Homepage](https://github.com/ansfl)]
 
 
-# Journals
+## Journals
 
 * **RA-L IEEE Robotics and Automation Letters** [[Registeration](https://ras.papercept.net/journals/ral/scripts/login.pl)]
 
@@ -336,7 +338,7 @@ If you find this repository useful, please consider STARing this list. Feel free
 
 * **TITS IEEE Transactions on Intelligent Transportation Systems** [[Registeration](https://mc.manuscriptcentral.com/t-its)]
 
-# Conferences
+## Conferences
 
 * **Mar. RSS Robotics: Science and Systems** [[Registeration](https://roboticsconference.org/)]
   
