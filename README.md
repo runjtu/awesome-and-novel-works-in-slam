@@ -84,6 +84,14 @@ If you find this repository useful, please consider STARing this list. Feel free
 ----
 ## leaders
 
+* **NVlabs** [[Homepage](https://github.com/NVlabs)]
+
+* **NVIDIA Isaac** [[Homepage](https://github.com/nvidia-isaac)]
+
+* **AI4CE Lab @ NYU** [[Homepage](https://github.com/ai4ce)]
+
+* **wayveai** [[Homepage](https://github.com/wayveai)]
+
 * **Robotic-Systems-Lab** [[Homepage](https://github.com/leggedrobotics)]
 
 * **HKU-Mars-Lab** [[Homepage](https://github.com/hku-mars)]
