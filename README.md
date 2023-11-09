@@ -80,57 +80,86 @@ If you find this repository useful, please consider STARing this list. Feel free
 * **DriveLikeAHuman**: "Rethinking Autonomous Driving with Large Language Models", *CVPR, 2023*. [[Code](https://github.com/PJLab-ADG/DriveLikeAHuman)]
 
 
-
 ----
 ## leaders
 
-Industries
+# Industries and the off-campus
 
 * **NVlabs** [[Homepage](https://github.com/NVlabs)]
 
 * **NVIDIA Isaac** [[Homepage](https://github.com/nvidia-isaac)]
 
-* **nROS-Lab** [[Homepage](https://github.com/HITSZ-NRSL)]
+* **NVIDIA AI IOT** [[Homepage](https://github.com/NVIDIA-AI-IOT)]
 
-* **qcraftai** [[Homepage](https://github.com/qcraftai)]
+* **ROS-device-drivers** [[Homepage](https://github.com/ros-drivers)]
+
+* **dora-rs** [[Homepage](https://github.com/dora-rs)]
+
+* **Eclipse zenoh** [[Homepage](https://github.com/eclipse-zenoh)]
+
+* **ADLINK-ROS** [[Homepage](https://github.com/Adlink-ROS)]
+
+* **eProsima** [[Homepage](https://github.com/eProsima)]
+
+* **ANYbotics** [[Homepage](https://github.com/ANYbotics)]
+
+* **Idiap Research Institute** [[Homepage](https://github.com/idiap)]
+
+* **Waymo Research** [[Homepage](https://github.com/waymo-research)]
+
+* **Bosch Research** [[Homepage](https://github.com/boschresearch)]
 
 * **Motional** [[Homepage](https://github.com/nutonomy)]
 
 * **valeo.ai** [[Homepage](https://github.com/valeoai)]
 
+* **wayveai** [[Homepage](https://github.com/wayveai)]
+
+* **Foxglove** [[Homepage](https://github.com/foxglove)]
+
+* **Udacity** [[Homepage](https://github.com/udacity)]
+
 * **livox** [[Homepage](https://github.com/Livox-SDK)]
-
-* **ROS-device-drivers** [[Homepage](https://github.com/ros-drivers)]
-
-* **Open Robotics** [[Homepage](https://github.com/osrf)]
 
 * **ADG@PJLab** [[Homepage](https://github.com/PJLab-ADG)]
 
-Europe 
+* **OpenDriveLab** [[Homepage](https://github.com/OpenDriveLab)]
 
-* **University of Tübingen** [[Homepage](https://github.com/autonomousvision)]
+* **Alibaba AD Lab** [[Homepage](https://github.com/ADLab-AutoDrive)]
 
-* **University of Oxford Control Group** [[Homepage](https://github.com/oxfordcontrol)]
+* **Sense-GVT** [[Homepage](https://github.com/Sense-GVT)]
 
-* **wayveai** [[Homepage](https://github.com/wayveai)]
+* **Megvii Robot** [[Homepage](https://github.com/MegviiRobot)]
 
-* **ETH Robotic Systems Lab** [[Homepage](https://github.com/leggedrobotics)]
+* **Megvii Research** [[Homepage](https://github.com/megvii-research)]
 
-* **NMBURobotics** [[Homepage](https://github.com/NMBURobotics)]
+* **Baidu Apollo Auto** [[Homepage](https://github.com/ApolloAuto)]
 
-* **BORG Lab** [[Homepage](https://github.com/borglab)]
+* **qcraftai** [[Homepage](https://github.com/qcraftai)]
 
-* **Photogrammetry-Robotics-Bonn** [[Homepage](https://github.com/PRBonn)]
+* **haomoai** [[Homepage](https://github.com/haomo-ai)]
 
-* **ETHZ-ASL** [[Homepage](https://github.com/ethz-asl)]
+* **HUAWEI Noah's Ark Lab** [[Homepage](https://github.com/huawei-noah)]
 
-* **Visual Intelligence and Systems Group at ETH Zürich** [[Homepage](https://github.com/SysCV)]
+* **Toyota Research Institute Machine Learning** [[Homepage](https://github.com/TRI-ML)]
+
+# Europe 
+
+* **Oxford Control Group** [[Homepage](https://github.com/oxfordcontrol)]
 
 * **Oxford Dynamic Robot Systems Group** [[Homepage](https://github.com/ori-drs)]
+  
+* **ETHZ Robotic Systems Lab** [[Homepage](https://github.com/leggedrobotics)]
 
-* **TIERS** [[Homepage](https://github.com/TIERS)]
+* **ETHZ Autonomous Systems Lab** [[Homepage](https://github.com/ethz-asl)]
 
-* **ANYbotics** [[Homepage](https://github.com/ANYbotics)]
+* **ETHZ Computer-Vision-and-Geometry-Lab** [[Homepage](https://github.com/cvg)]
+
+* **ETHZ Visual Intelligence and Systems Group** [[Homepage](https://github.com/SysCV)]
+
+* **ETHZ University of Cyprus Vision for Robotics Lab** [[Homepage](https://github.com/VIS4ROB-lab)]
+
+* **EPFL CV LAB** [[Homepage](https://github.com/cvlab-epfl)]
 
 * **TUM-Institue-of-Auotomative-Technology** [[Homepage](https://github.com/TUMFTM)]
 
@@ -138,60 +167,194 @@ Europe
 
 * **TUM Smart Robotics Lab** [[Homepage](https://github.com/smartroboticslab)]
 
+* **Heidelberg Computer Vision and Learning Lab** [[Homepage](https://github.com/vislearn)]
+
 * **UFR Robot Learning** [[Homepage](https://github.com/robot-learning-freiburg)]
+  
+* **University of Tübingen** [[Homepage](https://github.com/autonomousvision)]
+  
+* **Bonn Photogrammetry Robotics** [[Homepage](https://github.com/PRBonn)]
+  
+* **Karlsruhe Institute of Technology Institute of Measurement and Control Systems** [[Homepage](https://github.com/KIT-MRT)]
 
-* **Institute of Measurement and Control Systems at the Karlsruhe Institute of Technology** [[Homepage](https://github.com/KIT-MRT)]
+* **RWTH Aachen Institute of Automatic Control** [[Homepage](https://github.com/rwth-irt)]
 
-* **Institute of Automatic Control RWTH Aachen University** [[Homepage](https://github.com/rwth-irt)]
+* **RWTH Aachen Institut für Kraftfahrzeuge ika** [[Homepage](https://github.com/ika-rwth-aachen)]
 
-* **Computer-Vision-and-Geometry-Lab** [[Homepage](https://github.com/cvg)]
+* **KTH Robotics Perception and Learning** [[Homepage](https://github.com/KTH-RPL)]
 
-America
+* **University of Turku Turku Intelligent Embedded and Robotic Systems Lab** [[Homepage](https://github.com/TIERS)]
+
+* **NMBU Robotics** [[Homepage](https://github.com/NMBURobotics)]
+
+* **TU Delft 3D geoinformation research group** [[Homepage](https://github.com/tudelft3d)]
+
+* **Poznan University of Technology Mobile Robots Lab** [[Homepage](https://github.com/LRMPUT)]
+
+# Notrh America
+
+* **Stanford Autonomous Systems Lab** [[Homepage](https://github.com/StanfordASL)]
+
+* **Stanford Robotics Embodied Artificial Intelligence Lab REAL** [[Homepage](https://github.com/real-stanford)]
+
+* **Stanford Vision and Learning Lab** [[Homepage](https://github.com/StanfordVL)]
+
+* **Stanford Computational Vision and Geometry Lab** [[Homepage](https://github.com/cvgl)]
+
+* **Stanford Center for Research on Foundation Models** [[Homepage](https://github.com/stanford-crfm)]
 
 * **MIT-SPARKs** [[Homepage](https://github.com/MIT-SPARK)]
 
-* **Virginia Tech Transportation Institute** [[Homepage](https://github.com/VTTI)]
+* **MIT Driverless Perception Team** [[Homepage](https://github.com/cv-core)]
 
-* **OpenDriveLab** [[Homepage](https://github.com/OpenDriveLab)]
+* **MIT CSAIL Computer Vision** [[Homepage](https://github.com/CSAILVision)]
 
-* **Open Source software from the AirLab (Robotics Institute, Carnegie Mellon University)** [[Homepage](https://github.com/castacks)]
+* **MIT HAN Lab** [[Homepage](https://github.com/mit-han-lab)]
 
-* **princeton-computational-imaging** [[Homepage](https://github.com/princeton-computational-imaging)]
+* **CMU Robotics Institute AirLab** [[Homepage](https://github.com/castacks)]
+
+* **CMU Robotic Exploration Lab** [[Homepage](https://github.com/RoboticExplorationLab)]
+
+* **Princeton Computational Imaging** [[Homepage](https://github.com/princeton-computational-imaging)]
+
+* **UPenn Perception Action Learning Group** [[Homepage](https://github.com/penn-pal-lab)]
+
+* **UPenn Perception Action Learning Group** [[Homepage](https://github.com/penn-pal-lab)]
+
+* **UCB Model Predictive Control Laboratory** [[Homepage](https://github.com/MPC-Berkeley)]
+  
+* **UCLA Verifiable & Control-Theoretic Robotics Laboratory** [[Homepage](https://github.com/vectr-ucla)]
+
+* **UCLA Mobility Lab** [[Homepage](https://github.com/ucla-mobility)]
 
 * **UCSD Existential Robotics Lab** [[Homepage](https://github.com/ExistentialRobotics)]
 
-* **Umich The Autonomous Robotic Manipulation Lab studies motion planning, manipulation, and human-robot collaboration** [[Homepage](https://github.com/UM-ARM-Lab)]
+* **Umich Ford Center for Autonomous Vehicles FCAV** [[Homepage](https://github.com/umautobots)]
 
-* **University of Michigan Dynamic Legged Locomotion Robotics Lab** [[Homepage](https://github.com/UMich-BipedLab)]
+* **Umich The Autonomous Robotic Manipulation Lab studies motion planning manipulation human-robot collaboration** [[Homepage](https://github.com/UM-ARM-Lab)]
 
-* **CL2-UWaterloo** [[Homepage](https://github.com/CL2-UWaterloo)]
+* **Umich Dynamic Legged Locomotion Robotics Lab** [[Homepage](https://github.com/UMich-BipedLab)]
 
-* **AI4CE Lab @ NYU** [[Homepage](https://github.com/ai4ce)]
+* **NYU AI4CE Lab** [[Homepage](https://github.com/ai4ce)]
 
-* **University of British Columbia Computer Vision Group** [[Homepage](https://github.com/ubc-vision)]
+* **GaTech BORG Lab** [[Homepage](https://github.com/borglab)]
 
-Asia
+* **GaTech Intelligent Vision and Automation Laboratory IVA Lab** [[Homepage](https://github.com/ivalab)]
 
+* **Texas Austin Autonomous Mobile Robotics Laboratory** [[Homepage](https://github.com/ut-amrl)]
+
+* **University of Delaware Robot Perception Navigation Group RPNG** [[Homepage](https://github.com/rpng)]
+
+* **Virginia Tech Transportation Institute** [[Homepage](https://github.com/VTTI)]
+
+* **UWaterloo CL2** [[Homepage](https://github.com/CL2-UWaterloo)]
+
+* **UBC Computer Vision Group** [[Homepage](https://github.com/ubc-vision)]
+
+* **École Polytechnique de Montréal Making Innovative Space Technology Lab** [[Homepage](https://github.com/MISTLab)]
+  
+# Asia 
+
+* **Yonsei Computational Intelligence Laboratory** [[Homepage](https://github.com/yonsei-cilab)]
+
+* **RPM SNU** [[Homepage](https://github.com/irapkaist)]
+
+* **KAIST Urban Robotics Lab** [[Homepage](https://github.com/url-kaist)]
+
+* **KAIST Cognitive Learning for Vision and Robotics CLVR lab** [[Homepage](https://github.com/clvrai)]
+  
 * **Japan National Institute of Advanced Industrial Science and Technology** [[Homepage](https://github.com/SMRT-AIST)]
 
-* **ZJU Advanced-Perception-on-Robotics-and-Intelligent-Learning-Lab** [[Homepage](https://github.com/APRIL-ZJU)]
+* **Japan Nagoya** [[Homepage](https://github.com/MapIV)]
 
-* **ZJU 3DV** [[Homepage](https://github.com/zju3dv)]
+* **CUHK OpenMMLab** [[Homepage](https://github.com/open-mmlab)]
 
 * **HKU Mars Lab** [[Homepage](https://github.com/hku-mars)]
 
-* **Visual Learning and Reasoning Group HK PolyU** [[Homepage](https://github.com/vLAR-group)]
+* **City University of Hong Kong MetaSLAM** [[Homepage](https://github.com/MetaSLAM)]
 
-* **Audio Signal and Information Processing Lab at Westlake University** [[Homepage](https://github.com/Audio-WestlakeU)]
+* **HK PolyU Visual Learning and Reasoning Group** [[Homepage](https://github.com/vLAR-group)]
+
+* **NTNU Autonomous Robots Lab** [[Homepage](https://github.com/ntnu-arl)]
+
+* **Tsinghua IIIS MARS Lab** [[Homepage](https://github.com/Tsinghua-MARS-Lab)]
+
+* **Tsinghua Institute for AI Industry Research** [[Homepage](https://github.com/AIR-THU)]
+
+* **SJTU Vision and Intelligent System Group** [[Homepage](https://github.com/SJTU-ViSYS)]
+
+* **SJTU Intelligent Robotics and Machine Vision Lab** [[Homepage](https://github.com/IRMVLab)]
+
+* **ZJU Advanced-Perception-on-Robotics-and-Intelligent-Learning-Lab** [[Homepage](https://github.com/APRIL-ZJU)]
+
+* **ZJU CAD CG** [[Homepage](https://github.com/zju3dv)]
+
+* **ZJU Advanced Intelligent Machines AIM** [[Homepage](https://github.com/zju3dv)]
+
+* **ZJU Robotics Lab** [[Homepage](https://github.com/aim-uofa)]
+
+* **ZJU FAST Lab** [[Homepage](https://github.com/ZJU-FAST-Lab)]
+
+* **Fudan Zhang Vision Group** [[Homepage](https://github.com/fudan-zvg)]
+
+* **Tongji Intelligent Electric Vehicle Research Group** [[Homepage](https://github.com/tiev-tongji)]
+
+* **Tongji Intelligent Sensing Perception and Computing Group** [[Homepage](https://github.com/ispc-lab/)]
+
+* **NUDT NuBot** [[Homepage](https://github.com/nubot-nudt)]
+
+* **HUST EIC Vision Lab** [[Homepage](https://github.com/hustvl)]
+
+* **HITSZ nROS-Lab** [[Homepage](https://github.com/HITSZ-NRSL)]
+
+* **Westlake University Audio Signal and Information Processing Lab** [[Homepage](https://github.com/Audio-WestlakeU)]
 
 * **Wuhan University Urban Spatial Intelligence Research Group at LIESMARS** [[Homepage](https://github.com/WHU-USI3DV)]
 
-* **Integrated and Intelligent Navigation Group, Wuhan University** [[Homepage](https://github.com/i2Nav-WHU)]
+* **Wuhan University Integrated and Intelligent Navigation Group** [[Homepage](https://github.com/i2Nav-WHU)]
 
-* **SYSU-RAPID-Lab** [[Homepage](https://github.com/SYSU-RoboticsLab)]
+* **SYSU STAR Smart Aerial Robotics Group** [[Homepage](https://github.com/SYSU-STAR)]
+
+* **SYSU RAPID Lab** [[Homepage](https://github.com/SYSU-RoboticsLab)]
 
 * **SYSU Pengyu Team** [[Homepage](https://github.com/PengYu-Team)]
 
 * **ShanghaiTech Vision and Intelligent Perception Lab** [[Homepage](https://github.com/svip-lab)]
+
+* **Israel Autonomous Navigation and Sensor Fusion Lab** [[Homepage](https://github.com/ansfl)]
+
+
+# Journals
+
+* **RA-L IEEE Robotics and Automation Letters** [[Registeration](https://ras.papercept.net/journals/ral/scripts/login.pl)]
+
+* **TVT IEEE Transactions on Vehicular Technology** [[Registeration](https://mc.manuscriptcentral.com/tvt-ieee/)]
+
+* **TRO IEEE Transactions on Robotics** [[Registeration](https://ras.papercept.net/journals/tro/scripts/login.pl)]
+
+* **IJRR International Journal of Robotics Research** [[Registeration](https://mc.manuscriptcentral.com/ijrr)]
+
+* **TITS IEEE Transactions on Intelligent Transportation Systems** [[Registeration](https://mc.manuscriptcentral.com/t-its)]
+
+# Conferences
+
+* **Mar. RSS Robotics: Science and Systems** [[Registeration](https://roboticsconference.org/)]
+  
+* **Nov. CVPR IEEE Conference on Computer Vision and Pattern Recognition** [[Registeration](https://cvpr.thecvf.com/)]
+
+* **Sept. ICRA IEEE International Conference on Robotics and Automation** [[Registeration](https://2024.ieee-icra.org/)]
+
+* **Mar. IROS IEEE/RSJ lnternational Conference onlntelligent Robots and Systems** [[Registeration](https://ieee-iros.org/)]
+
+* **Mar. ICCV International Conference on Computer Vision** [[Registeration](https://iccv2023.thecvf.com/)]
+
+* **Mar. ECCV European Conference on Computer Vision** [[Registeration](https://www.ecva.net/index.php#conferences)]
+
+* **Jan. SIGGRAPH Special Interest Group for Computer GRAPHICS** [[Registeration](https://s2023.siggraph.org/)]
+
+* **Jul. CoRL Conference on Robot Learning** [[Registeration](https://www.corl2023.org/)]
+
+* **Sept. ICLR International Conference on Learning Representations** [[Registeration](https://iclr.cc/)]
+
 
 ----
