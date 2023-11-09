@@ -84,54 +84,114 @@ If you find this repository useful, please consider STARing this list. Feel free
 ----
 ## leaders
 
+Industries
+
 * **NVlabs** [[Homepage](https://github.com/NVlabs)]
 
 * **NVIDIA Isaac** [[Homepage](https://github.com/nvidia-isaac)]
 
-* **AI4CE Lab @ NYU** [[Homepage](https://github.com/ai4ce)]
+* **nROS-Lab** [[Homepage](https://github.com/HITSZ-NRSL)]
+
+* **qcraftai** [[Homepage](https://github.com/qcraftai)]
+
+* **Motional** [[Homepage](https://github.com/nutonomy)]
+
+* **valeo.ai** [[Homepage](https://github.com/valeoai)]
+
+* **livox** [[Homepage](https://github.com/Livox-SDK)]
+
+* **ROS-device-drivers** [[Homepage](https://github.com/ros-drivers)]
+
+* **Open Robotics** [[Homepage](https://github.com/osrf)]
+
+* **ADG@PJLab** [[Homepage](https://github.com/PJLab-ADG)]
+
+Europe 
+
+* **University of Tübingen** [[Homepage](https://github.com/autonomousvision)]
+
+* **University of Oxford Control Group** [[Homepage](https://github.com/oxfordcontrol)]
 
 * **wayveai** [[Homepage](https://github.com/wayveai)]
 
-* **Robotic-Systems-Lab** [[Homepage](https://github.com/leggedrobotics)]
+* **ETH Robotic Systems Lab** [[Homepage](https://github.com/leggedrobotics)]
 
-* **HKU-Mars-Lab** [[Homepage](https://github.com/hku-mars)]
+* **NMBURobotics** [[Homepage](https://github.com/NMBURobotics)]
 
-* **BORG-Lab** [[Homepage](https://github.com/borglab)]
+* **BORG Lab** [[Homepage](https://github.com/borglab)]
 
 * **Photogrammetry-Robotics-Bonn** [[Homepage](https://github.com/PRBonn)]
 
 * **ETHZ-ASL** [[Homepage](https://github.com/ethz-asl)]
 
-* **MIT-SPARKs** [[Homepage](https://github.com/MIT-SPARK)]
+* **Visual Intelligence and Systems Group at ETH Zürich** [[Homepage](https://github.com/SysCV)]
+
+* **Oxford Dynamic Robot Systems Group** [[Homepage](https://github.com/ori-drs)]
 
 * **TIERS** [[Homepage](https://github.com/TIERS)]
 
 * **ANYbotics** [[Homepage](https://github.com/ANYbotics)]
 
-* **OpenDriveLab** [[Homepage](https://github.com/OpenDriveLab)]
-
-* **nROS-Lab** [[Homepage](https://github.com/HITSZ-NRSL)]
-
-* **princeton-computational-imaging** [[Homepage](https://github.com/princeton-computational-imaging)]
-
-* **CL2-UWaterloo** [[Homepage](https://github.com/CL2-UWaterloo)]
-
-* **ADG@PJLab** [[Homepage](https://github.com/PJLab-ADG)]
-
-* **SYSU-RAPID-Lab** [[Homepage](https://github.com/SYSU-RoboticsLab)]
-
 * **TUM-Institue-of-Auotomative-Technology** [[Homepage](https://github.com/TUMFTM)]
 
 * **TUM-Computer-Vision-Group** [[Homepage](https://github.com/tum-vision)]
 
+* **TUM Smart Robotics Lab** [[Homepage](https://github.com/smartroboticslab)]
+
+* **UFR Robot Learning** [[Homepage](https://github.com/robot-learning-freiburg)]
+
+* **Institute of Measurement and Control Systems at the Karlsruhe Institute of Technology** [[Homepage](https://github.com/KIT-MRT)]
+
+* **Institute of Automatic Control RWTH Aachen University** [[Homepage](https://github.com/rwth-irt)]
+
 * **Computer-Vision-and-Geometry-Lab** [[Homepage](https://github.com/cvg)]
 
-* **Advanced-Perception-on-Robotics-and-Intelligent-Learning-Lab** [[Homepage](https://github.com/APRIL-ZJU)]
+America
 
-* **ZJU3DV** [[Homepage](https://github.com/zju3dv)]
+* **MIT-SPARKs** [[Homepage](https://github.com/MIT-SPARK)]
 
-* **livox** [[Homepage](https://github.com/Livox-SDK)]
+* **Virginia Tech Transportation Institute** [[Homepage](https://github.com/VTTI)]
 
-* **ROS-device-drivers** [[Homepage](https://github.com/ros-drivers)]
+* **OpenDriveLab** [[Homepage](https://github.com/OpenDriveLab)]
+
+* **Open Source software from the AirLab (Robotics Institute, Carnegie Mellon University)** [[Homepage](https://github.com/castacks)]
+
+* **princeton-computational-imaging** [[Homepage](https://github.com/princeton-computational-imaging)]
+
+* **UCSD Existential Robotics Lab** [[Homepage](https://github.com/ExistentialRobotics)]
+
+* **Umich The Autonomous Robotic Manipulation Lab studies motion planning, manipulation, and human-robot collaboration** [[Homepage](https://github.com/UM-ARM-Lab)]
+
+* **University of Michigan Dynamic Legged Locomotion Robotics Lab** [[Homepage](https://github.com/UMich-BipedLab)]
+
+* **CL2-UWaterloo** [[Homepage](https://github.com/CL2-UWaterloo)]
+
+* **AI4CE Lab @ NYU** [[Homepage](https://github.com/ai4ce)]
+
+* **University of British Columbia Computer Vision Group** [[Homepage](https://github.com/ubc-vision)]
+
+Asia
+
+* **Japan National Institute of Advanced Industrial Science and Technology** [[Homepage](https://github.com/SMRT-AIST)]
+
+* **ZJU Advanced-Perception-on-Robotics-and-Intelligent-Learning-Lab** [[Homepage](https://github.com/APRIL-ZJU)]
+
+* **ZJU 3DV** [[Homepage](https://github.com/zju3dv)]
+
+* **HKU Mars Lab** [[Homepage](https://github.com/hku-mars)]
+
+* **Visual Learning and Reasoning Group HK PolyU** [[Homepage](https://github.com/vLAR-group)]
+
+* **Audio Signal and Information Processing Lab at Westlake University** [[Homepage](https://github.com/Audio-WestlakeU)]
+
+* **Wuhan University Urban Spatial Intelligence Research Group at LIESMARS** [[Homepage](https://github.com/WHU-USI3DV)]
+
+* **Integrated and Intelligent Navigation Group, Wuhan University** [[Homepage](https://github.com/i2Nav-WHU)]
+
+* **SYSU-RAPID-Lab** [[Homepage](https://github.com/SYSU-RoboticsLab)]
+
+* **SYSU Pengyu Team** [[Homepage](https://github.com/PengYu-Team)]
+
+* **ShanghaiTech Vision and Intelligent Perception Lab** [[Homepage](https://github.com/svip-lab)]
 
 ----
