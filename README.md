@@ -7,7 +7,7 @@ If you find this repository useful, please consider STARing this list. Feel free
 ---
 ## Overview
 
-  - [NeRF](#nerf)
+  - [NeRF && 3DGS](#NeRF && 3DGS)
   - [v2x](#v2x)
   - [Semantic](#semantic)
   - [novelcv](#novelcv)
@@ -16,6 +16,7 @@ If you find this repository useful, please consider STARing this list. Feel free
   - [journals](#journals)
   - [conferences](#conferences)
   - [Datasets](#Datasets)
+  - [Chanllenge && Competition Solutions](#Chanllenge && Competition Solutions)
   - [Tools](#Tools)
   - [Sim](#Sim)
   - [WhySDMap](#WhySDMap)
@@ -378,38 +379,57 @@ If you find this repository useful, please consider STARing this list. Feel free
 ## Datasets
 
 
-* **NCLT**
-* **New College**
-* **Mulran**
-* **KITTI**
-* **Argoverse**
-* **Onpenlanev2**
-* **M2DGR**
-   
+* **NCLT** [[Homepage](http://robots.engin.umich.edu/nclt/)]
+* **Newer College** [[Homepage](https://ori-drs.github.io/newer-college-dataset/)]
+* **Mulran** [[Homepage](https://sites.google.com/view/mulran-pr/dataset)]
+* **KITTI** [[Homepage](https://www.cvlibs.net/datasets/kitti/)]
+* **Argoverse** [[Homepage](https://www.argoverse.org/)]
+* **Onpenlanev2** [[Homepage](https://github.com/OpenDriveLab/OpenLane-V2)]
+* **M2DGR** [[Homepage](https://github.com/SJTU-ViSYS/M2DGR)]
+* **SubT** [[Homepage](https://www.openrobotics.org/blog/2022/2/3/open-robotics-and-the-darpa-subterranean-challenge)]
+
+
+## Chanllenge && Competition Solutions
 ----
 ## Tools
 
-* **g2o**
-* **ceres**
-   
+* **g2o** [[Link](https://github.com/RainerKuemmerle/g2o)]
+* **ceres** [[Link](https://github.com/ceres-solver/ceres-solver)]
+* **iSAM** [[Link](https://github.com/ori-drs/isam)]
+
 ----
 
-## Sim
+## Sim (experienced software, not toys from paper)
 
+* **AAI** [[Sim now](https://www.automotive-ai.com/)]
 * **Airsim** [[Sim now](https://github.com/microsoft/AirSim)]
-* **aiSim**
-* **Apollo**   
-* **CARLA**   
-* **Cognata**
-* **NVDIA Drive Sim**
-* **NVDIA Issac Sim**
-* **OnSite**
-* **rFpro**
-* **RoadRunner**
-* **VTD**
-* **Vires**
+* **aiSim** [[Sim now](https://aimotive.com/aisim)]
+* **Apollo** [[Sim now](https://github.com/ApolloAuto/apollo)]
+* **CARLA** [[Sim now](https://github.com/carla-simulator/carla)]
+* **CarMaker** [[Sim now](https://www.ipg-automotive.com/en/products-solutions/software/carmaker/)]
+* **CarSim** [[Sim now](https://www.carsim.com/products/carsim/index.php)]
+* **Cognata** [[Sim now](https://www.cognata.com/)]
+* **ESI Pro-Sivic** [[Sim now](https://myesi.esi-group.com/downloads/software-downloads/pro-sivic-2021.0)]
+* **Metamoto** [[Sim now](https://velodynelidar.com/automated-with-velodyne/metamoto/)]
+* **NVDIA Drive Sim** [[Sim now](https://developer.nvidia.com/drive/simulation)]
+* **NVDIA Isaac Sim** [[Sim now](https://developer.nvidia.cn/isaac/sim)]
+* **OnSite** [[Sim now](https://www.onsite.com.cn/#/dist/home)]
+* **PanoSim** [[Sim now](https://www.panosim.com/)]
+* **ParallelDomain** [[Sim now](https://paralleldomain.com/)]
+* **Pilot-D GaiA** [[Sim now](http://www.pd-automotive.com/pc/#/)]
+* **PreScan** [[Sim now](https://plm.sw.siemens.com/en-US/simcenter/autonomous-vehicle-solutions/prescan/)]
+* **rFpro** [[Sim now](https://ww2.mathworks.cn/products/connections/product_detail/rfpro.html)]
+* **RightHook** [[Sim now](https://github.com/righthook)]
+* **RoadRunner** [[Sim now](https://ww2.mathworks.cn/products/roadrunner.html)]
+* **SCANeR** [[Sim now](https://www.avsimulation.com/scaner/)]
+* **SILAB** [[Sim now](https://wivw.de/en/silab)]
+* **TruckMaker** [[Sim now](https://www.ipg-automotive.com/en/products-solutions/software/truckmaker/)]
+* **Vires VTD** [[Sim now](https://hexagon.com/products/virtual-test-drive?utm_easyredir=vires.mscsoftware.com)]
+* **VI Worldsim** [[Sim now](https://www.vi-grade.com/en/products/vi-worldsim/)]
+* **ZJL-VTS** [[Sim now](https://www.onsite.com.cn/#/dist/endToEndTestTool)]
+* **51Sim-one** [[Sim now](https://www.51sim.com/products/simone)]
 
-   
+
 ----
 ## WhySDMap
    For autonomous driving vechile and outdoor robotics
