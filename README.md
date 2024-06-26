@@ -15,10 +15,12 @@ If you find this repository useful, please consider STARing this list. Feel free
   - [leaders](#leaders)
   - [journals](#journals)
   - [conferences](#conferences)
-
+  - [WhySDMap](#WhySDMap)
+  - [Why3DGS](#Why3DGS)
+  - [WhyTraversability](#WhyTraversability)
 ---
 
-## NeRF
+## NeRF && 3DGS
 * **Gaussian Splatting**: "3D Gaussian Splatting for Real-Time Radiance Field Rendering", *ACM Transactions on Graphics 2023*.  [[Paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)] [[Code](https://github.com/graphdeco-inria/gaussian-splatting)]
 
 * **Neural-Sim**: "Learning to Generate Training Data with NeRF", *ECCV 2022*.  [[Paper](https://arxiv.org/pdf/2207.11368.pdf)] [[Code](https://github.com/gyhandy/Neural-Sim-NeRF)] [[Webpage](https://fylwen.github.io/disp6d.html)]
@@ -360,3 +362,8 @@ If you find this repository useful, please consider STARing this list. Feel free
 
 
 ----
+## WhySDMap
+
+## Why3DGS
+
+## WhyTraversability
