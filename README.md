@@ -15,8 +15,10 @@ If you find this repository useful, please consider STARing this list. Feel free
   - [leaders](#leaders)
   - [journals](#journals)
   - [conferences](#conferences)
+  - [Datasets](#Datasets)
+  - [Tools](#Tools)
+  - [Sim](#Sim)
   - [WhySDMap](#WhySDMap)
-  - [Why3DGS](#Why3DGS)
   - [WhyTraversability](#WhyTraversability)
 ---
 
@@ -251,6 +253,8 @@ If you find this repository useful, please consider STARing this list. Feel free
 
 * **Virginia Tech Transportation Institute** [[Homepage](https://github.com/VTTI)]
 
+* **SIT Robust Field Autonomy Lab** [[Homepage](https://github.com/RobustFieldAutonomyLab)]
+
 * **UWaterloo CL2** [[Homepage](https://github.com/CL2-UWaterloo)]
 
 * **UBC Computer Vision Group** [[Homepage](https://github.com/ubc-vision)]
@@ -272,6 +276,8 @@ If you find this repository useful, please consider STARing this list. Feel free
 * **Japan Nagoya** [[Homepage](https://github.com/MapIV)]
 
 * **CUHK OpenMMLab** [[Homepage](https://github.com/open-mmlab)]
+
+* **HKUST Aerial Robotics Group** [[Homepage](https://github.com/HKUST-Aerial-Robotics)]
 
 * **HKU Mars Lab** [[Homepage](https://github.com/hku-mars)]
 
@@ -317,6 +323,8 @@ If you find this repository useful, please consider STARing this list. Feel free
 
 * **Wuhan University Integrated and Intelligent Navigation Group** [[Homepage](https://github.com/i2Nav-WHU)]
 
+* **WHU GREAT (GNSS+ Research, Application and Teaching) group** [[Homepage](https://github.com/GREAT-WHU)]
+
 * **SYSU STAR Smart Aerial Robotics Group** [[Homepage](https://github.com/SYSU-STAR)]
 
 * **SYSU RAPID Lab** [[Homepage](https://github.com/SYSU-RoboticsLab)]
@@ -340,6 +348,10 @@ If you find this repository useful, please consider STARing this list. Feel free
 
 * **TITS IEEE Transactions on Intelligent Transportation Systems** [[Registeration](https://mc.manuscriptcentral.com/t-its)]
 
+* **TIV IEEE Transactions on Intelligent Vehicles** [[Registeration](https://mc.manuscriptcentral.com/t-iv)]
+
+* **Science Robotics** [[Registeration](https://www.science.org/journal/scirobotics)]
+
 ## Conferences
 
 * **Mar. RSS Robotics: Science and Systems** [[Registeration](https://roboticsconference.org/)]
@@ -362,8 +374,48 @@ If you find this repository useful, please consider STARing this list. Feel free
 
 
 ----
+
+## Datasets
+
+
+   NCLT
+   New College
+   Mulran
+   KITTI
+   Argoverse
+   Onpenlanev2
+   M2DGR
+   
+----
+## Tools
+
+   g2o
+   ceres
+   
+----
+
+## Sim
+
+   * **Airsim** [[Sim now](https://github.com/microsoft/AirSim)]
+   aiSim
+   Apollo   
+   CARLA   
+   Cognata
+   NVDIA Drive Sim
+   NVDIA Issac Sim
+   OnSite
+   rFpro
+   RoadRunner
+   VTD
+   Vires
+
+   
+----
 ## WhySDMap
-
-## Why3DGS
-
+   For autonomous driving vechile and outdoor robotics
+   
+----
 ## WhyTraversability
+   For all terrain navigation
+   
+----
