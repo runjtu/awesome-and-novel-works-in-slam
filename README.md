@@ -378,36 +378,36 @@ If you find this repository useful, please consider STARing this list. Feel free
 ## Datasets
 
 
-   NCLT
-   New College
-   Mulran
-   KITTI
-   Argoverse
-   Onpenlanev2
-   M2DGR
+* **NCLT**
+* **New College**
+* **Mulran**
+* **KITTI**
+* **Argoverse**
+* **Onpenlanev2**
+* **M2DGR**
    
 ----
 ## Tools
 
-   g2o
-   ceres
+* **g2o**
+* **ceres**
    
 ----
 
 ## Sim
 
-   * **Airsim** [[Sim now](https://github.com/microsoft/AirSim)]
-   aiSim
-   Apollo   
-   CARLA   
-   Cognata
-   NVDIA Drive Sim
-   NVDIA Issac Sim
-   OnSite
-   rFpro
-   RoadRunner
-   VTD
-   Vires
+* **Airsim** [[Sim now](https://github.com/microsoft/AirSim)]
+* **aiSim**
+* **Apollo**   
+* **CARLA**   
+* **Cognata**
+* **NVDIA Drive Sim**
+* **NVDIA Issac Sim**
+* **OnSite**
+* **rFpro**
+* **RoadRunner**
+* **VTD**
+* **Vires**
 
    
 ----
