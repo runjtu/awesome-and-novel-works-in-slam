@@ -47,7 +47,6 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 
 * **LATITUDE**: Robotic Global Localization with Truncated Dynamic Low-pass Filter in City-scale NeRF, *ICRA,  2023*. [[Paper](https://arxiv.org/pdf/2209.09357.pdf)] [[Code](https://github.com/jike5/LATITUDE)]
 
-
 * **NeuSE**: "Neural SE(3)-Equivariant Embedding for Consistent Spatial Understanding with Objects", *arXiv*. [[Paper](https://arxiv.org/pdf/2303.07308.pdf)] [[Code](https://neuse-slam.github.io/neuse/)]
 
 * **ObjectFusion**: "Accurate object-level SLAM with neural object priors", *Graphical Models,  2022*. [[Paper](https://www.sciencedirect.com/science/article/pii/S1524070322000418)]
@@ -234,7 +233,7 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 
 * **UPenn Perception Action Learning Group** [[Homepage](https://github.com/penn-pal-lab)]
 
-* **UPenn Perception Action Learning Group** [[Homepage](https://github.com/penn-pal-lab)]
+* **UPenn Kumar Robotics** [[Homepage](https://github.com/KumarRobotics)]
 
 * **UCB Model Predictive Control Laboratory** [[Homepage](https://github.com/MPC-Berkeley)]
   
