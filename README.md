@@ -16,7 +16,7 @@ If you find this repository useful, please consider STARing this list. Feel free
   - [journals](#journals)
   - [conferences](#conferences)
   - [Datasets](#Datasets)
-  - [Chanllenge && Competition Solutions](#Chanllenge && Competition Solutions)
+  - [Chanllenge && Competition Solutions](#Chanllenge&&CompetitionSolutions)
   - [Tools](#Tools)
   - [Sim](#Sim)
   - [WhySDMap](#WhySDMap)
