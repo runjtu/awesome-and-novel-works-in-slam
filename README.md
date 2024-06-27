@@ -22,6 +22,7 @@ If you find this repository useful, please consider STARing this list. Feel free
   - [Tools](#Tools)
   - [Sim](#Sim)
   - [BuySensors](#BuySensors)
+  - [FindIntern](#FindIntern)
   - [WhySDMap](#WhySDMap)
   - [WhyTraversability](#WhyTraversability)
   - [WhyLongTerm](#WhyLongTerm)
@@ -395,7 +396,7 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 * **M2DGR** [[Homepage](https://github.com/SJTU-ViSYS/M2DGR)]
 * **SubT** [[Homepage](https://www.openrobotics.org/blog/2022/2/3/open-robotics-and-the-darpa-subterranean-challenge)]
 * **R3LIVE** [[Homepage](https://github.com/ziv-lin/r3live_dataset)]
-
+* **Rubble** [[Homepage](https://meganerf.cmusatyalab.org/)]
 
 
 ## Competition
@@ -470,6 +471,20 @@ Calibration:
    Multi-sensors:RGB, RGBD, Infrared, Polarization, Event-based(Future), Motion, Capture(GT), 2D Spinning LiDAR, 3D Spinning LiDAR, 3D Solid-State LiDAR, 4D High Resolution Radar(Future), mmWave Radar, UWB, RTK(GT), Wheel Odom, IMU, Ultrasonic Sensor.
    
 ----
+
+## FindIntern
+
+   For bridging college and society, mainly base in Shanghai, Beijing, Hangzhou, Suzhou, Guangzhou, Shenzhen, HongKong
+
+   Shanghai: AI Lab, DiDi, Horizon, Li, BOSCH
+
+   Beijing: Xiaomi, Baidu, 
+
+   Hangzhou: Unitree, Damo,
+
+   Suzhou: Momenta,
+
+----
 ## WhySDMap
 
    For autonomous driving vechile and outdoor robotics, use more light-weight map instead of no map
@@ -486,7 +501,7 @@ Calibration:
 ----
 ## WhyLongTerm
 
-   For multi-session mapping and updating (change detection)
+   For multi-session mapping and updating (change detection), dynamic objects filter.
    
    Follow [[Zhijian Qiao](https://github.com/qiaozhijian)] for more information on multi-session mapping, I will do supplement when I have time.
    
