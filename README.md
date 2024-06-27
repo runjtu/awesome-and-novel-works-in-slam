@@ -9,7 +9,7 @@ If you find this repository useful, please consider STARing this list. Feel free
 ---
 ## Overview
 
-  - [NeRF && 3DGS](#NeRF && 3DGS)
+  - [NeRF/3DGS](#NeRF/3DGS)
   - [v2x](#v2x)
   - [Semantic](#semantic)
   - [novelcv](#novelcv)
@@ -27,7 +27,7 @@ If you find this repository useful, please consider STARing this list. Feel free
   - [WhyLongTerm](#WhyLongTerm)
 ---
 
-## NeRF && 3DGS
+## NeRF/3DGS
 
 Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for more information on NeRF/3DGS, He will update news weekly, best Chinese community for NeRF/3DGS, I will do supplement when I have time.
 
@@ -471,19 +471,25 @@ Calibration:
    
 ----
 ## WhySDMap
+
    For autonomous driving vechile and outdoor robotics, use more light-weight map instead of no map
+   
    Follow [[TUMFTM](https://github.com/TUMFTM)] for more information on SDMap aid localization, I will do supplement when I have time.
 
 ----
 ## WhyTraversability
+
    For all terrain navigation, because We're tired of filtering ground points...
+   
    Follow [[Ji Zhang](https://github.com/jizhang-cmu)] for more information on multi-session mapping, I will do supplement when I have time.
 
 ----
 ## WhyLongTerm
 
    For multi-session mapping and updating (change detection)
+   
    Follow [[Zhijian Qiao](https://github.com/qiaozhijian)] for more information on multi-session mapping, I will do supplement when I have time.
+   
    Follow [[Gisbi Kim](https://github.com/gisbi-kim/lt-mapper)] for more information on map maintaining, I will do supplement when I have time.
    
 ----
