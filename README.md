@@ -1,8 +1,10 @@
 # awesome-and-novel-works-in-slam [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repo contains a mostly curative (new derives from old) list of **novel and useful works in slam** <br>
+This repo contains a mostly curative (new derives from old) list of **awesome and novel works in slam** <br>
 
-If you find this repository useful, please consider STARing this list. Feel free to share this list with others!
+If you find this repository useful, please consider STARing this list. Feel free to share this list with others! More comments will be found below, yet just opinions of mine.
+
+
 
 ---
 ## Overview
@@ -16,14 +18,19 @@ If you find this repository useful, please consider STARing this list. Feel free
   - [journals](#journals)
   - [conferences](#conferences)
   - [Datasets](#Datasets)
-  - [Chanllenge && Competition Solutions](#Chanllenge&&CompetitionSolutions)
+  - [Competition](#Competition)
   - [Tools](#Tools)
   - [Sim](#Sim)
+  - [BuySensors](#BuySensors)
   - [WhySDMap](#WhySDMap)
   - [WhyTraversability](#WhyTraversability)
+  - [WhyLongTerm](#WhyLongTerm)
 ---
 
 ## NeRF && 3DGS
+
+Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for more information on NeRF/3DGS, He will update news weekly, best Chinese community for NeRF/3DGS, I will do supplement when I have time.
+
 * **Gaussian Splatting**: "3D Gaussian Splatting for Real-Time Radiance Field Rendering", *ACM Transactions on Graphics 2023*.  [[Paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)] [[Code](https://github.com/graphdeco-inria/gaussian-splatting)]
 
 * **Neural-Sim**: "Learning to Generate Training Data with NeRF", *ECCV 2022*.  [[Paper](https://arxiv.org/pdf/2207.11368.pdf)] [[Code](https://github.com/gyhandy/Neural-Sim-NeRF)] [[Webpage](https://fylwen.github.io/disp6d.html)]
@@ -387,15 +394,44 @@ If you find this repository useful, please consider STARing this list. Feel free
 * **Onpenlanev2** [[Homepage](https://github.com/OpenDriveLab/OpenLane-V2)]
 * **M2DGR** [[Homepage](https://github.com/SJTU-ViSYS/M2DGR)]
 * **SubT** [[Homepage](https://www.openrobotics.org/blog/2022/2/3/open-robotics-and-the-darpa-subterranean-challenge)]
+* **R3LIVE** [[Homepage](https://github.com/ziv-lin/r3live_dataset)]
 
 
-## Chanllenge && Competition Solutions
+
+## Competition
+
+Practice makes perfect, though lack of innovation.
+
+* **ICRA 2023 Robodepth** [[Link](https://robodepth.github.io/)]
+* **ICRA 2024 RoboDrive** [[Link](https://robodrive-24.github.io/)]
+* **ICRA 2023 Sim2Real** [[Link](https://air.tsinghua.edu.cn/robomaster/sim2real_icra23.html)]
+
+
 ----
 ## Tools
+
+Libs:
 
 * **g2o** [[Link](https://github.com/RainerKuemmerle/g2o)]
 * **ceres** [[Link](https://github.com/ceres-solver/ceres-solver)]
 * **iSAM** [[Link](https://github.com/ori-drs/isam)]
+
+NeRF/3DGS:
+
+* **COLMAP** [[Link](https://github.com/colmap/colmap/releases)]
+* **LLFF** [[Link](https://github.com/Fyusion/LLFF)]
+
+Calibration:
+
+* **Kalibr** [[CamCam/CamIMU/IMUIMU/Intrinsic](https://github.com/ethz-asl/kalibr)]
+* **SensorsCalibration** [[LiDARCam/LiDARIMU/LiDARLiDAR/RadarCam/RadarLiDAR/CamCam/Intrinsic](https://github.com/PJLab-ADG/SensorsCalibration)]
+* **livox_camera_calib** [[LiDARCam](https://github.com/hku-mars/livox_camera_calib)]
+* **direct_visual_lidar_calibration** [[LiDARCam](https://github.com/koide3/direct_visual_lidar_calibration)]
+* **Calibration-Is-All-You-Need** [[LiDARCam/LiDARIMU/CamIMU/CamCam](https://github.com/linClubs/Calibration-Is-All-You-Need)]
+
+
+
+
 
 ----
 
@@ -428,14 +464,26 @@ If you find this repository useful, please consider STARing this list. Feel free
 * **VI Worldsim** [[Sim now](https://www.vi-grade.com/en/products/vi-worldsim/)]
 * **ZJL-VTS** [[Sim now](https://www.onsite.com.cn/#/dist/endToEndTestTool)]
 * **51Sim-one** [[Sim now](https://www.51sim.com/products/simone)]
-
-
 ----
-## WhySDMap
-   For autonomous driving vechile and outdoor robotics
+## BuySensors
+
+   Multi-sensors:RGB, RGBD, Infrared, Polarization, Event-based(Future), Motion, Capture(GT), 2D Spinning LiDAR, 3D Spinning LiDAR, 3D Solid-State LiDAR, 4D High Resolution Radar(Future), mmWave Radar, UWB, RTK(GT), Wheel Odom, IMU, Ultrasonic Sensor.
    
 ----
+## WhySDMap
+   For autonomous driving vechile and outdoor robotics, use more light-weight map instead of no map
+   Follow [[TUMFTM](https://github.com/TUMFTM)] for more information on SDMap aid localization, I will do supplement when I have time.
+
+----
 ## WhyTraversability
-   For all terrain navigation
+   For all terrain navigation, because We're tired of filtering ground points...
+   Follow [[Ji Zhang](https://github.com/jizhang-cmu)] for more information on multi-session mapping, I will do supplement when I have time.
+
+----
+## WhyLongTerm
+
+   For multi-session mapping and updating (change detection)
+   Follow [[Zhijian Qiao](https://github.com/qiaozhijian)] for more information on multi-session mapping, I will do supplement when I have time.
+   Follow [[Gisbi Kim](https://github.com/gisbi-kim/lt-mapper)] for more information on map maintaining, I will do supplement when I have time.
    
 ----
