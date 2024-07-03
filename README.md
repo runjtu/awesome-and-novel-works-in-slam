@@ -23,9 +23,11 @@ If you find this repository useful, please consider STARing this list. Feel free
   - [Sim](#Sim)
   - [BuySensors](#BuySensors)
   - [FindIntern](#FindIntern)
+  - [WeMedia](#WeMedia)
   - [WhySDMap](#WhySDMap)
   - [WhyTraversability](#WhyTraversability)
   - [WhyLongTerm](#WhyLongTerm)
+
 ---
 
 ## NeRF/3DGS
@@ -473,15 +475,25 @@ Calibration:
 
 ## FindIntern
 
-   For bridging college and society, mainly base in Shanghai, Beijing, Hangzhou, Suzhou, Guangzhou, Shenzhen, HongKong
+   For bridging college and society, mainly base in Shanghai, Beijing, Hangzhou, Suzhou, Canton, Shenzhen, HongKong
 
    Shanghai: AI Lab, DiDi, Horizon, Li, BOSCH
 
-   Beijing: Xiaomi, Baidu, 
+   Beijing: Xiaomi, Baidu, Pony.ai, 
 
    Hangzhou: Unitree, Damo,
 
    Suzhou: Momenta,
+
+   Canton: WeRide, Xiaopeng
+   
+----
+
+## WeMedia
+
+   Follow [[XueLingFeiHua](https://www.zhihu.com/people/maxhnnl/answers)] for general understanding of sensors used by autonomous vehicle, I will do supplement when I have time.
+
+
 
 ----
 ## WhySDMap
@@ -501,7 +513,11 @@ Calibration:
 ## WhyLongTerm
 
    For multi-session mapping and updating (change detection), dynamic objects filter.
-   
+
+   Follow [[Xiang Gao](https://github.com/gaoxiang12)] for more information on SLAM, I will do supplement when I have time.
+
+   Follow [[Tong Qin](https://github.com/qintonguav)] for more information on V-SLAM, I will do supplement when I have time.
+
    Follow [[Zhijian Qiao](https://github.com/qiaozhijian)] for more information on multi-session mapping, I will do supplement when I have time.
    
    Follow [[Gisbi Kim](https://github.com/gisbi-kim/lt-mapper)] for more information on map maintaining, I will do supplement when I have time.
