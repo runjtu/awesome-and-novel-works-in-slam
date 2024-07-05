@@ -95,6 +95,8 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 
 * **DriveLikeAHuman**: "Rethinking Autonomous Driving with Large Language Models", *CVPR, 2023*. [[Code](https://github.com/PJLab-ADG/DriveLikeAHuman)]
 
+* **learnLLM**[[Code](https://github.com/Lordog/dive-into-llms)]
+
 
 ----
 ## leaders
@@ -431,9 +433,19 @@ Calibration:
 * **direct_visual_lidar_calibration** [[LiDARCam](https://github.com/koide3/direct_visual_lidar_calibration)]
 * **Calibration-Is-All-You-Need** [[LiDARCam/LiDARIMU/CamIMU/CamCam](https://github.com/linClubs/Calibration-Is-All-You-Need)]
 
+Evaluation:
 
+* **EVO** [[EVO](https://github.com/MichaelGrupp/evo)]
+* **CloudMapEvaluation** [[CloudMapEvaluation](https://github.com/JokerJohn/Cloud_Map_Evaluation)]
+* **SLAMHIVE** [[SLAMHIVE](https://github.com/STAR-Center/SLAM-Hive)]
 
+Communication:
 
+Message Queuing Telemetry Transport
+
+Hypertext Transfer Protocol Secure
+
+Controller Area Network
 
 ----
 
