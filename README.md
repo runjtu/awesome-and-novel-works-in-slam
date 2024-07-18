@@ -329,6 +329,8 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 
 * **HITSZ nROS-Lab** [[Homepage](https://github.com/HITSZ-NRSL)]
 
+* **GAP-LAB-CUHK-SZ** [[Homepage](https://github.com/GAP-LAB-CUHK-SZ)]
+
 * **Westlake University Audio Signal and Information Processing Lab** [[Homepage](https://github.com/Audio-WestlakeU)]
 
 * **Wuhan University Urban Spatial Intelligence Research Group at LIESMARS** [[Homepage](https://github.com/WHU-USI3DV)]
@@ -498,7 +500,16 @@ Controller Area Network
    Suzhou: Momenta,
 
    Canton: WeRide, Xiaopeng
+
+   BTW, RA/TA Opportunities：
+
+   CMU
+
+   CityU
+
    
+
+  
 ----
 
 ## WeMedia
@@ -512,7 +523,9 @@ Controller Area Network
 
    For autonomous driving vechile and outdoor robotics, use more light-weight map instead of no map
    
-   Follow [[TUMFTM](https://github.com/TUMFTM)] for more information on SDMap aid localization, I will do supplement when I have time.
+   Follow [[TUMFTM](https://github.com/TUMFTM)] for more information on HDMap & SDMap aid localization, I will do supplement when I have time.
+   
+   Follow [[Tong Qin](https://github.com/qintonguav)] for more information on SDMap aid localization, I will do supplement when I have time.
 
 ----
 ## WhyTraversability
