@@ -229,6 +229,8 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 
 * **MIT HAN Lab** [[Homepage](https://github.com/mit-han-lab)]
 
+* **MIT Aerospace Controls Laboratory** [[Homepage](https://github.com/mit-acl)]
+
 * **CMU Robotics Institute AirLab** [[Homepage](https://github.com/castacks)]
 
 * **CMU Robotic Exploration Lab** [[Homepage](https://github.com/RoboticExplorationLab)]
@@ -327,6 +329,8 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 
 * **HUST EIC Vision Lab** [[Homepage](https://github.com/hustvl)]
 
+* **ShanghaiTech Vision and Intelligent Perception Lab** [[Homepage](https://github.com/svip-lab)]
+
 * **HITSZ nROS-Lab** [[Homepage](https://github.com/HITSZ-NRSL)]
 
 * **GAP-LAB-CUHK-SZ** [[Homepage](https://github.com/GAP-LAB-CUHK-SZ)]
@@ -345,9 +349,10 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 
 * **SYSU Pengyu Team** [[Homepage](https://github.com/PengYu-Team)]
 
-* **ShanghaiTech Vision and Intelligent Perception Lab** [[Homepage](https://github.com/svip-lab)]
-
 * **Israel Autonomous Navigation and Sensor Fusion Lab** [[Homepage](https://github.com/ansfl)]
+
+* **NEU REAL** [[Homepage](https://github.com/NEU-REAL)]
+
 
 
 ## Journals
