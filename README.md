@@ -235,6 +235,8 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 
 * **CMU Robotic Exploration Lab** [[Homepage](https://github.com/RoboticExplorationLab)]
 
+* **CMU Robot Perception Lab** [[Homepage](https://github.com/rpl-cmu)]
+
 * **Princeton Computational Imaging** [[Homepage](https://github.com/princeton-computational-imaging)]
 
 * **UPenn Perception Action Learning Group** [[Homepage](https://github.com/penn-pal-lab)]
