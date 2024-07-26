@@ -227,6 +227,8 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 
 * **MIT CSAIL Computer Vision** [[Homepage](https://github.com/CSAILVision)]
 
+* **MIT's Marine Robotics Group** [[Homepage](https://github.com/MarineRoboticsGroup)]
+
 * **MIT HAN Lab** [[Homepage](https://github.com/mit-han-lab)]
 
 * **MIT Aerospace Controls Laboratory** [[Homepage](https://github.com/mit-acl)]
