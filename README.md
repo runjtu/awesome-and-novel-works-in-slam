@@ -400,7 +400,7 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 
 ## Datasets
 
-* **KAIST Urban** [[Homepage](http://irap.kaist.ac.kr/dataset/)]
+* **KAIST Urban** [[Homepage](https://sites.google.com/view/complex-urban-dataset/)]
 * **NYU MARS** [[Homepage](https://ai4ce.github.io/MARS/)]
 * **EuRoC** [[Homepage](https://github.com/topics/euroc-dataset/)]
 * **MCD Dataset** [[Homepage](https://mcdviral.github.io/)]
