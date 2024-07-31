@@ -400,7 +400,11 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 
 ## Datasets
 
-
+* **KAIST Urban** [[Homepage](http://irap.kaist.ac.kr/dataset/)]
+* **NYU MARS** [[Homepage](https://ai4ce.github.io/MARS/)]
+* **EuRoC** [[Homepage](https://github.com/topics/euroc-dataset/)]
+* **MCD Dataset** [[Homepage](https://mcdviral.github.io/)]
+* **Oxford Robotcar** [[Homepage](https://robotcar-dataset.robots.ox.ac.uk/)]
 * **NCLT** [[Homepage](http://robots.engin.umich.edu/nclt/)]
 * **Newer College** [[Homepage](https://ori-drs.github.io/newer-college-dataset/)]
 * **Mulran** [[Homepage](https://sites.google.com/view/mulran-pr/dataset)]
@@ -412,6 +416,8 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 * **R3LIVE** [[Homepage](https://github.com/ziv-lin/r3live_dataset)]
 * **Rubble** [[Homepage](https://meganerf.cmusatyalab.org/)]
 
+
+find more in paperwithcode
 
 ## Competition
 
