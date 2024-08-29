@@ -207,6 +207,8 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 
 * **TU Delft 3D geoinformation research group** [[Homepage](https://github.com/tudelft3d)]
 
+* **TU Delft Intelligent Vehicles** [[Homepage](https://github.com/tudelft-iv)]
+
 * **Poznan University of Technology Mobile Robots Lab** [[Homepage](https://github.com/LRMPUT)]
 
 * **Sapienza University of Rome Robots Vision and Perception** [[Homepage](https://github.com/rvp-group)]
