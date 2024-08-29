@@ -209,6 +209,8 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 
 * **Poznan University of Technology Mobile Robots Lab** [[Homepage](https://github.com/LRMPUT)]
 
+* **Sapienza University of Rome Robots Vision and Perception** [[Homepage](https://github.com/rvp-group)]
+
 ### Notrh America
 
 * **Stanford Autonomous Systems Lab** [[Homepage](https://github.com/StanfordASL)]
@@ -272,6 +274,8 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 * **Virginia Tech Transportation Institute** [[Homepage](https://github.com/VTTI)]
 
 * **SIT Robust Field Autonomy Lab** [[Homepage](https://github.com/RobustFieldAutonomyLab)]
+
+* **University at Buffalo Spatial AI & Robotics Lab** [[Homepage](https://github.com/sair-lab)]
 
 * **UWaterloo CL2** [[Homepage](https://github.com/CL2-UWaterloo)]
 
@@ -353,11 +357,13 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 
 * **SYSU Pengyu Team** [[Homepage](https://github.com/PengYu-Team)]
 
-* **Israel Autonomous Navigation and Sensor Fusion Lab** [[Homepage](https://github.com/ansfl)]
-
 * **NEU REAL** [[Homepage](https://github.com/NEU-REAL)]
 
+* **Israel Autonomous Navigation and Sensor Fusion Lab** [[Homepage](https://github.com/ansfl)]
 
+* **CSIRORobotics** [[Homepage](https://github.com/csiro-robotics)]
+
+Find more on this link in case of u r looking for PhD positions[[I](https://zhuanlan.zhihu.com/p/682671294)] [[II](https://zhuanlan.zhihu.com/p/682692024)].
 
 ## Journals
 
