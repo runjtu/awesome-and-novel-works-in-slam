@@ -560,6 +560,22 @@ Controller Area Network
 
    For multi-session mapping and updating (change detection), dynamic objects filter.
 
+* **MR-SLAM**: "Disco: Differentiable scan context with orientation", *IEEE Robotics and Automation Letters*. [[Code](https://github.com/MaverickPeter/MR_SLAM)]
+
+* **MS-Mapping**: "MS-Mapping: An Uncertainty-Aware Large-Scale Multi-Session LiDAR Mapping System", *arxiv 2024*.  [[Paper](https://arxiv.org/abs/2408.03723/)] [[Code](https://github.com/JokerJohn/MS-Mapping)]
+
+* **NF-Atlas**: "Multi-Volume Neural Feature Fields for Large Scale LiDAR Mapping", *IEEE Robotics and Automation Letters 2023*.  [[Paper](https://ieeexplore.ieee.org/document/10197558)] [[Code](https://github.com/yuxuan1206/NF-Atlas)]
+
+* **DiSCo-SLAM**: "DiSCo-SLAM: Distributed Scan Context-Enabled Multi-Robot LiDAR SLAM With Two-Stage Global-Local Graph Optimization", *IEEE International Conference on Robotics and Automation 2022*.  [[Paper](https://ieeexplore./document/9662965)] [[Code](https://github.com/RobustFieldAutonomyLab/DiSCo-SLAM)]
+
+* **imesa**: "{iMESA}: Incremental Distributed Optimization for Collaborative Simultaneous Localization and Mapping", *Robotics: Science and Systems 2024*.  [[Paper](https://arxiv.org/pdf/2406.07371)] [[Code](https://github.com/rpl-cmu/imesa)]
+
+* **DCL-SLAM**: "Swarm-lio: Decentralized swarm lidar-inertial odometry", *IEEE International Conference on Robotics and Automation 2023*.  [[Paper](https://ieeexplore.ieee.org/document/10161355)] [[Code](https://github.com/PengYu-Team/DCL-SLAM)]
+  
+
+
+
+
    Follow [[Xiang Gao](https://github.com/gaoxiang12)] for more information on SLAM, I will do supplement when I have time.
 
    Follow [[Tong Qin](https://github.com/qintonguav)] for more information on V-SLAM, I will do supplement when I have time.
