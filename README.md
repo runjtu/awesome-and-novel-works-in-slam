@@ -1,6 +1,6 @@
 # awesome-and-novel-works-in-slam [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repo contains a mostly curative (new derives from old) list of **awesome and novel works in slam** <br>
+This repo contains a mostly cutting edge (new derives from old) list of **awesome and novel works in slam** <br>
 
 If you find this repository useful, please consider STARing this list. Feel free to share this list with others! More comments will be found below, yet just opinions of mine.
 
@@ -407,11 +407,12 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 ----
 
 ## Datasets
-
-* **KAIST Urban** [[Homepage](https://sites.google.com/view/complex-urban-dataset/)]
 * **NYU MARS** [[Homepage](https://ai4ce.github.io/MARS/)]
+* **KAIST Urban** [[Homepage](https://sites.google.com/view/complex-urban-dataset/)]
 * **EuRoC** [[Homepage](https://github.com/topics/euroc-dataset/)]
 * **MCD Dataset** [[Homepage](https://mcdviral.github.io/)]
+* **MSU-4S** [[Homepage](https://egr.msu.edu/waves/msu4s/)]
+* **HoloVIC** [[Homepage](https://holovic.net/)]
 * **Oxford Robotcar** [[Homepage](https://robotcar-dataset.robots.ox.ac.uk/)]
 * **NCLT** [[Homepage](http://robots.engin.umich.edu/nclt/)]
 * **Newer College** [[Homepage](https://ori-drs.github.io/newer-college-dataset/)]
