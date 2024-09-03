@@ -565,7 +565,6 @@ Controller Area Network
 
    For all terrain navigation, because We're tired of filtering ground points...
    
-   Follow [[Ji Zhang](https://github.com/jizhang-cmu)] for more information on multi-session mapping, I will do supplement when I have time.
 
 * **MonoForce**: "MonoForce: Self-supervised Learning of Physics-aware Model for Predicting Robot-terrain Interaction", *arXiv 2022*. [[Paper](https://arxiv.org/pdf/2309.09007)] [[Code](https://github.com/ctu-vras/traversability_estimation)]
 
@@ -594,8 +593,7 @@ Controller Area Network
 * **DCL-SLAM**: "Swarm-lio: Decentralized swarm lidar-inertial odometry", *IEEE International Conference on Robotics and Automation 2023*.  [[Paper](https://ieeexplore.ieee.org/document/10161355)] [[Code](https://github.com/PengYu-Team/DCL-SLAM)]
   
 
-
-
+   Follow [[Ji Zhang](https://github.com/jizhang-cmu)] for more information on multi-session mapping, I will do supplement when I have time.
 
    Follow [[Xiang Gao](https://github.com/gaoxiang12)] for more information on SLAM, I will do supplement when I have time.
 
