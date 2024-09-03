@@ -161,15 +161,21 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 
 * **Toyota Research Institute Machine Learning** [[Homepage](https://github.com/TRI-ML)]
 
-### Europe 
+### UK
 
 * **Oxford Control Group** [[Homepage](https://github.com/oxfordcontrol)]
 
 * **Oxford Dynamic Robot Systems Group** [[Homepage](https://github.com/ori-drs)]
-  
-* **ETHZ Robotic Systems Lab** [[Homepage](https://github.com/leggedrobotics)]
+
+* **Imperial College London Dyson Robotics Laboratory** [[Homepage](https://github.com/dyson-robotics-lab)]
+
+* **UCL CDT in Foundational AI** [[Homepage](https://www.ucl.ac.uk/ai-centre/)]
+
+### Europe 
 
 * **ETHZ Autonomous Systems Lab** [[Homepage](https://github.com/ethz-asl)]
+
+* **ETHZ Robotic Systems Lab** [[Homepage](https://github.com/leggedrobotics)]
 
 * **ETHZ Computer-Vision-and-Geometry-Lab** [[Homepage](https://github.com/cvg)]
 
@@ -212,6 +218,9 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 * **Poznan University of Technology Mobile Robots Lab** [[Homepage](https://github.com/LRMPUT)]
 
 * **Sapienza University of Rome Robots Vision and Perception** [[Homepage](https://github.com/rvp-group)]
+
+* **Vision for Robotics and Autonomous Systems Czech Technical University in Prague (CTU)** [[Homepage](https://github.com/ctu-vras)]
+
 
 ### Notrh America
 
@@ -558,10 +567,19 @@ Controller Area Network
    
    Follow [[Ji Zhang](https://github.com/jizhang-cmu)] for more information on multi-session mapping, I will do supplement when I have time.
 
+* **MonoForce**: "MonoForce: Self-supervised Learning of Physics-aware Model for Predicting Robot-terrain Interaction", *arXiv 2022*. [[Paper](https://arxiv.org/pdf/2309.09007)] [[Code](https://github.com/ctu-vras/traversability_estimation)]
+
+* **TML**: "A Global Traversability Mapping Library easily integratable with any SLAM System". [[Code](https://github.com/suchetanrs/traversability_mapping)]
+
+* **TMMP**: "Bayesian Generalized Kernel Inference for Terrain Traversability Mapping", *the 2nd Annual Conference on Robot Learning*. [[Code](https://github.com/TixiaoShan/traversability_mapping)]
+
 ----
 ## WhyLongTerm
 
    For multi-session mapping and updating (change detection), dynamic objects filter.
+   
+* **maplalb2.0**: "maplab 2.0 – A Modular and Multi-Modal Mapping Framework", *IEEE Robotics and Automation Letters*. [[Code](https://github.com/ethz-asl/maplab)]
+
 
 * **MR-SLAM**: "Disco: Differentiable scan context with orientation", *IEEE Robotics and Automation Letters*. [[Code](https://github.com/MaverickPeter/MR_SLAM)]
 
