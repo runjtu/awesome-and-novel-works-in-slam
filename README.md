@@ -372,7 +372,10 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 
 * **Israel Autonomous Navigation and Sensor Fusion Lab** [[Homepage](https://github.com/ansfl)]
 
-* **CSIRORobotics** [[Homepage](https://github.com/csiro-robotics)]
+
+### Australia
+
+* **CSIRORobotics Brisbane, Queensland, Australia** [[Homepage](https://github.com/csiro-robotics)]
 
 Find more on this link in case of u r looking for PhD positions[[I](https://zhuanlan.zhihu.com/p/682671294)] [[II](https://zhuanlan.zhihu.com/p/682692024)].
 
@@ -576,9 +579,13 @@ Controller Area Network
 ## WhyLongTerm
 
    For multi-session mapping and updating (change detection), dynamic objects filter.
-   
-* **maplalb2.0**: "maplab 2.0 – A Modular and Multi-Modal Mapping Framework", *IEEE Robotics and Automation Letters*. [[Code](https://github.com/ethz-asl/maplab)]
 
+* **G3Reg**: "Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap", *2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. [[Code](https://github.com/HKUST-Aerial-Robotics/G3Reg)]
+
+* **GLoc3D**: "Global Localization in Large-scale Point Clouds via Roll-pitch-yaw Invariant Place Recognition and Low-overlap Global Registration", *IEEE Transactions on Circuits and Systems for Video Technology
+*. [[Code](https://github.com/peterWon/GLoc3D)]
+
+* **maplalb2.0**: "maplab 2.0 – A Modular and Multi-Modal Mapping Framework", *IEEE Robotics and Automation Letters*. [[Code](https://github.com/ethz-asl/maplab)]
 
 * **MR-SLAM**: "Disco: Differentiable scan context with orientation", *IEEE Robotics and Automation Letters*. [[Code](https://github.com/MaverickPeter/MR_SLAM)]
 
