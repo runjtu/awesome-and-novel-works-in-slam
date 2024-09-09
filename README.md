@@ -205,6 +205,8 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 
 * **RWTH Aachen Institut für Kraftfahrzeuge ika** [[Homepage](https://github.com/ika-rwth-aachen)]
 
+* **Albert-Ludwigs-Universität Freiburg Robot Learning Lab** [[Homepage](https://github.com/robot-learning-freiburg)]
+
 * **KTH Robotics Perception and Learning** [[Homepage](https://github.com/KTH-RPL)]
 
 * **University of Turku Turku Intelligent Embedded and Robotic Systems Lab** [[Homepage](https://github.com/TIERS)]
