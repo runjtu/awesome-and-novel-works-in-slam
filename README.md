@@ -171,6 +171,9 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 
 * **UCL CDT in Foundational AI** [[Homepage](https://www.ucl.ac.uk/ai-centre/)]
 
+* **School of Informatics University of Edinburgh** [[Homepage](https://homepages.inf.ed.ac.uk/bwebb/)]
+
+
 ### Europe 
 
 * **ETHZ Autonomous Systems Lab** [[Homepage](https://github.com/ethz-asl)]
@@ -438,6 +441,11 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **SubT** [[Homepage](https://www.openrobotics.org/blog/2022/2/3/open-robotics-and-the-darpa-subterranean-challenge)]
 * **R3LIVE** [[Homepage](https://github.com/ziv-lin/r3live_dataset)]
 * **Rubble** [[Homepage](https://meganerf.cmusatyalab.org/)]
+* **TIERS** [[Homepage](https://github.com/TIERS/tiers-lidars-dataset)]
+* **HeLiPR** [[Homepage](https://arxiv.org/pdf/2309.14590)]
+* **GEODE** [[Homepage](https://arxiv.org/pdf/2409.04961v1)]
+* **CVGlobal** [[Homepage](https://opendatalab.com/CVeRS/CVGlobal)]
+* **mapillary** [[Homepage](https://github.com/mapillary)]
 
 
 find more in paperwithcode
