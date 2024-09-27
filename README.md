@@ -204,6 +204,8 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
   
 * **Karlsruhe Institute of Technology Institute of Measurement and Control Systems** [[Homepage](https://github.com/KIT-MRT)]
 
+* **IGMR - RWTH Aachen University** [[Homepage](https://github.com/IGMR-RWTH)]
+
 * **RWTH Aachen Institute of Automatic Control** [[Homepage](https://github.com/rwth-irt)]
 
 * **RWTH Aachen Institut für Kraftfahrzeuge ika** [[Homepage](https://github.com/ika-rwth-aachen)]
@@ -567,8 +569,8 @@ Controller Area Network
 ----
 ## WhySDMap
 
-   For autonomous driving vechile and outdoor robotics, use more light-weight map instead of no map
-   
+   For autonomous driving vechile and outdoor robotics, use more light-weight map instead of no map, specifically more like maplite [[demo](   https://github.com/awiesmulla/maplite)]
+
    Follow [[TUMFTM](https://github.com/TUMFTM)] for more information on HDMap & SDMap aid localization, I will do supplement when I have time.
    
    Follow [[Tong Qin](https://github.com/qintonguav)] for more information on SDMap aid localization, I will do supplement when I have time.
@@ -589,6 +591,8 @@ Controller Area Network
 ## WhyLongTerm
 
    For multi-session mapping and updating (change detection), dynamic objects filter.
+
+* **KISS-Matcher**: "KISS-Matcher: Fast and Robust Point Cloud Registration Revisited", *arxiv 2024*. [[Paper](https://arxiv.org/abs/2409.15615)] [[Code](https://github.com/MIT-SPARK/KISS-Matcher)]
 
 * **G3Reg**: "Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap", *2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. [[Code](https://github.com/HKUST-Aerial-Robotics/G3Reg)]
 
