@@ -612,7 +612,8 @@ Controller Area Network
 * **imesa**: "{iMESA}: Incremental Distributed Optimization for Collaborative Simultaneous Localization and Mapping", *Robotics: Science and Systems 2024*.  [[Paper](https://arxiv.org/pdf/2406.07371)] [[Code](https://github.com/rpl-cmu/imesa)]
 
 * **DCL-SLAM**: "Swarm-lio: Decentralized swarm lidar-inertial odometry", *IEEE International Conference on Robotics and Automation 2023*.  [[Paper](https://ieeexplore.ieee.org/document/10161355)] [[Code](https://github.com/PengYu-Team/DCL-SLAM)]
-  
+
+* **BlockMap**: "Block-Map-Based Localization in Large-Scale Environment", *IEEE International Conference on Robotics and Automation 2024*.  [[Paper](https://arxiv.org/pdf/2404.18192)] [[Code](https://github.com/YixFeng/Block-Map-Based-Localization)]
 
    Follow [[Ji Zhang](https://github.com/jizhang-cmu)] for more information on multi-session mapping, I will do supplement when I have time.
 
