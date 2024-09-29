@@ -72,6 +72,9 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 ---
 ## v2x
 
+Follow [[Siheng Chen](https://siheng-chen.github.io/)] for more information on V2X Perception, I will do supplement when I have time.
+
+
 * **HighwayEnv**: "An Environment for Autonomous Driving Decision-Making", *GitHub*. [[Code](https://github.com/Farama-Foundation/HighwayEnv)]
 
 * **OpenLane-V2**: "The World's First Perception and Reasoning Benchmark for Scene Structure in Autonomous Driving.", *GitHub*. [[Code](https://github.com/OpenDriveLab/OpenLane-V2)]
@@ -259,6 +262,8 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 
 * **CMU Robot Perception Lab** [[Homepage](https://github.com/rpl-cmu)]
 
+* **Learning and Control for Agile Robotics Lab at CMU** [[Homepage](https://github.com/LeCAR-Lab)]
+
 * **Princeton Computational Imaging** [[Homepage](https://github.com/princeton-computational-imaging)]
 
 * **UPenn Perception Action Learning Group** [[Homepage](https://github.com/penn-pal-lab)]
@@ -266,7 +271,9 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 * **UPenn Kumar Robotics** [[Homepage](https://github.com/KumarRobotics)]
 
 * **UCB Model Predictive Control Laboratory** [[Homepage](https://github.com/MPC-Berkeley)]
-  
+
+* **Berkeley Automation Lab** [[Homepage](https://github.com/BerkeleyAutomation)]
+
 * **UCLA Verifiable & Control-Theoretic Robotics Laboratory** [[Homepage](https://github.com/vectr-ucla)]
 
 * **UCLA Mobility Lab** [[Homepage](https://github.com/ucla-mobility)]
@@ -569,11 +576,13 @@ Controller Area Network
 ----
 ## WhySDMap
 
-   For autonomous driving vechile and outdoor robotics, use more light-weight map instead of no map, specifically more like maplite [[demo](   https://github.com/awiesmulla/maplite)]
+   For autonomous driving vechile and outdoor robotics, use more light-weight map instead of no map, specifically more like maplite [[demo](https://github.com/awiesmulla/maplite)]
 
-   Follow [[TUMFTM](https://github.com/TUMFTM)] for more information on HDMap & SDMap aid localization, I will do supplement when I have time.
+   Follow [[TUMFTM](https://github.com/TUMFTM)] for more information on HDMap & SDMap aided localization, I will do supplement when I have time.
    
-   Follow [[Tong Qin](https://github.com/qintonguav)] for more information on SDMap aid localization, I will do supplement when I have time.
+   Follow [[Tong Qin](https://github.com/qintonguav)] for more information on SDMap aided localization, I will do supplement when I have time.
+
+   Follow [[Yujiao Shi](https://github.com/YujiaoShi/)] and [[tudelft-iv](https://github.com/tudelft-iv)] for more information on Satellite images aided localization, I will do supplement when I have time.
 
 ----
 ## WhyTraversability
