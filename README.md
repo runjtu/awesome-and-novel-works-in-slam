@@ -69,6 +69,11 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 
 * **ESDF**: "Sampling-free obstacle gradients and reactive planning in Neural Radiance Fields", *arXiv*. [[Paper](https://arxiv.org/abs/2205.01389)]
 
+* **GS-LIVOM**: "Real-time Gaussian Splatting Assisted LiDAR-Inertial-Visual Odometry and Dense Mappings", *arXiv2024*. [[Code](https://github.com/xieyuser/GS-LIVOM)]
+
+
+
+
 ---
 ## v2x
 
