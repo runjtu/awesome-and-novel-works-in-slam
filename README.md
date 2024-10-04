@@ -2,14 +2,12 @@
 
 This repo contains a mostly cutting edge (new derives from old) list of **awesome and novel works in slam** <br>
 
-If you find this repository useful, please consider STARing this list. Feel free to share this list with others! More comments will be found below, yet just opinions of mine.
-
-
+If you find this repository useful, please consider STARing this list. Feel free to share this list with others! More comments will be found below, yet just opinions of mine. Make slamer great again.
 
 ---
 ## Overview
 
-  - [NeRF/3DGS](#NeRF/3DGS)
+  - [NeRF/3DGS/EVER](#NeRF/3DGS/EVER)
   - [v2x](#v2x)
   - [Semantic](#semantic)
   - [novelcv](#novelcv)
@@ -30,9 +28,13 @@ If you find this repository useful, please consider STARing this list. Feel free
 
 ---
 
-## NeRF/3DGS
+## NeRF/3DGS/EVER
 
-Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for more information on NeRF/3DGS, He will update news weekly, best Chinese community for NeRF/3DGS, I will do supplement when I have time.
+Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for more information on NeRF/3DGS/EVER, He will update news weekly, best Chinese community for NeRF/3DGS, I will do supplement when I have time.
+
+Follow [[ai kwea](https://github.com/kwea123)] for more practical experience on NeRF, I will do supplement when I have time.
+
+Follow [[Chongjie Ye](https://github.com/hugoycj)] for more practical experience on 3DGS, I will do supplement when I have time.
 
 * **Gaussian Splatting**: "3D Gaussian Splatting for Real-Time Radiance Field Rendering", *ACM Transactions on Graphics 2023*.  [[Paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)] [[Code](https://github.com/graphdeco-inria/gaussian-splatting)]
 
@@ -59,7 +61,7 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 
 - **NeRF-LOAM**: Neural Implicit Representation for Large-Scale Incremental LiDAR Odometry and Mapping, *arXiv*. [[Paper](https://arxiv.org/pdf/2303.10709.pdf)] [[Code](https://github.com/JunyuanDeng/NeRF-LOAM)]
 
-* "Implicit Map Augmentation for Relocalization", *ECCV Workshop, 2022*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-25066-8_36)]
+* **"Implicit Map Augmentation for Relocalization"**, *ECCV Workshop, 2022*. [[Paper](https://link.springer.com/chapter/10.1007/978-3-031-25066-8_36)]
 
 *  **Co-SLAM**: Joint Coordinate and Sparse Parametric Encodings for Neural Real-Time SLAM, *CVPR, 2023*. [[Paper](https://arxiv.org/pdf/2304.14377.pdf)] [[Website](https://hengyiwang.github.io/projects/CoSLAM)]
 *  Neural Implicit Dense Semantic SLAM, *arXiv, 2023*. [[Paper](https://arxiv.org/pdf/2304.14560.pdf)]
@@ -91,6 +93,10 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 ## semantic
 
 * **OPen3d**: "A Modern Library for 3D Data Processing", *arxiv*. [[Paper](https://arxiv.org/abs/1801.09847)] [[Code](https://github.com/isl-org/Open3D-ML)]
+
+* **SuMa++**: "SuMa++: Efficient LiDAR-based Semantic SLAM", *IEEE/RSJ International Conference on Intelligent Robots and Systems 2019*. [[Paper](https://arxiv.org/abs/1801.09847)] [[Code](https://github.com/PRBonn/semantic_suma)]
+
+* **Khronos**: "Khronos: A Unified Approach for Spatio-Temporal Metric-Semantic SLAM in Dynamic Environments", *Robotics: Science and Systems*. [[Paper](https://arxiv.org/abs/2402.13817)] [[Code](https://github.com/MIT-SPARK/Khronos)]
 
 
 ---
@@ -515,6 +521,12 @@ Hypertext Transfer Protocol Secure
 
 Controller Area Network
 
+Deep Learning Framework:
+
+U-net
+
+V-Transformer
+
 ----
 
 ## Sim (experienced software, not toys from paper)
@@ -567,6 +579,8 @@ Controller Area Network
 
    Canton: ZhuoYu, WeRide, Xiaopeng,
 
+   interview experience like [Find More](https://zhuanlan.zhihu.com/p/710108368)]
+
    BTW, RA/TA Opportunities：
 
    CMU AirLab
@@ -614,7 +628,7 @@ Controller Area Network
 
 * **KISS-Matcher**: "KISS-Matcher: Fast and Robust Point Cloud Registration Revisited", *arxiv 2024*. [[Paper](https://arxiv.org/abs/2409.15615)] [[Code](https://github.com/MIT-SPARK/KISS-Matcher)]
 
-* **G3Reg**: "Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap", *2023 IEEE/RSJ International Conference on Intelligent Robots and Systems (IROS)*. [[Code](https://github.com/HKUST-Aerial-Robotics/G3Reg)]
+* **G3Reg**: "Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap", *IEEE/RSJ International Conference on Intelligent Robots and Systems 2023*. [[Code](https://github.com/HKUST-Aerial-Robotics/G3Reg)]
 
 * **GLoc3D**: "Global Localization in Large-scale Point Clouds via Roll-pitch-yaw Invariant Place Recognition and Low-overlap Global Registration", *IEEE Transactions on Circuits and Systems for Video Technology
 *. [[Code](https://github.com/peterWon/GLoc3D)]
@@ -635,14 +649,29 @@ Controller Area Network
 
 * **BlockMap**: "Block-Map-Based Localization in Large-Scale Environment", *IEEE International Conference on Robotics and Automation 2024*.  [[Paper](https://arxiv.org/pdf/2404.18192)] [[Code](https://github.com/YixFeng/Block-Map-Based-Localization)]
 
+
    Follow [[Ji Zhang](https://github.com/jizhang-cmu)] for more information on multi-session mapping, I will do supplement when I have time.
 
    Follow [[Xiang Gao](https://github.com/gaoxiang12)] for more information on SLAM, I will do supplement when I have time.
 
    Follow [[Tong Qin](https://github.com/qintonguav)] for more information on V-SLAM, I will do supplement when I have time.
-
-   Follow [[Zhijian Qiao](https://github.com/qiaozhijian)] for more information on multi-session mapping, I will do supplement when I have time.
    
    Follow [[Gisbi Kim](https://github.com/gisbi-kim/lt-mapper)] for more information on map maintaining, I will do supplement when I have time.
-   
+
+   Follow [[Kin Zhang](https://github.com/Kin-Zhang)] for more information on Dynamic Objects Removing, I will do supplement when I have time.
+
 ----
+
+## Citation
+
+If you find this repository useful, please consider citing this list:
+
+```
+@misc{runjtu2024slamrepo,
+    title = {awesome-and-novel-works-in-slam},
+    author = {Runheng Zuo},
+    howpublished = {\url{https://github.com/runjtu/awesome-and-novel-works-in-slam}},
+    year = {2024},
+    note = "[Online; accessed 04-October-2024]"
+}
+```
