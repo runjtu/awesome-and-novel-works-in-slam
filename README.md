@@ -79,6 +79,7 @@ Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for m
 
 Follow [[Siheng Chen](https://siheng-chen.github.io/)] for more information on V2X Perception, I will do supplement when I have time.
 
+Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V2X Perception, I will do supplement when I have time.
 
 * **HighwayEnv**: "An Environment for Autonomous Driving Decision-Making", *GitHub*. [[Code](https://github.com/Farama-Foundation/HighwayEnv)]
 
@@ -105,6 +106,9 @@ Follow [[Siheng Chen](https://siheng-chen.github.io/)] for more information on V
 
 * **learnLLM**[[Code](https://github.com/Lordog/dive-into-llms)]
 
+* **ReAct: Synergizing Reasoning and Acting in Language Models**[[Code](https://github.com/ysymyth/ReAct)]
+
+* **GraphRag**[[Code](https://github.com/microsoft/graphrag)]
 
 ----
 ## leaders
@@ -201,6 +205,8 @@ Follow [[Siheng Chen](https://siheng-chen.github.io/)] for more information on V
 * **TUM-Computer-Vision-Group** [[Homepage](https://github.com/tum-vision)]
 
 * **TUM Smart Robotics Lab** [[Homepage](https://github.com/smartroboticslab)]
+
+* **Flight Robotics and Perception Group (FRPG)** [[Homepage](https://github.com/robot-perception-group)]
 
 * **Heidelberg Computer Vision and Learning Lab** [[Homepage](https://github.com/vislearn)]
 
@@ -551,7 +557,7 @@ Controller Area Network
 
    For bridging college and society, mainly base in Shanghai, Beijing, Hangzhou, Suzhou, Canton, Shenzhen, HongKong
 
-   Shanghai: AI Lab, DiDi, Horizon, Li, BOSCH
+   Shanghai: AI Lab, DiDi, Horizon, Li Auto, BOSCH, Huawei, SenseTime,
 
    Beijing: Xiaomi, Baidu, Pony.ai, 
 
@@ -559,13 +565,13 @@ Controller Area Network
 
    Suzhou: Momenta,
 
-   Canton: WeRide, Xiaopeng
+   Canton: ZhuoYu, WeRide, Xiaopeng,
 
    BTW, RA/TA Opportunities：
 
-   CMU
+   CMU AirLab
 
-   CityU
+   CityU MetaSLAM
 
    ETH-RSS
 
