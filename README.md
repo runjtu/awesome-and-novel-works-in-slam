@@ -515,17 +515,18 @@ Evaluation:
 
 Communication:
 
-Message Queuing Telemetry Transport
+* **Message Queuing Telemetry Transport** [[Video](https://www.youtube.com/watch?v=EIxdz-2rhLs)]
 
-Hypertext Transfer Protocol Secure
+* **Hypertext Transfer Protocol Secure** [[Video](https://www.bilibili.com/video/BV1ph41177rJ)]
 
-Controller Area Network
+* **Controller Area Network** [[Video](https://www.bilibili.com/video/BV1GP411A78u)]
 
 Deep Learning Framework:
 
-U-net
+* **U-net** [[Video](https://www.youtube.com/watch?v=lBicvB4iyYU)]
 
-V-Transformer
+* **ViT** [[Video](https://www.youtube.com/watch?v=G6_IA5vKXRI)]
+
 
 ----
 
@@ -579,7 +580,7 @@ V-Transformer
 
    Canton: ZhuoYu, WeRide, Xiaopeng,
 
-   interview experience like [Find More](https://zhuanlan.zhihu.com/p/710108368)]
+   interview experience like [Find More](https://zhuanlan.zhihu.com/p/710108368)
 
    BTW, RA/TA Opportunities：
 
@@ -664,7 +665,7 @@ V-Transformer
 
 ## Citation
 
-If you find this repository useful, please consider citing this list:
+If you find this repository useful, please consider citing this repo:
 
 ```
 @misc{runjtu2024slamrepo,
