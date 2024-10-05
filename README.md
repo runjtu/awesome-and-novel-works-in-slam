@@ -412,9 +412,7 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 
 ## Journals
 
-* **RA-L IEEE Robotics and Automation Letters** [[Registeration](https://ras.papercept.net/journals/ral/scripts/login.pl)]
-
-* **TVT IEEE Transactions on Vehicular Technology** [[Registeration](https://mc.manuscriptcentral.com/tvt-ieee/)]
+* **Science Robotics** [[Registeration](https://www.science.org/journal/scirobotics)]
 
 * **TRO IEEE Transactions on Robotics** [[Registeration](https://ras.papercept.net/journals/tro/scripts/login.pl)]
 
@@ -424,7 +422,10 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 
 * **TIV IEEE Transactions on Intelligent Vehicles** [[Registeration](https://mc.manuscriptcentral.com/t-iv)]
 
-* **Science Robotics** [[Registeration](https://www.science.org/journal/scirobotics)]
+* **RA-L IEEE Robotics and Automation Letters** [[Registeration](https://ras.papercept.net/journals/ral/scripts/login.pl)]
+
+* **TVT IEEE Transactions on Vehicular Technology** [[Registeration](https://mc.manuscriptcentral.com/tvt-ieee/)]
+
 
 ## Conferences
 
@@ -472,6 +473,8 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **GEODE** [[Homepage](https://arxiv.org/pdf/2409.04961v1)]
 * **CVGlobal** [[Homepage](https://opendatalab.com/CVeRS/CVGlobal)]
 * **mapillary** [[Homepage](https://github.com/mapillary)]
+* **SLABIM** [[Homepage](https://github.com/HKUST-Aerial-Robotics/SLABIM)]
+
 
 
 find more in paperwithcode
@@ -604,6 +607,8 @@ Deep Learning Framework:
 
    For autonomous driving vechile and outdoor robotics, use more light-weight map instead of no map, specifically more like maplite [[demo](https://github.com/awiesmulla/maplite)]
 
+   Especially for indoor environments, the prior is BIM [[BIM](https://github.com/HKUST-Aerial-Robotics/SLABIM)]
+
    Follow [[TUMFTM](https://github.com/TUMFTM)] for more information on HDMap & SDMap aided localization, I will do supplement when I have time.
    
    Follow [[Tong Qin](https://github.com/qintonguav)] for more information on SDMap aided localization, I will do supplement when I have time.
@@ -650,16 +655,27 @@ Deep Learning Framework:
 
 * **BlockMap**: "Block-Map-Based Localization in Large-Scale Environment", *IEEE International Conference on Robotics and Automation 2024*.  [[Paper](https://arxiv.org/pdf/2404.18192)] [[Code](https://github.com/YixFeng/Block-Map-Based-Localization)]
 
+* **SLIM**: "SLIM: Scalable and Lightweight LiDAR Mapping in Urban Environments", *arxiv maybe tro 2024*.  [[Paper](https://arxiv.org/pdf/2409.08681)] [[Code](https://github.com/HKUST-Aerial-Robotics/SLIM)]
+  
 
-   Follow [[Ji Zhang](https://github.com/jizhang-cmu)] for more information on multi-session mapping, I will do supplement when I have time.
+
+
+   Follow [[Ji Zhang](https://github.com/jizhang-cmu)] for more information on Robust Navigation, I will do supplement when I have time.
 
    Follow [[Xiang Gao](https://github.com/gaoxiang12)] for more information on SLAM, I will do supplement when I have time.
 
    Follow [[Tong Qin](https://github.com/qintonguav)] for more information on V-SLAM, I will do supplement when I have time.
    
-   Follow [[Gisbi Kim](https://github.com/gisbi-kim/lt-mapper)] for more information on map maintaining, I will do supplement when I have time.
+   Follow [[Gisbi Kim](https://github.com/gisbi-kim/lt-mapper)] for more information on Map Maintaining, I will do supplement when I have time.
 
    Follow [[Kin Zhang](https://github.com/Kin-Zhang)] for more information on Dynamic Objects Removing, I will do supplement when I have time.
+
+   Follow [[Zhijian Qiao](https://github.com/qiaozhijian)] for more information on Multi-Session Mapping, I will do supplement when I have time.
+
+   Follow [[koide](https://github.com/koide3)] for more information on Life-Long LiDAR Mapping, I will do supplement when I have time.
+
+
+
 
 ----
 
