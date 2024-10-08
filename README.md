@@ -474,7 +474,7 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **CVGlobal** [[Homepage](https://opendatalab.com/CVeRS/CVGlobal)]
 * **mapillary** [[Homepage](https://github.com/mapillary)]
 * **SLABIM** [[Homepage](https://github.com/HKUST-Aerial-Robotics/SLABIM)]
-
+* **BorealTC** [[Homepage](https://github.com/norlab-ulaval/BorealTC)]
 
 
 find more in paperwithcode
