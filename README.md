@@ -609,6 +609,9 @@ Deep Learning Framework:
 
    Especially for indoor environments, the prior is BIM [[BIM](https://github.com/HKUST-Aerial-Robotics/SLABIM)]
 
+
+* **RoadNet**: "Translating Images to Road Network: A Non-Autoregressive Sequence-to-Sequence Approach", *ICCV 2023 (Oral)*. [[Paper](https://arxiv.org/abs/2402.08207)] [[Code](https://github.com/fudan-zvg/RoadNet)]
+
    Follow [[TUMFTM](https://github.com/TUMFTM)] for more information on HDMap & SDMap aided localization, I will do supplement when I have time.
    
    Follow [[Tong Qin](https://github.com/qintonguav)] for more information on SDMap aided localization, I will do supplement when I have time.
@@ -627,6 +630,10 @@ Deep Learning Framework:
 
 * **TMMP**: "Bayesian Generalized Kernel Inference for Terrain Traversability Mapping", *the 2nd Annual Conference on Robot Learning*. [[Code](https://github.com/TixiaoShan/traversability_mapping)]
 
+* **STEPP**: "STEPP: Semantic Traversability Estimation using Pose Projected features", *not yet*. [[Code](https://github.com/RPL-CS-UCL/STEPP-Code)]
+
+
+
 ----
 ## WhyLongTerm
 
@@ -635,6 +642,8 @@ Deep Learning Framework:
 * **KISS-Matcher**: "KISS-Matcher: Fast and Robust Point Cloud Registration Revisited", *arxiv 2024*. [[Paper](https://arxiv.org/abs/2409.15615)] [[Code](https://github.com/MIT-SPARK/KISS-Matcher)]
 
 * **G3Reg**: "Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap", *IEEE/RSJ International Conference on Intelligent Robots and Systems 2023*. [[Code](https://github.com/HKUST-Aerial-Robotics/G3Reg)]
+
+* **DeepPointMap**: "DeepPointMap: Advancing LiDAR SLAM with Unified Neural Descriptors", *AAAI Conference on Artificial Intelligence 2024*. [[Code](https://github.com/ZhangXiaze/DeepPointMap)]
 
 * **GLoc3D**: "Global Localization in Large-scale Point Clouds via Roll-pitch-yaw Invariant Place Recognition and Low-overlap Global Registration", *IEEE Transactions on Circuits and Systems for Video Technology
 *. [[Code](https://github.com/peterWon/GLoc3D)]
