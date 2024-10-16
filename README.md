@@ -7,7 +7,7 @@ If you find this repository useful, please consider STARing this list. Feel free
 ---
 ## Overview
 
-  - [NeRF/3DGS/EVER](#NeRF/3DGS/EVER)
+  - [3DGS/EVER](#3DGS/EVER)
   - [v2x](#v2x)
   - [Semantic](#semantic)
   - [novelcv](#novelcv)
@@ -28,7 +28,7 @@ If you find this repository useful, please consider STARing this list. Feel free
 
 ---
 
-## NeRF/3DGS/EVER
+## 3DGS/EVER
 
 Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for more information on NeRF/3DGS/EVER, He will update news weekly, best Chinese community for NeRF/3DGS, I will do supplement when I have time.
 
@@ -189,6 +189,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **UCL CDT in Foundational AI** [[Homepage](https://www.ucl.ac.uk/ai-centre/)]
 
+* **UCL Robot Perception and Learning Lab** [[Homepage](https://github.com/RPL-CS-UCL)]
+
 * **School of Informatics University of Edinburgh** [[Homepage](https://homepages.inf.ed.ac.uk/bwebb/)]
 
 
@@ -203,6 +205,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **ETHZ Visual Intelligence and Systems Group** [[Homepage](https://github.com/SysCV)]
 
 * **ETHZ University of Cyprus Vision for Robotics Lab** [[Homepage](https://github.com/VIS4ROB-lab)]
+
+* **ETHZ Learning and Adaptive Systems Group** [[Homepage](https://github.com/lasgroup)]
 
 * **EPFL CV LAB** [[Homepage](https://github.com/cvlab-epfl)]
 
@@ -407,6 +411,10 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 ### Australia
 
 * **CSIRORobotics Brisbane, Queensland, Australia** [[Homepage](https://github.com/csiro-robotics)]
+
+* **Robotics Institute, University of Technology Sydney** [[Homepage](https://github.com/UTS-RI)]
+
+
 
 Find more on this link in case of u r looking for PhD positions[[I](https://zhuanlan.zhihu.com/p/682671294)] [[II](https://zhuanlan.zhihu.com/p/682692024)].
 
@@ -632,6 +640,11 @@ Deep Learning Framework:
 
 * **STEPP**: "STEPP: Semantic Traversability Estimation using Pose Projected features", *not yet*. [[Code](https://github.com/RPL-CS-UCL/STEPP-Code)]
 
+* **HFHWC**: "Autonomous Driving in Unstructured Environments: How Far Have We Come?", [[Code](https://github.com/chaytonmin/Survey-Autonomous-Driving-in-Unstructured-Environments)]
+
+* **EcSemMap**: "Uncertainty-aware Evidential Bayesian Semantic Mapping (EBS)", [[Code](https://github.com/junwon-vision/EvSemMap)]
+
+* **LoD**: "Learning-on-the-Drive: Self-supervised Adaptive Long-range Perception for High-speed Offroad Driving", [[Paper](https://arxiv.org/pdf/2306.15226)]
 
 
 ----
@@ -701,3 +714,6 @@ If you find this repository useful, please consider citing this repo:
     note = "[Online; accessed 04-October-2024]"
 }
 ```
+
+
+![Star History Chart](https://api.star-history.com/svg?repos=runjtu/awesome-and-novel-works-in-slam&type=Date)
