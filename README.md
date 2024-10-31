@@ -234,6 +234,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **RWTH Aachen Institut für Kraftfahrzeuge ika** [[Homepage](https://github.com/ika-rwth-aachen)]
 
+* **Goettingen Data Fusion Group** [[Homepage](https://www.uni-goettingen.de/de/523154.html)]
+
 * **Albert-Ludwigs-Universität Freiburg Robot Learning Lab** [[Homepage](https://github.com/robot-learning-freiburg)]
 
 * **KTH Robotics Perception and Learning** [[Homepage](https://github.com/KTH-RPL)]
@@ -483,7 +485,7 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **mapillary** [[Homepage](https://github.com/mapillary)]
 * **SLABIM** [[Homepage](https://github.com/HKUST-Aerial-Robotics/SLABIM)]
 * **BorealTC** [[Homepage](https://github.com/norlab-ulaval/BorealTC)]
-
+* **fusionportable** [[Homepage](https://fusionportable.github.io/dataset/fusionportable_v2/)]
 
 find more in paperwithcode
 
