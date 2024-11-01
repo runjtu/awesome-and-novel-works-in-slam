@@ -330,6 +330,9 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **UBC Computer Vision Group** [[Homepage](https://github.com/ubc-vision)]
 
 * **École Polytechnique de Montréal Making Innovative Space Technology Lab** [[Homepage](https://github.com/MISTLab)]
+
+* **Université Laval Northern Robotics Laboratory** [[Homepage](https://github.com/norlab-ulaval/)]
+
   
 ### Asia 
 
@@ -681,7 +684,9 @@ Deep Learning Framework:
 
 * **SLIM**: "SLIM: Scalable and Lightweight LiDAR Mapping in Urban Environments", *arxiv maybe tro 2024*.  [[Paper](https://arxiv.org/pdf/2409.08681)] [[Code](https://github.com/HKUST-Aerial-Robotics/SLIM)]
   
+reduce z-axis drift
 
+* **Norlab-icp**: "A 2-D/3-D mapping library relying on the "Iterative Closest Point" algorithm.", [[Code](https://github.com/norlab-ulaval/norlab_icp_mapper)]
 
 
    Follow [[Ji Zhang](https://github.com/jizhang-cmu)] for more information on Robust Navigation, I will do supplement when I have time.
