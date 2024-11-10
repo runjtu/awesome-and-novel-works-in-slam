@@ -161,6 +161,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **OpenDriveLab** [[Homepage](https://github.com/OpenDriveLab)]
 
+* **OpenRobotLab** [[Homepage](https://github.com/OpenRobotLab)]
+
 * **Alibaba AD Lab** [[Homepage](https://github.com/ADLab-AutoDrive)]
 
 * **Sense-GVT** [[Homepage](https://github.com/Sense-GVT)]
@@ -368,6 +370,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **SJTU Intelligent Robotics and Machine Vision Lab** [[Homepage](https://github.com/IRMVLab)]
 
+* **SJTU Thinklab** [[Homepage](https://github.com/Thinklab-SJTU)]
+
 * **ZJU Advanced-Perception-on-Robotics-and-Intelligent-Learning-Lab** [[Homepage](https://github.com/APRIL-ZJU)]
 
 * **ZJU CAD CG** [[Homepage](https://github.com/zju3dv)]
@@ -448,6 +452,13 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **TIM IEEE Transactions on Instrumentation & Measurement** [[Registeration](https://www.editorialmanager.com/tim/default.aspx)]
 
 * **TVT IEEE Transactions on Vehicular Technology** [[Registeration](https://mc.manuscriptcentral.com/tvt-ieee/)]
+
+* **IEEE Transactions on Transportation Electrification** [[Registeration](https://mc.manuscriptcentral.com/tte-ieee)]
+
+* **IEEE Transactions on Industrial Electronics** [[Registeration](https://mc.manuscriptcentral.com/tie-ieee)]
+
+* **Communications in Transportation Research** [[Registeration](https://www.sciencedirect.com/journal/communications-in-transportation-research)]
+
 
 
 ## Conferences
