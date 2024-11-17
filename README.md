@@ -2,12 +2,12 @@
 
 This repo contains a mostly cutting edge (new derives from old) list of **awesome and novel works in slam** <br>
 
-If you find this repository useful, please consider STARing this list. Feel free to share this list with others! More comments will be found below, yet just opinions of mine. Make slamer great again.
+If you find this repository useful, please consider STARing this list. Feel free to share this list with others! More comments will be found below, yet just opinions of mine. Let's make slamer great again.
 
 ---
 ## Overview
 
-  - [3DGS/EVER](#3DGS/EVER)
+  - [3DGS](#3DGS)
   - [v2x](#v2x)
   - [Semantic](#semantic)
   - [novelcv](#novelcv)
@@ -28,7 +28,7 @@ If you find this repository useful, please consider STARing this list. Feel free
 
 ---
 
-## 3DGS/EVER
+## 3DGS
 
 Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for more information on NeRF/3DGS/EVER, He will update news weekly, best Chinese community for NeRF/3DGS, I will do supplement when I have time.
 
@@ -449,6 +449,8 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 
 * **RA-L IEEE Robotics and Automation Letters** [[Registeration](https://ras.papercept.net/journals/ral/scripts/login.pl)]
 
+* **IEEE Transactions on Geoscience and Remote Sensing** [[Registeration](https://mc.manuscriptcentral.com/tgrs)]
+
 * **TIM IEEE Transactions on Instrumentation & Measurement** [[Registeration](https://www.editorialmanager.com/tim/default.aspx)]
 
 * **TVT IEEE Transactions on Vehicular Technology** [[Registeration](https://mc.manuscriptcentral.com/tvt-ieee/)]
@@ -623,6 +625,8 @@ Deep Learning Framework:
 
    CMU AirLab
 
+   A STAR
+   
    CityU MetaSLAM
 
    ETH-RSS
@@ -645,6 +649,10 @@ Deep Learning Framework:
 
 
 * **RoadNet**: "Translating Images to Road Network: A Non-Autoregressive Sequence-to-Sequence Approach", *ICCV 2023 (Oral)*. [[Paper](https://arxiv.org/abs/2402.08207)] [[Code](https://github.com/fudan-zvg/RoadNet)]
+
+* **OrienterNet**: "OrienterNet: Visual Localization in 2D Public Maps with Neural Matching", *CVPR 2023*. [[Paper](https://arxiv.org/pdf/2304.02009)] [[Code](https://github.com/facebookresearch/OrienterNet)]
+
+* **OSMLoc**: "OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Semantic and Geometric Guidances", *arxiv 2024*. [[Paper](https://arxiv.org/pdf/2411.08665)] [[Code](https://github.com/WHU-USI3DV/OSMLoc/tree/main)]
 
    Follow [[TUMFTM](https://github.com/TUMFTM)] for more information on HDMap & SDMap aided localization, I will do supplement when I have time.
    
@@ -724,6 +732,7 @@ reduce z-axis drift
 
    Follow [[koide](https://github.com/koide3)] for more information on Life-Long LiDAR Mapping, I will do supplement when I have time.
 
+   Find more in [[SLAM-Handbook](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release)] about SLAM.
 
 
 
