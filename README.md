@@ -254,6 +254,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **Sapienza University of Rome Robots Vision and Perception** [[Homepage](https://github.com/rvp-group)]
 
+* **LTU Robotics & AI Engineering Group** [[Homepage](https://github.com/LTU-RAI)]
+
 * **Vision for Robotics and Autonomous Systems Czech Technical University in Prague (CTU)** [[Homepage](https://github.com/ctu-vras)]
 
 
@@ -303,6 +305,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **UCLA Mobility Lab** [[Homepage](https://github.com/ucla-mobility)]
 
+* **Cornell Tech Kuleshov Group** [[Homepage](https://github.com/kuleshov-group)]
+
 * **UCSD Existential Robotics Lab** [[Homepage](https://github.com/ExistentialRobotics)]
 
 * **Umich Ford Center for Autonomous Vehicles FCAV** [[Homepage](https://github.com/umautobots)]
@@ -350,11 +354,15 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **Japan Nagoya** [[Homepage](https://github.com/MapIV)]
 
+* **NTU ARIS** [[Homepage](https://github.com/ntu-aris)]
+
 * **CUHK OpenMMLab** [[Homepage](https://github.com/open-mmlab)]
 
 * **HKUST Aerial Robotics Group** [[Homepage](https://github.com/HKUST-Aerial-Robotics)]
 
 * **HKU Mars Lab** [[Homepage](https://github.com/hku-mars)]
+
+* **HKU CVMI Lab** [[Homepage](https://github.com/CVMI-Lab)]
 
 * **City University of Hong Kong MetaSLAM** [[Homepage](https://github.com/MetaSLAM)]
 
