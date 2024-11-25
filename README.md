@@ -157,6 +157,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **livox** [[Homepage](https://github.com/Livox-SDK)]
 
+* **The International Digital Economy Academy** [[Homepage](https://github.com/IDEA-Research)]
+
 * **ADG@PJLab** [[Homepage](https://github.com/PJLab-ADG)]
 
 * **OpenDriveLab** [[Homepage](https://github.com/OpenDriveLab)]
@@ -323,6 +325,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **Texas Austin Autonomous Mobile Robotics Laboratory** [[Homepage](https://github.com/ut-amrl)]
 
+* **Texas Austin Visual Informatics Group** [[Homepage](https://github.com/VITA-Group)]
+
 * **University of Delaware Robot Perception Navigation Group RPNG** [[Homepage](https://github.com/rpng)]
 
 * **Virginia Tech Transportation Institute** [[Homepage](https://github.com/VTTI)]
@@ -331,9 +335,11 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **University at Buffalo Spatial AI & Robotics Lab** [[Homepage](https://github.com/sair-lab)]
 
-* **UWaterloo CL2** [[Homepage](https://github.com/CL2-UWaterloo)]
+* **Toronto STARS Laboratory** [[Homepage](https://github.com/utiasSTARS)]
 
 * **UBC Computer Vision Group** [[Homepage](https://github.com/ubc-vision)]
+
+* **UWaterloo CL2** [[Homepage](https://github.com/CL2-UWaterloo)]
 
 * **École Polytechnique de Montréal Making Innovative Space Technology Lab** [[Homepage](https://github.com/MISTLab)]
 
