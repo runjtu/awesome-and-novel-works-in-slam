@@ -153,6 +153,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **Foxglove** [[Homepage](https://github.com/foxglove)]
 
+* **rerun** [[Homepage](https://github.com/rerun-io/rerun/releases/tag/0.20.0)]
+
 * **Udacity** [[Homepage](https://github.com/udacity)]
 
 * **livox** [[Homepage](https://github.com/Livox-SDK)]
@@ -693,7 +695,6 @@ Deep Learning Framework:
 * **EcSemMap**: "Uncertainty-aware Evidential Bayesian Semantic Mapping (EBS)", [[Code](https://github.com/junwon-vision/EvSemMap)]
 
 * **LoD**: "Learning-on-the-Drive: Self-supervised Adaptive Long-range Perception for High-speed Offroad Driving", [[Paper](https://arxiv.org/pdf/2306.15226)]
-
 
 ----
 ## WhyLongTerm
