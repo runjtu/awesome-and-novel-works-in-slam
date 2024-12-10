@@ -156,7 +156,9 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **rerun** [[Homepage](https://github.com/rerun-io/rerun/releases/tag/0.20.0)]
 
 * **Udacity** [[Homepage](https://github.com/udacity)]
-
+  
+* **Nature Robots** [[Homepage](https://github.com/naturerobots)]
+  
 * **livox** [[Homepage](https://github.com/Livox-SDK)]
 
 * **The International Digital Economy Academy** [[Homepage](https://github.com/IDEA-Research)]
@@ -176,6 +178,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **Megvii Research** [[Homepage](https://github.com/megvii-research)]
 
 * **Baidu Apollo Auto** [[Homepage](https://github.com/ApolloAuto)]
+
+* **Alibaba TongYi Vision Intelligence Lab** [[Homepage](https://github.com/ali-vilab)]
 
 * **qcraftai** [[Homepage](https://github.com/qcraftai)]
 
@@ -319,6 +323,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **Umich Dynamic Legged Locomotion Robotics Lab** [[Homepage](https://github.com/UMich-BipedLab)]
 
+* **Umich Computational Autonomy and Robotics Laboratory** [[Homepage](https://github.com/UMich-CURLY)]
+
 * **NYU AI4CE Lab** [[Homepage](https://github.com/ai4ce)]
 
 * **GaTech BORG Lab** [[Homepage](https://github.com/borglab)]
@@ -371,6 +377,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **HKU Mars Lab** [[Homepage](https://github.com/hku-mars)]
 
 * **HKU CVMI Lab** [[Homepage](https://github.com/CVMI-Lab)]
+
+* **CUHK Deep Vision Lab** [[Homepage](https://github.com/dvlab-research)]
 
 * **City University of Hong Kong MetaSLAM** [[Homepage](https://github.com/MetaSLAM)]
 
@@ -455,25 +463,29 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 
 * **IJRR International Journal of Robotics Research** [[Registeration](https://mc.manuscriptcentral.com/ijrr)]
 
+* **TII IEEE Transactions on Industrial Informatics** [[Registeration](https://mc.manuscriptcentral.com/tii)]
+
 * **TITS IEEE Transactions on Intelligent Transportation Systems** [[Registeration](https://mc.manuscriptcentral.com/t-its)]
 
 * **TASE IEEE Transactions on Automation Science and Engineering** [[Registeration](https://www.ieee-ras.org/publications/t-ase)]
 
+* **TMech IEEE/ASME Transactions on Mechatronics** [[Registeration](http://www.ieee-asme-mechatronics.info/)]
+
+* **TGRS IEEE Transactions on Geoscience and Remote Sensing** [[Registeration](https://mc.manuscriptcentral.com/tgrs)]
+
+* **TCSVT IEEE Transactions on Circuits and Systems for Video Technology** [[Registeration](https://ieee.atyponrex.com/submission/dashboard?siteName=TCSVT)]
+
 * **TIV IEEE Transactions on Intelligent Vehicles** [[Registeration](https://mc.manuscriptcentral.com/t-iv)]
-
-* **IEEE/ASME Transactions on Mechatronics** [[Registeration](http://www.ieee-asme-mechatronics.info/)]
-
-* **RA-L IEEE Robotics and Automation Letters** [[Registeration](https://ras.papercept.net/journals/ral/scripts/login.pl)]
-
-* **IEEE Transactions on Geoscience and Remote Sensing** [[Registeration](https://mc.manuscriptcentral.com/tgrs)]
 
 * **TIM IEEE Transactions on Instrumentation & Measurement** [[Registeration](https://www.editorialmanager.com/tim/default.aspx)]
 
+* **RA-L IEEE Robotics and Automation Letters** [[Registeration](https://ras.papercept.net/journals/ral/scripts/login.pl)]
+
 * **TVT IEEE Transactions on Vehicular Technology** [[Registeration](https://mc.manuscriptcentral.com/tvt-ieee/)]
 
-* **IEEE Transactions on Transportation Electrification** [[Registeration](https://mc.manuscriptcentral.com/tte-ieee)]
+* **TTE IEEE Transactions on Transportation Electrification** [[Registeration](https://mc.manuscriptcentral.com/tte-ieee)]
 
-* **IEEE Transactions on Industrial Electronics** [[Registeration](https://mc.manuscriptcentral.com/tie-ieee)]
+* **TIE IEEE Transactions on Industrial Electronics** [[Registeration](https://mc.manuscriptcentral.com/tie-ieee)]
 
 * **Communications in Transportation Research** [[Registeration](https://www.sciencedirect.com/journal/communications-in-transportation-research)]
 
