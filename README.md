@@ -68,7 +68,6 @@ Follow [[Chongjie Ye](https://github.com/hugoycj)] for more practical experience
 
 * **NeRF-Navigation**: "Vision-Only Robot Navigation in a Neural Radiance World", *ICRA, 2022*. [[Paper](https://mikh3x4.github.io/nerf-navigation/assets/NeRF_Navigation.pdf)] [[Code](https://github.com/mikh3x4/nerf-navigation)] [[Website](https://mikh3x4.github.io/nerf-navigation/)] 
 
-
 * **ESDF**: "Sampling-free obstacle gradients and reactive planning in Neural Radiance Fields", *arXiv*. [[Paper](https://arxiv.org/abs/2205.01389)]
 
 * **GS-LIVOM**: "Real-time Gaussian Splatting Assisted LiDAR-Inertial-Visual Odometry and Dense Mappings", *arXiv2024*. [[Code](https://github.com/xieyuser/GS-LIVOM)]
@@ -102,7 +101,9 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 ---
 ## novelcv
 
-* **UniDistill**: "A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View", *Github*. [[Code](https://github.com/megvii-research/CVPR2023-UniDistill)]
+* **UniDistill**: "A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View", *CVPR 2023*. [[Code](https://github.com/megvii-research/CVPR2023-UniDistill)]
+
+* **Let Occ Flow**: "Let Occ Flow: Self-Supervised 3D Occupancy Flow Prediction", *CoRL 2024*. [[Code](https://github.com/eliliu2233/occ-flow)]
 
 
 ---
@@ -116,10 +117,25 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **GraphRag**[[Code](https://github.com/microsoft/graphrag)]
 
+* **DreamerV3**[[Code](https://github.com/danijar/dreamerv3)]
+
+* **DinoV2**[[Code](https://github.com/facebookresearch/dinov2)]
+
+* **CLIP**[[Code](https://github.com/openai/CLIP)]
+
+* **llama**[[Code](https://github.com/meta-llama/llama)]
+
+* **Gato**[[Paper](https://arxiv.org/pdf/2205.06175)]
+
+* **Open the Black Box of Transformers**[[Paper](https://arxiv.org/abs/2311.13110)]
+
+
 ----
 ## leaders
 
 ### Industries and the off-campus
+
+* **DeepMind** [[Homepage](https://github.com/google-deepmind)]
 
 * **NVlabs** [[Homepage](https://github.com/NVlabs)]
 
@@ -263,6 +279,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **Sapienza University of Rome Robots Vision and Perception** [[Homepage](https://github.com/rvp-group)]
 
 * **LTU Robotics & AI Engineering Group** [[Homepage](https://github.com/LTU-RAI)]
+
+* **Control of Networked Systems Group at University of Klagenfurt** [[Homepage](https://github.com/aau-cns/)]
 
 * **Vision for Robotics and Autonomous Systems Czech Technical University in Prague (CTU)** [[Homepage](https://github.com/ctu-vras)]
 
@@ -438,6 +456,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **NKU Robot Autonomy and Human-AI Collaboration Group** [[Homepage](https://github.com/NKU-MobFly-Robotics)]
 
+* **HKUSTGZ Research group of visual generative models** [[Homepage](https://github.com/EnVision-Research)]
+
 * **HNU Neuromorphic Automation and Intelligence Lab** [[Homepage](https://github.com/NAIL-HNU)]
 
 * **NEU REAL** [[Homepage](https://github.com/NEU-REAL)]
@@ -560,6 +580,11 @@ Libs:
 * **g2o** [[Link](https://github.com/RainerKuemmerle/g2o)]
 * **ceres** [[Link](https://github.com/ceres-solver/ceres-solver)]
 * **iSAM** [[Link](https://github.com/ori-drs/isam)]
+* **Sophus** [[Link](https://github.com/strasdat/Sophus)]
+* **gsplines** [[Link](https://github.com/rafaelrojasmiliani/gsplines_cpp)]
+* **VAE** [[Link](https://github.com/clementchadebec/benchmark_VAE)]
+
+
 
 NeRF/3DGS:
 
@@ -626,6 +651,7 @@ Deep Learning Framework:
 * **VI Worldsim** [[Sim now](https://www.vi-grade.com/en/products/vi-worldsim/)]
 * **ZJL-VTS** [[Sim now](https://www.onsite.com.cn/#/dist/endToEndTestTool)]
 * **51Sim-one** [[Sim now](https://www.51sim.com/products/simone)]
+* **Mujoco** [[Sim now](https://github.com/google-deepmind/mujoco)]
 ----
 ## BuySensors
 
