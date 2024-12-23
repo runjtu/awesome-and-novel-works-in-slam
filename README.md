@@ -234,6 +234,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **ETHZ Learning and Adaptive Systems Group** [[Homepage](https://github.com/lasgroup)]
 
+* **UZH Robotics and Perception Group** [[Homepage](https://github.com/uzh-rpg)]
+
 * **EPFL CV LAB** [[Homepage](https://github.com/cvlab-epfl)]
 
 * **TUM-Institue-of-Auotomative-Technology** [[Homepage](https://github.com/TUMFTM)]
@@ -707,6 +709,8 @@ Deep Learning Framework:
 * **OrienterNet**: "OrienterNet: Visual Localization in 2D Public Maps with Neural Matching", *CVPR 2023*. [[Paper](https://arxiv.org/pdf/2304.02009)] [[Code](https://github.com/facebookresearch/OrienterNet)]
 
 * **OSMLoc**: "OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Semantic and Geometric Guidances", *arxiv 2024*. [[Paper](https://arxiv.org/pdf/2411.08665)] [[Code](https://github.com/WHU-USI3DV/OSMLoc/tree/main)]
+
+* **svo-dt**: " Drift-free Visual SLAM using Digital Twins", *arxiv 2024*. [[Paper](https://arxiv.org/pdf/2412.08496)] [[Code](https://github.com/uzh-rpg/rpg_svo_pro_with_digital_twins)]
 
    Follow [[TUMFTM](https://github.com/TUMFTM)] for more information on HDMap & SDMap aided localization, I will do supplement when I have time.
    
