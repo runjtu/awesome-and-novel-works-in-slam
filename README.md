@@ -7,7 +7,7 @@ If you find this repository useful, please consider STARing this list. Feel free
 ---
 ## Overview
 
-  - [3DGS](#3DGS)
+  - [3DGSNeRF](#3DGSNeRF)
   - [v2x](#v2x)
   - [Semantic](#semantic)
   - [novelcv](#novelcv)
@@ -28,7 +28,7 @@ If you find this repository useful, please consider STARing this list. Feel free
 
 ---
 
-## 3DGS
+## 3DGSNeRF
 
 Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for more information on NeRF/3DGS/EVER, He will update news weekly, best Chinese community for NeRF/3DGS, I will do supplement when I have time.
 
@@ -36,10 +36,23 @@ Follow [[ai kwea](https://github.com/kwea123)] for more practical experience on 
 
 Follow [[Chongjie Ye](https://github.com/hugoycj)] for more practical experience on 3DGS, I will do supplement when I have time.
 
+* **STORM**: "STORM: Spatio-Temporal Reconstruction Model for Large-Scale Outdoor Scenes", *arxiv 2024*.  [[Project](https://jiawei-yang.github.io/STORM/)] 
+
+* **NaVILA**: "NaVILA: Legged Robot Vision-Language-Action Model for Navigation", *arxiv 2024*.  [[Paper](https://arxiv.org/pdf/2412.04453)] 
+
+* **BeNeRF**: "BeNeRF: Neural Radiance Fields from a Single Blurry Image and Event Stream", *arxiv 2024*.  [[Paper](https://arxiv.org/pdf/2407.02174)] 
+
+* **SLGaussian**: "SLGaussian: Fast Language Gaussian Splatting in Sparse Views", *arxiv 2024*.  [[Paper](https://arxiv.org/pdf/2412.08331)] 
+
+* **HUGSIM**: "HUGSIM: A Real-Time, Photo-Realistic and Closed-Loop Simulator for Autonomous Driving", *arxiv 2024*.  [[Code](https://github.com/hyzhou404/HUGSIM)] 
+
+* **GaussianRPG**: "GaussianRPG: 3D Gaussian Rendering PlayGround", *ECCV 2024*.  [[Code](https://github.com/GimpelZhang/GaussianRPG)] 
+
+* **HSFM**: "Reconstructing People, Places, and Cameras", *arxiv 2024*.  [[Project](https://muelea.github.io/hsfm/)] 
+
 * **Gaussian Splatting**: "3D Gaussian Splatting for Real-Time Radiance Field Rendering", *ACM Transactions on Graphics 2023*.  [[Paper](https://repo-sam.inria.fr/fungraph/3d-gaussian-splatting/)] [[Code](https://github.com/graphdeco-inria/gaussian-splatting)]
 
 * **Neural-Sim**: "Learning to Generate Training Data with NeRF", *ECCV 2022*.  [[Paper](https://arxiv.org/pdf/2207.11368.pdf)] [[Code](https://github.com/gyhandy/Neural-Sim-NeRF)] [[Webpage](https://fylwen.github.io/disp6d.html)]
-
 
 * **iNeRF**: "Inverting Neural Radiance Fields for Pose Estimation", *IROS, 2021*. [[Paper](https://arxiv.org/pdf/2012.05877.pdf)] [[Code](https://github.com/yenchenlin/iNeRF-public)] [[Website](https://yenchenlin.me/inerf/)] [[Dataset](https://github.com/BerkeleyAutomation/dex-nerf-datasets)]
 
@@ -69,6 +82,8 @@ Follow [[Chongjie Ye](https://github.com/hugoycj)] for more practical experience
 * **NeRF-Navigation**: "Vision-Only Robot Navigation in a Neural Radiance World", *ICRA, 2022*. [[Paper](https://mikh3x4.github.io/nerf-navigation/assets/NeRF_Navigation.pdf)] [[Code](https://github.com/mikh3x4/nerf-navigation)] [[Website](https://mikh3x4.github.io/nerf-navigation/)] 
 
 * **ESDF**: "Sampling-free obstacle gradients and reactive planning in Neural Radiance Fields", *arXiv*. [[Paper](https://arxiv.org/abs/2205.01389)]
+
+* **ClearDepth**: "ClearDepth: Enhanced Stereo Perception of Transparent Objects for Robotic Manipulation", *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2409.08926)]
 
 * **GS-LIVOM**: "Real-time Gaussian Splatting Assisted LiDAR-Inertial-Visual Odometry and Dense Mappings", *arXiv2024*. [[Code](https://github.com/xieyuser/GS-LIVOM)]
 
@@ -105,6 +120,9 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **Let Occ Flow**: "Let Occ Flow: Self-Supervised 3D Occupancy Flow Prediction", *CoRL 2024*. [[Code](https://github.com/eliliu2233/occ-flow)]
 
+* **UniLoc**: "UniLoc: Towards Universal Place Recognition Using Any Single Modality", *arxiv 2024*. [[Paper](https://arxiv.org/pdf/2412.12079)]
+
+* **Reliable-loc**: "Reliable LiDAR global localization using spatial verification and pose uncertainty", *arxiv 2024*. [[Code](https://github.com/zouxianghong/Reliable-loc)]
 
 ---
 ## largemodel
@@ -336,6 +354,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **Cornell Tech Kuleshov Group** [[Homepage](https://github.com/kuleshov-group)]
 
 * **UCSD Existential Robotics Lab** [[Homepage](https://github.com/ExistentialRobotics)]
+
+* **UCSD Hao Su's Lab** [[Homepage](https://github.com/haosulab)]
 
 * **Umich Ford Center for Autonomous Vehicles FCAV** [[Homepage](https://github.com/umautobots)]
 
@@ -712,6 +732,11 @@ Deep Learning Framework:
 
 * **svo-dt**: " Drift-free Visual SLAM using Digital Twins", *arxiv 2024*. [[Paper](https://arxiv.org/pdf/2412.08496)] [[Code](https://github.com/uzh-rpg/rpg_svo_pro_with_digital_twins)]
 
+* **CityNav**: "CityNav: Language-Goal Aerial Navigation Dataset with Geographic Information", *arxiv 2024*.  [[Paper](https://arxiv.org/pdf/2406.14240)] 
+
+* **DFVDT**: "Drift-free Visual SLAM using Digital Twins", *arxiv 2024*.  [[Paper](https://arxiv.org/pdf/2412.08496)] 
+
+
    Follow [[TUMFTM](https://github.com/TUMFTM)] for more information on HDMap & SDMap aided localization, I will do supplement when I have time.
    
    Follow [[Tong Qin](https://github.com/qintonguav)] for more information on SDMap aided localization, I will do supplement when I have time.
@@ -737,6 +762,10 @@ Deep Learning Framework:
 * **EcSemMap**: "Uncertainty-aware Evidential Bayesian Semantic Mapping (EBS)", [[Code](https://github.com/junwon-vision/EvSemMap)]
 
 * **LoD**: "Learning-on-the-Drive: Self-supervised Adaptive Long-range Perception for High-speed Offroad Driving", [[Paper](https://arxiv.org/pdf/2306.15226)]
+
+* **tapdo**: "tadpo", [[Code](https://github.com/tadpo-iclr/tadpo)]
+
+
 
 ----
 ## WhyLongTerm
