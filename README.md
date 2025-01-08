@@ -505,6 +505,10 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 
 * **IJRR International Journal of Robotics Research** [[Registeration](https://mc.manuscriptcentral.com/ijrr)]
 
+* **JFR Journal of Field Robotics** [[Registeration](https://onlinelibrary.wiley.com/page/journal/15564967/homepage/forauthors.html)]
+
+* **Transportation Research Part C** [[Registeration](https://www.editorialmanager.com/trc/default.aspx)]
+
 * **TII IEEE Transactions on Industrial Informatics** [[Registeration](https://mc.manuscriptcentral.com/tii)]
 
 * **TITS IEEE Transactions on Intelligent Transportation Systems** [[Registeration](https://mc.manuscriptcentral.com/t-its)]
@@ -765,6 +769,7 @@ Deep Learning Framework:
 
 * **tapdo**: "tadpo", [[Code](https://github.com/tadpo-iclr/tadpo)]
 
+* **ROLO-SLAM**: "ROLO-SLAM: Rotation-Optimized LiDAR-Only SLAM in Uneven Terrain with Ground Vehicle", [[Code](https://github.com/sdwyc/ROLO)]
 
 
 ----
