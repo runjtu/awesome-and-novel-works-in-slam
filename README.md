@@ -10,7 +10,7 @@ If you find this repository useful, please consider STARing this list. Feel free
   - [3DGSNeRF](#3DGSNeRF)
   - [v2x](#v2x)
   - [Semantic](#semantic)
-  - [novelcv](#novelcv)
+  - [novel](#novel)
   - [Largemodel](#largemodel)
   - [leaders](#leaders)
   - [journals](#journals)
@@ -114,7 +114,7 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 
 ---
-## novelcv
+## novel
 
 * **UniDistill**: "A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View", *CVPR 2023*. [[Code](https://github.com/megvii-research/CVPR2023-UniDistill)]
 
@@ -123,6 +123,12 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **UniLoc**: "UniLoc: Towards Universal Place Recognition Using Any Single Modality", *arxiv 2024*. [[Paper](https://arxiv.org/pdf/2412.12079)]
 
 * **Reliable-loc**: "Reliable LiDAR global localization using spatial verification and pose uncertainty", *arxiv 2024*. [[Code](https://github.com/zouxianghong/Reliable-loc)]
+
+* **FAST-LIEO**: "FAST-LIEO", *github 2024*. [[Code](https://github.com/wsjpla/FAST-LIEO)]
+
+* **TripletLoc**: "TripletLoc: One-Shot Global Localization using Semantic Triplet in Urban Environment", *arxiv2024*. [[Code](https://github.com/Weixin-Ma/tripletloc)]
+
+
 
 ---
 ## largemodel
@@ -146,6 +152,11 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **Gato**[[Paper](https://arxiv.org/pdf/2205.06175)]
 
 * **Open the Black Box of Transformers**[[Paper](https://arxiv.org/abs/2311.13110)]
+
+* **DeepSeek-V3**[[Code](https://github.com/deepseek-ai/DeepSeek-V3)]
+
+* **Lotus**[[Code](https://github.com/EnVision-Research/Lotus)]
+
 
 
 ----
@@ -678,6 +689,10 @@ Deep Learning Framework:
 * **ZJL-VTS** [[Sim now](https://www.onsite.com.cn/#/dist/endToEndTestTool)]
 * **51Sim-one** [[Sim now](https://www.51sim.com/products/simone)]
 * **Mujoco** [[Sim now](https://github.com/google-deepmind/mujoco)]
+* **Genesis** [[Sim now](https://github.com/Genesis-Embodied-AI/Genesis)]
+
+
+
 ----
 ## BuySensors
 
