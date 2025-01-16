@@ -407,14 +407,16 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
   
 ### Asia 
 
+* **KAIST Urban Robotics Lab** [[Homepage](https://github.com/url-kaist)]
+
+* **KAIST Cognitive Learning for Vision and Robotics CLVR lab** [[Homepage](https://github.com/clvrai)]
+
 * **Yonsei Computational Intelligence Laboratory** [[Homepage](https://github.com/yonsei-cilab)]
 
 * **SNU RPM** [[Homepage](https://github.com/irapkaist)]
 
-* **KAIST Urban Robotics Lab** [[Homepage](https://github.com/url-kaist)]
+* **DGIST APRL** [[Homepage](https://sites.google.com/view/aprl-dgist)]
 
-* **KAIST Cognitive Learning for Vision and Robotics CLVR lab** [[Homepage](https://github.com/clvrai)]
-  
 * **Japan National Institute of Advanced Industrial Science and Technology** [[Homepage](https://github.com/SMRT-AIST)]
 
 * **Japan Nagoya** [[Homepage](https://github.com/MapIV)]
@@ -620,7 +622,7 @@ Libs:
 * **Sophus** [[Link](https://github.com/strasdat/Sophus)]
 * **gsplines** [[Link](https://github.com/rafaelrojasmiliani/gsplines_cpp)]
 * **VAE** [[Link](https://github.com/clementchadebec/benchmark_VAE)]
-
+* **pypose** [[Link](https://github.com/pypose/pypose)]
 
 
 NeRF/3DGS:
