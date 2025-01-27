@@ -155,6 +155,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **DeepSeek-V3**[[Code](https://github.com/deepseek-ai/DeepSeek-V3)]
 
+* **DeepSeek-R1**[[Code](https://github.com/deepseek-ai/DeepSeek-R1)]
+  
 * **Lotus**[[Code](https://github.com/EnVision-Research/Lotus)]
 
 
@@ -263,6 +265,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **ETHZ Learning and Adaptive Systems Group** [[Homepage](https://github.com/lasgroup)]
 
+* **ETHZ Photogrammetry and Remote Sensing Lab** [[Homepage](https://github.com/prs-eth)]
+
 * **UZH Robotics and Perception Group** [[Homepage](https://github.com/uzh-rpg)]
 
 * **EPFL CV LAB** [[Homepage](https://github.com/cvlab-epfl)]
@@ -349,6 +353,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **Learning and Control for Agile Robotics Lab at CMU** [[Homepage](https://github.com/LeCAR-Lab)]
 
 * **Princeton Computational Imaging** [[Homepage](https://github.com/princeton-computational-imaging)]
+
+* **Princeton Safe Robotics Lab** [[Homepage](https://github.com/SafeRoboticsLab)]
 
 * **UPenn Perception Action Learning Group** [[Homepage](https://github.com/penn-pal-lab)]
 
@@ -504,8 +510,9 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **CSIRORobotics Brisbane, Queensland, Australia** [[Homepage](https://github.com/csiro-robotics)]
 
-* **Robotics Institute, University of Technology Sydney** [[Homepage](https://github.com/UTS-RI)]
+* **Robotics Institute, University of Technology Sydney, Sydney, Australia** [[Homepage](https://github.com/UTS-RI)]
 
+* **Robotic Perception Group at the Australian Centre For Robotics, Sydney, Australia** [[Homepage](https://github.com/ACFR-RPG)]
 
 
 Find more on this link in case of u r looking for PhD positions[[I](https://zhuanlan.zhihu.com/p/682671294)] [[II](https://zhuanlan.zhihu.com/p/682692024)].
@@ -587,9 +594,13 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **KITTI** [[Homepage](https://www.cvlibs.net/datasets/kitti/)]
 * **Argoverse** [[Homepage](https://www.argoverse.org/)]
 * **Onpenlanev2** [[Homepage](https://github.com/OpenDriveLab/OpenLane-V2)]
+
 * **M2DGR** [[Homepage](https://github.com/SJTU-ViSYS/M2DGR)]
+* **GEODE** [[Homepage](https://github.com/PengYu-Team/GEODE_dataset)]
 * **SubT** [[Homepage](https://www.openrobotics.org/blog/2022/2/3/open-robotics-and-the-darpa-subterranean-challenge)]
+* **darpa_subt_worlds** [[Homepage](https://github.com/LTU-RAI/darpa_subt_worlds)]
 * **R3LIVE** [[Homepage](https://github.com/ziv-lin/r3live_dataset)]
+
 * **Rubble** [[Homepage](https://meganerf.cmusatyalab.org/)]
 * **TIERS** [[Homepage](https://github.com/TIERS/tiers-lidars-dataset)]
 * **HeLiPR** [[Homepage](https://arxiv.org/pdf/2309.14590)]
