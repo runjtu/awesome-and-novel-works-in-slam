@@ -805,6 +805,12 @@ Deep Learning Framework:
 
    For multi-session mapping and updating (change detection), dynamic objects filter.
 
+* **LT-Mapper**: "Lt-mapper: A modular framework for lidar-based lifelong mapping", *2022 International Conference on Robotics and Automation (ICRA)*.  [[Paper](https://github.com/gisbi-kim/lt-mapper/blob/main/doc/ltmapper.pdf)] [[Code](https://github.com/gisbi-kim/lt-mapper)]
+  
+* **Elite**: "Ephemerality meets LiDAR-based Lifelong Mapping", *arxiv 2025*. [[Code](https://github.com/dongjae0107/ELite)]
+
+* **HHRM**: " Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems", *IEEE ROBOTICS AND AUTOMATION LETTERS 2024*. [[Paper](https://arxiv.org/pdf/2501.18110)]
+
 * **KISS-Matcher**: "KISS-Matcher: Fast and Robust Point Cloud Registration Revisited", *arxiv 2024*. [[Paper](https://arxiv.org/abs/2409.15615)] [[Code](https://github.com/MIT-SPARK/KISS-Matcher)]
 
 * **G3Reg**: "Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap", *IEEE/RSJ International Conference on Intelligent Robots and Systems 2023*. [[Code](https://github.com/HKUST-Aerial-Robotics/G3Reg)]
