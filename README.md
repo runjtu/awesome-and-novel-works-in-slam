@@ -83,7 +83,11 @@ Follow [[Chongjie Ye](https://github.com/hugoycj)] for more practical experience
 
 * **ESDF**: "Sampling-free obstacle gradients and reactive planning in Neural Radiance Fields", *arXiv*. [[Paper](https://arxiv.org/abs/2205.01389)]
 
-* **ClearDepth**: "ClearDepth: Enhanced Stereo Perception of Transparent Objects for Robotic Manipulation", *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2409.08926)]
+* **Normal-NeRF**: "Normal-NeRF: Ambiguity-Robust Normal Estimation for Highly Reflective Scenes", *arXiv 2025*. [[Code](https://github.com/sjj118/Normal-NeRF)]
+
+* **GaussianProperty**: "Integrating Physical Properties to 3D Gaussians with LMMs", *arXiv 2025*. [[Project](https://gaussian-property.github.io/)]
+
+* **InfiniCube**: "InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models", *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2412.03934)]
 
 * **GS-LIVOM**: "Real-time Gaussian Splatting Assisted LiDAR-Inertial-Visual Odometry and Dense Mappings", *arXiv2024*. [[Code](https://github.com/xieyuser/GS-LIVOM)]
 
@@ -116,18 +120,17 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 ---
 ## novel
 
+* **DRLSV**: "Dense reinforcement learning for safety validation of autonomous vehicles", *Nature 2023*. [[Paper](https://www.nature.com/articles/s41586-023-05732-2)]
+
+* **Liquid AI**: "Closed-form continuous-time neural networks", *Nature 2023*. [[Paper](https://www.nature.com/articles/s42256-022-00556-7)]
+
 * **UniDistill**: "A Universal Cross-Modality Knowledge Distillation Framework for 3D Object Detection in Bird's-Eye View", *CVPR 2023*. [[Code](https://github.com/megvii-research/CVPR2023-UniDistill)]
 
 * **Let Occ Flow**: "Let Occ Flow: Self-Supervised 3D Occupancy Flow Prediction", *CoRL 2024*. [[Code](https://github.com/eliliu2233/occ-flow)]
 
 * **UniLoc**: "UniLoc: Towards Universal Place Recognition Using Any Single Modality", *arxiv 2024*. [[Paper](https://arxiv.org/pdf/2412.12079)]
 
-* **Reliable-loc**: "Reliable LiDAR global localization using spatial verification and pose uncertainty", *arxiv 2024*. [[Code](https://github.com/zouxianghong/Reliable-loc)]
-
 * **FAST-LIEO**: "FAST-LIEO", *github 2024*. [[Code](https://github.com/wsjpla/FAST-LIEO)]
-
-* **TripletLoc**: "TripletLoc: One-Shot Global Localization using Semantic Triplet in Urban Environment", *arxiv2024*. [[Code](https://github.com/Weixin-Ma/tripletloc)]
-
 
 
 ---
@@ -158,6 +161,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **DeepSeek-R1**[[Code](https://github.com/deepseek-ai/DeepSeek-R1)]
   
 * **Lotus**[[Code](https://github.com/EnVision-Research/Lotus)]
+
+* **VLN-CE-Isaac**[[Code](https://github.com/yang-zj1026/VLN-CE-Isaac)]
 
 
 
@@ -205,7 +210,9 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **Udacity** [[Homepage](https://github.com/udacity)]
   
 * **Nature Robots** [[Homepage](https://github.com/naturerobots)]
-  
+
+* **DeepSeek** [[Homepage](https://github.com/deepseek-ai)]
+
 * **livox** [[Homepage](https://github.com/Livox-SDK)]
 
 * **The International Digital Economy Academy** [[Homepage](https://github.com/IDEA-Research)]
@@ -555,6 +562,7 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 
 * **Communications in Transportation Research** [[Registeration](https://www.sciencedirect.com/journal/communications-in-transportation-research)]
 
+* **IEEE Open Journal of Intelligent Transportation Systems** [[Registeration](https://ieee-itss.org/pub/oj-its/)]
 
 
 ## Conferences
@@ -768,6 +776,12 @@ Deep Learning Framework:
 
 * **DFVDT**: "Drift-free Visual SLAM using Digital Twins", *arxiv 2024*.  [[Paper](https://arxiv.org/pdf/2412.08496)] 
 
+* **BEVPlace2**: "BEVPlace++: Fast, Robust, and Lightweight LiDAR Global Localization for Unmanned Ground Vehicles", *arxiv 2024*.  [[Code](https://github.com/zjuluolun/BEVPlace2)]
+
+* **TripletLoc**: "TripletLoc: One-Shot Global Localization using Semantic Triplet in Urban Environment", *arxiv2024*. [[Code](https://github.com/Weixin-Ma/tripletloc)]
+
+* **Reliable-loc**: "Reliable LiDAR global localization using spatial verification and pose uncertainty", *arxiv 2024*. [[Code](https://github.com/zouxianghong/Reliable-loc)]
+
 
    Follow [[TUMFTM](https://github.com/TUMFTM)] for more information on HDMap & SDMap aided localization, I will do supplement when I have time.
    
@@ -805,9 +819,13 @@ Deep Learning Framework:
 
    For multi-session mapping and updating (change detection), dynamic objects filter.
 
+* **Present and Future of SLAM in Extreme Environments**: "Present and Future of SLAM in Extreme Environments: The DARPA SubT Challenge", *2022 IEEE Transactions on Robotics*.  [[Paper](https://ieeexplore.ieee.org/document/10286080)] 
+
 * **LT-Mapper**: "Lt-mapper: A modular framework for lidar-based lifelong mapping", *2022 International Conference on Robotics and Automation (ICRA)*.  [[Paper](https://github.com/gisbi-kim/lt-mapper/blob/main/doc/ltmapper.pdf)] [[Code](https://github.com/gisbi-kim/lt-mapper)]
   
 * **Elite**: "Ephemerality meets LiDAR-based Lifelong Mapping", *arxiv 2025*. [[Code](https://github.com/dongjae0107/ELite)]
+
+* **SOLiD**: "SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition", *IEEE ROBOTICS AND AUTOMATION LETTERS 2024*. [[Code](https://github.com/sparolab/SOLiD)]
 
 * **HHRM**: " Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems", *IEEE ROBOTICS AND AUTOMATION LETTERS 2024*. [[Paper](https://arxiv.org/pdf/2501.18110)]
 
