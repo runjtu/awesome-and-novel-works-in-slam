@@ -132,6 +132,10 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **FAST-LIEO**: "FAST-LIEO", *github 2024*. [[Code](https://github.com/wsjpla/FAST-LIEO)]
 
+* **Awesome-Robotics-Diffusion**: "Awesome-Robotics-Diffusion", *github 2024*. [[Code](https://github.com/showlab/Awesome-Robotics-Diffusion)]
+
+
+
 
 ---
 ## largemodel
@@ -433,6 +437,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **Japan National Institute of Advanced Industrial Science and Technology** [[Homepage](https://github.com/SMRT-AIST)]
 
 * **Japan Nagoya** [[Homepage](https://github.com/MapIV)]
+
+* **NUS showlab** [[Homepage](https://github.com/showlab)]
 
 * **NTU ARIS** [[Homepage](https://github.com/ntu-aris)]
 
