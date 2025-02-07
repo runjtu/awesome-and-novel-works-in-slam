@@ -134,6 +134,9 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **Awesome-Robotics-Diffusion**: "Awesome-Robotics-Diffusion", *github 2024*. [[Code](https://github.com/showlab/Awesome-Robotics-Diffusion)]
 
+* **Diffusion Planner**: "Diffusion-Based Planning for Autonomous Driving with Flexible Guidance", *2025 International Conference on Learning Representation (ICLR)*. [[Code](https://github.com/ZhengYinan-AIR/Diffusion-Planner)]
+
+* **Learning More With Less**: "Learning More With Less: Sample Efficient Dynamics Learning and Model-Based RL for Loco-Manipulation", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2501.10499)]
 
 
 
@@ -819,6 +822,8 @@ Deep Learning Framework:
 
 * **ROLO-SLAM**: "ROLO-SLAM: Rotation-Optimized LiDAR-Only SLAM in Uneven Terrain with Ground Vehicle", [[Code](https://github.com/sdwyc/ROLO)]
 
+* **MGGPlanner**: "Multi-robot Grid Graph Exploration Planner", [[Code](https://github.com/MISTLab/MGGPlanner)]
+
 
 ----
 ## WhyLongTerm
@@ -833,7 +838,11 @@ Deep Learning Framework:
 
 * **SOLiD**: "SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition", *IEEE ROBOTICS AND AUTOMATION LETTERS 2024*. [[Code](https://github.com/sparolab/SOLiD)]
 
+* **HeLiOS**: "HeLiOS: Heterogeneous LiDAR Place Recognition via Overlap-based Learning and Local Spherical Transformer", *2025 International Conference on Robotics and Automation (ICRA)*. [[Code](https://github.com/minwoo0611/HeLiOS)]
+
 * **HHRM**: " Lifelong 3D Mapping Framework for Hand-held & Robot-mounted LiDAR Mapping Systems", *IEEE ROBOTICS AND AUTOMATION LETTERS 2024*. [[Paper](https://arxiv.org/pdf/2501.18110)]
+
+* **LiLoc**: " LiLoc: Lifelong Localization using Adaptive Submap Joining and Egocentric Factor Graph", *2025 International Conference on Robotics and Automation (ICRA)*. [[Code](https://github.com/Yixin-F/LiLoc)]
 
 * **KISS-Matcher**: "KISS-Matcher: Fast and Robust Point Cloud Registration Revisited", *arxiv 2024*. [[Paper](https://arxiv.org/abs/2409.15615)] [[Code](https://github.com/MIT-SPARK/KISS-Matcher)]
 
