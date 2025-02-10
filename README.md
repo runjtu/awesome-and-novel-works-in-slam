@@ -138,6 +138,7 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **Learning More With Less**: "Learning More With Less: Sample Efficient Dynamics Learning and Model-Based RL for Loco-Manipulation", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2501.10499)]
 
+* **SNN-VPR**: "Applications of Spiking Neural Networks in Visual Place Recognition", *IEEE Transactions on Robotics 2025*. [[Paper](https://arxiv.org/pdf/2311.13186)]
 
 
 ---
@@ -323,6 +324,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **TU Delft Intelligent Vehicles** [[Homepage](https://github.com/tudelft-iv)]
 
+* **TU Delft Autonomous Multi-Robots Lab** [[Homepage](https://github.com/tud-amr/)]
+
 * **Poznan University of Technology Mobile Robots Lab** [[Homepage](https://github.com/LRMPUT)]
 
 * **Sapienza University of Rome Robots Vision and Perception** [[Homepage](https://github.com/rvp-group)]
@@ -415,6 +418,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **University at Buffalo Spatial AI & Robotics Lab** [[Homepage](https://github.com/sair-lab)]
 
 * **Toronto STARS Laboratory** [[Homepage](https://github.com/utiasSTARS)]
+
+* **Toronto Autonomous Space Robotics Lab** [[Homepage](https://github.com/utiasASRL)]
 
 * **UBC Computer Vision Group** [[Homepage](https://github.com/ubc-vision)]
 
@@ -686,6 +691,10 @@ Deep Learning Framework:
 
 * **ViT** [[Video](https://www.youtube.com/watch?v=G6_IA5vKXRI)]
 
+Writing:
+
+* **NSFC-Latex** [[Video](https://github.com/MCG-NKU/NSFC-LaTex)]
+
 
 ----
 
@@ -791,6 +800,9 @@ Deep Learning Framework:
 
 * **Reliable-loc**: "Reliable LiDAR global localization using spatial verification and pose uncertainty", *arxiv 2024*. [[Code](https://github.com/zouxianghong/Reliable-loc)]
 
+* **Render2Loc**: "Render-and-Compare: Cross-view 6-DoF Localization from Noisy Prior", *2023 IEEE International Conference on Multimedia and Expo (ICME)*. [[Code](https://github.com/Choyaa/Render2Loc)]
+
+
 
    Follow [[TUMFTM](https://github.com/TUMFTM)] for more information on HDMap & SDMap aided localization, I will do supplement when I have time.
    
@@ -866,6 +878,8 @@ Deep Learning Framework:
 * **imesa**: "{iMESA}: Incremental Distributed Optimization for Collaborative Simultaneous Localization and Mapping", *Robotics: Science and Systems 2024*.  [[Paper](https://arxiv.org/pdf/2406.07371)] [[Code](https://github.com/rpl-cmu/imesa)]
 
 * **DCL-SLAM**: "Swarm-lio: Decentralized swarm lidar-inertial odometry", *IEEE International Conference on Robotics and Automation 2023*.  [[Paper](https://ieeexplore.ieee.org/document/10161355)] [[Code](https://github.com/PengYu-Team/DCL-SLAM)]
+
+* **ROAM**: "Riemannian Optimization for Active Mapping with Robot Teams", *IEEE Transactions on Robotics 2025*. [[Project](https://existentialrobotics.org/ROAM_webpage/)]
 
 * **BlockMap**: "Block-Map-Based Localization in Large-Scale Environment", *IEEE International Conference on Robotics and Automation 2024*.  [[Paper](https://arxiv.org/pdf/2404.18192)] [[Code](https://github.com/YixFeng/Block-Map-Based-Localization)]
 
