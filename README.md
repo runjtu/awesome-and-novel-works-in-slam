@@ -36,6 +36,8 @@ Follow [[ai kwea](https://github.com/kwea123)] for more practical experience on 
 
 Follow [[Chongjie Ye](https://github.com/hugoycj)] for more practical experience on 3DGS, I will do supplement when I have time.
 
+* **EVER**: "Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis", *arxiv 2024*.  [[Code](https://github.com/half-potato/ever_training)] 
+
 * **STORM**: "STORM: Spatio-Temporal Reconstruction Model for Large-Scale Outdoor Scenes", *arxiv 2024*.  [[Project](https://jiawei-yang.github.io/STORM/)] 
 
 * **NaVILA**: "NaVILA: Legged Robot Vision-Language-Action Model for Navigation", *arxiv 2024*.  [[Paper](https://arxiv.org/pdf/2412.04453)] 
@@ -318,6 +320,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **University of Turku Turku Intelligent Embedded and Robotic Systems Lab** [[Homepage](https://github.com/TIERS)]
 
+* **Istituto Italiano di Tecnologia Robotics** [[Homepage](https://www.iit.it/phd-positions-in-robotics)]
+
 * **NMBU Robotics** [[Homepage](https://github.com/NMBURobotics)]
 
 * **TU Delft 3D geoinformation research group** [[Homepage](https://github.com/tudelft3d)]
@@ -361,7 +365,7 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **MIT Aerospace Controls Laboratory** [[Homepage](https://github.com/mit-acl)]
 
-* **CMU Robotics Institute AirLab** [[Homepage](https://github.com/castacks)]
+* **CMU Robotics Institute AirLab** [[Homepage](https://github.com/castacks)][[FRC](https://frc.ri.cmu.edu)]
 
 * **CMU Robotic Exploration Lab** [[Homepage](https://github.com/RoboticExplorationLab)]
 
