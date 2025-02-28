@@ -148,8 +148,6 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **DriveLikeAHuman**: "Rethinking Autonomous Driving with Large Language Models", *CVPR, 2023*. [[Code](https://github.com/PJLab-ADG/DriveLikeAHuman)]
 
-* **learnLLM**[[Code](https://github.com/Lordog/dive-into-llms)]
-
 * **ReAct: Synergizing Reasoning and Acting in Language Models**[[Code](https://github.com/ysymyth/ReAct)]
 
 * **GraphRag**[[Code](https://github.com/microsoft/graphrag)]
@@ -251,6 +249,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **HUAWEI Noah's Ark Lab** [[Homepage](https://github.com/huawei-noah)]
 
+* **stepfun-ai** [[Homepage](https://github.com/stepfun-ai)]
+
 * **Toyota Research Institute Machine Learning** [[Homepage](https://github.com/TRI-ML)]
 
 ### UK
@@ -294,7 +294,7 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **TUM Smart Robotics Lab** [[Homepage](https://github.com/smartroboticslab)]
 
-* **Flight Robotics and Perception Group (FRPG)** [[Homepage](https://github.com/robot-perception-group)]
+* **Stuttgart Flight Robotics and Perception Group** [[Homepage](https://github.com/robot-perception-group)]
 
 * **Heidelberg Computer Vision and Learning Lab** [[Homepage](https://github.com/vislearn)]
 
@@ -353,6 +353,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **Stanford Center for Research on Foundation Models** [[Homepage](https://github.com/stanford-crfm)]
 
+* **Stanford Open Virtual Assistant Lab** [[Homepage](https://github.com/stanford-oval)]
+
 * **MIT-SPARKs** [[Homepage](https://github.com/MIT-SPARK)]
 
 * **MIT Driverless Perception Team** [[Homepage](https://github.com/cv-core)]
@@ -364,6 +366,10 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **MIT HAN Lab** [[Homepage](https://github.com/mit-han-lab)]
 
 * **MIT Aerospace Controls Laboratory** [[Homepage](https://github.com/mit-acl)]
+
+* **MIT Robust Robotics Group** [[Homepage](https://github.com/robustrobotics)]
+
+* **MIT Urban Mobility Lab + Transit Lab** [[Homepage](https://github.com/jtl-transit)]
 
 * **CMU Robotics Institute AirLab** [[Homepage](https://github.com/castacks)][[FRC](https://frc.ri.cmu.edu)]
 
@@ -409,6 +415,10 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **GaTech Intelligent Vision and Automation Laboratory IVA Lab** [[Homepage](https://github.com/ivalab)]
 
+* **Special Interest Group for Robotics Enthusiasts at UIUC** [[Homepage](https://github.com/SIGRobotics-UIUC)]
+
+* **UIUC-Robotics** [[Homepage](https://github.com/UIUC-Robotics)]
+
 * **Texas Austin Autonomous Mobile Robotics Laboratory** [[Homepage](https://github.com/ut-amrl)]
 
 * **Texas Austin Visual Informatics Group** [[Homepage](https://github.com/VITA-Group)]
@@ -444,6 +454,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **SNU RPM** [[Homepage](https://github.com/irapkaist)]
 
+* **SNU Machine Perception and Reasoning Lab** [[Homepage](https://github.com/snumprlab)]
+
 * **DGIST APRL** [[Homepage](https://sites.google.com/view/aprl-dgist)]
 
 * **Japan National Institute of Advanced Industrial Science and Technology** [[Homepage](https://github.com/SMRT-AIST)]
@@ -457,6 +469,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **CUHK OpenMMLab** [[Homepage](https://github.com/open-mmlab)]
 
 * **HKUST Aerial Robotics Group** [[Homepage](https://github.com/HKUST-Aerial-Robotics)]
+
+* **HKUST XRIM-Lab** [[Homepage](https://github.com/XRIM-Lab)]
 
 * **HKU Mars Lab** [[Homepage](https://github.com/hku-mars)]
 
@@ -490,7 +504,11 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **ZJU FAST Lab** [[Homepage](https://github.com/ZJU-FAST-Lab)]
 
+* **ZJU OM-AI Lab** [[Homepage](https://github.com/om-ai-lab)]
+
 * **Fudan Zhang Vision Group** [[Homepage](https://github.com/fudan-zvg)]
+
+* **Chongxuan Li's research group @ Renmin University of China** [[Homepage](https://github.com/ML-GSAI)]
 
 * **Tongji Intelligent Electric Vehicle Research Group** [[Homepage](https://github.com/tiev-tongji)]
 
@@ -621,11 +639,16 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **Argoverse** [[Homepage](https://www.argoverse.org/)]
 * **Onpenlanev2** [[Homepage](https://github.com/OpenDriveLab/OpenLane-V2)]
 
+
 * **M2DGR** [[Homepage](https://github.com/SJTU-ViSYS/M2DGR)]
 * **GEODE** [[Homepage](https://github.com/PengYu-Team/GEODE_dataset)]
 * **SubT** [[Homepage](https://www.openrobotics.org/blog/2022/2/3/open-robotics-and-the-darpa-subterranean-challenge)]
 * **darpa_subt_worlds** [[Homepage](https://github.com/LTU-RAI/darpa_subt_worlds)]
 * **R3LIVE** [[Homepage](https://github.com/ziv-lin/r3live_dataset)]
+* **WildScenes** [[Homepage](https://github.com/csiro-robotics/WildScenes)]
+* **RELLIS-3D** [[Homepage](https://github.com/unmannedlab/RELLIS-3D)]
+
+
 
 * **Rubble** [[Homepage](https://meganerf.cmusatyalab.org/)]
 * **TIERS** [[Homepage](https://github.com/TIERS/tiers-lidars-dataset)]
@@ -646,6 +669,7 @@ Practice makes perfect, though lack of innovation.
 * **ICRA 2023 Robodepth** [[Link](https://robodepth.github.io/)]
 * **ICRA 2024 RoboDrive** [[Link](https://robodrive-24.github.io/)]
 * **ICRA 2023 Sim2Real** [[Link](https://air.tsinghua.edu.cn/robomaster/sim2real_icra23.html)]
+* **nerfbaselines** [[Link](https://github.com/nerfbaselines/nerfbaselines)]
 
 
 ----
@@ -670,16 +694,21 @@ NeRF/3DGS:
 Calibration:
 
 * **Kalibr** [[CamCam/CamIMU/IMUIMU/Intrinsic](https://github.com/ethz-asl/kalibr)]
+* **iKalibr** [[IMU/Cam/Radar/LiDAR/RGBD](https://github.com/Unsigned-Long/iKalibr)]
 * **SensorsCalibration** [[LiDARCam/LiDARIMU/LiDARLiDAR/RadarCam/RadarLiDAR/CamCam/Intrinsic](https://github.com/PJLab-ADG/SensorsCalibration)]
 * **livox_camera_calib** [[LiDARCam](https://github.com/hku-mars/livox_camera_calib)]
 * **direct_visual_lidar_calibration** [[LiDARCam](https://github.com/koide3/direct_visual_lidar_calibration)]
 * **Calibration-Is-All-You-Need** [[LiDARCam/LiDARIMU/CamIMU/CamCam](https://github.com/linClubs/Calibration-Is-All-You-Need)]
+
+
 
 Evaluation:
 
 * **EVO** [[EVO](https://github.com/MichaelGrupp/evo)]
 * **CloudMapEvaluation** [[CloudMapEvaluation](https://github.com/JokerJohn/Cloud_Map_Evaluation)]
 * **SLAMHIVE** [[SLAMHIVE](https://github.com/STAR-Center/SLAM-Hive)]
+* **Robustness_Metric** [[SLAMHIVE](https://github.com/adrienzhh/Robustness_Metric)]
+
 
 Communication:
 
@@ -698,6 +727,22 @@ Deep Learning Framework:
 Writing:
 
 * **NSFC-Latex** [[Video](https://github.com/MCG-NKU/NSFC-LaTex)]
+
+
+Books:
+
+* **learnLLM**[[Code](https://github.com/Lordog/dive-into-llms)]
+
+* **Foundations-of-LLMs**[[Code](https://github.com/ZJU-LLMs/Foundations-of-LLMs)]
+
+* **MathRL**[[Code](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)]
+
+* **SLAM-Handbook**[[Code](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release)]
+
+* **slambook2**[[Code](https://github.com/gaoxiang12/slambook2)]
+
+* **TransferLearning**[[Code](https://github.com/jindongwang/transferlearning)]
+
 
 
 ----
@@ -730,9 +775,12 @@ Writing:
 * **Vires VTD** [[Sim now](https://hexagon.com/products/virtual-test-drive?utm_easyredir=vires.mscsoftware.com)]
 * **VI Worldsim** [[Sim now](https://www.vi-grade.com/en/products/vi-worldsim/)]
 * **ZJL-VTS** [[Sim now](https://www.onsite.com.cn/#/dist/endToEndTestTool)]
+* **MineSim** [[Sim now](https://github.com/BUAA-TRANS-Mine-Group/MineSim-3DVisualTool)]
 * **51Sim-one** [[Sim now](https://www.51sim.com/products/simone)]
 * **Mujoco** [[Sim now](https://github.com/google-deepmind/mujoco)]
 * **Genesis** [[Sim now](https://github.com/Genesis-Embodied-AI/Genesis)]
+* **Cosmos** [[Sim now](https://github.com/NVIDIA/Cosmos)]
+
 
 
 
@@ -908,7 +956,6 @@ reduce z-axis drift
 
    Follow [[koide](https://github.com/koide3)] for more information on Life-Long LiDAR Mapping, I will do supplement when I have time.
 
-   Find more in [[SLAM-Handbook](https://github.com/SLAM-Handbook-contributors/slam-handbook-public-release)] about SLAM.
 
 
 
