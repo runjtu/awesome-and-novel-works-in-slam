@@ -93,6 +93,8 @@ Follow [[Chongjie Ye](https://github.com/hugoycj)] for more practical experience
 
 * **GS-LIVOM**: "Real-time Gaussian Splatting Assisted LiDAR-Inertial-Visual Odometry and Dense Mappings", *arXiv2024*. [[Code](https://github.com/xieyuser/GS-LIVOM)]
 
+* **OpenGS-SLAM**: "OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding", *arXiv2024*. [[Code](https://github.com/YOUNG-bit/open_semantic_slam)]
+
 
 
 
@@ -854,6 +856,14 @@ Books:
 
 * **Render2Loc**: "Render-and-Compare: Cross-view 6-DoF Localization from Noisy Prior", *2023 IEEE International Conference on Multimedia and Expo (ICME)*. [[Code](https://github.com/Choyaa/Render2Loc)]
 
+* **CityWalker**: "CityWalker: Learning Embodied Urban Navigation from Web-Scale Videos", *2025 CVPR*. [[Code](https://github.com/ai4ce/CityWalker)]
+
+* **EI-Nav**: "OPEN: Openstreetmap-enhanced oPen-air sEmantic Navigation", *2025 arxiv*. [[Code](https://github.com/EI-Nav/light-map-navigation)]
+
+* **DeepGPS**: "DeepGPS: deep learning enhanced GPS positioning in urban canyons", *2024 IEEE Transactions on Mobile Computing (TMC)*. [[Code](https://github.com/bducgroup/DeepGPS)]
+
+
+
 
 
    Follow [[TUMFTM](https://github.com/TUMFTM)] for more information on HDMap & SDMap aided localization, I will do supplement when I have time.
@@ -888,6 +898,9 @@ Books:
 
 * **MGGPlanner**: "Multi-robot Grid Graph Exploration Planner", [[Code](https://github.com/MISTLab/MGGPlanner)]
 
+* **GroundGrid**: "GroundGrid: LiDAR Point Cloud Ground Segmentation and Terrain Estimation", [[Code](https://github.com/dcmlr/groundgrid)]
+
+
 
 ----
 ## WhyLongTerm
@@ -897,7 +910,9 @@ Books:
 * **Present and Future of SLAM in Extreme Environments**: "Present and Future of SLAM in Extreme Environments: The DARPA SubT Challenge", *2022 IEEE Transactions on Robotics*.  [[Paper](https://ieeexplore.ieee.org/document/10286080)] 
 
 * **LT-Mapper**: "Lt-mapper: A modular framework for lidar-based lifelong mapping", *2022 International Conference on Robotics and Automation (ICRA)*.  [[Paper](https://github.com/gisbi-kim/lt-mapper/blob/main/doc/ltmapper.pdf)] [[Code](https://github.com/gisbi-kim/lt-mapper)]
-  
+
+* **RoLL**: "ROLL: Long-Term Robust LiDAR-based Localization With Temporary Mapping in Changing Environments", *arxiv 2025*. [[Code](https://github.com/HaisenbergPeng/ROLL)]
+
 * **Elite**: "Ephemerality meets LiDAR-based Lifelong Mapping", *arxiv 2025*. [[Code](https://github.com/dongjae0107/ELite)]
 
 * **SOLiD**: "SOLiD: Spatially Organized and Lightweight Global Descriptor for FOV-constrained LiDAR Place Recognition", *IEEE ROBOTICS AND AUTOMATION LETTERS 2024*. [[Code](https://github.com/sparolab/SOLiD)]
@@ -911,6 +926,8 @@ Books:
 * **KISS-Matcher**: "KISS-Matcher: Fast and Robust Point Cloud Registration Revisited", *arxiv 2024*. [[Paper](https://arxiv.org/abs/2409.15615)] [[Code](https://github.com/MIT-SPARK/KISS-Matcher)]
 
 * **G3Reg**: "Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap", *IEEE/RSJ International Conference on Intelligent Robots and Systems 2023*. [[Code](https://github.com/HKUST-Aerial-Robotics/G3Reg)]
+
+* **SG-Reg**: "SG-Reg: Generalizable and Efficient Scene Graph Registration", *TRO under review*. [[Code](https://github.com/HKUST-Aerial-Robotics/SG-Reg)]
 
 * **DeepPointMap**: "DeepPointMap: Advancing LiDAR SLAM with Unified Neural Descriptors", *AAAI Conference on Artificial Intelligence 2024*. [[Code](https://github.com/ZhangXiaze/DeepPointMap)]
 
