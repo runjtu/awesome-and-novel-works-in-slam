@@ -95,6 +95,8 @@ Follow [[Chongjie Ye](https://github.com/hugoycj)] for more practical experience
 
 * **OpenGS-SLAM**: "OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding", *arXiv2024*. [[Code](https://github.com/YOUNG-bit/open_semantic_slam)]
 
+* **AKF-LIO**: "AKF-LIO: LiDAR-Inertial Odometry with Gaussian Map by Adaptive Kalman Filter", *arXiv2025*. [[Paper](https://arxiv.org/pdf/2503.06891)] [[Code](https://github.com/xpxie/AKF-LIO)]
+
 
 
 
@@ -143,6 +145,11 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **Learning More With Less**: "Learning More With Less: Sample Efficient Dynamics Learning and Model-Based RL for Loco-Manipulation", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2501.10499)]
 
 * **SNN-VPR**: "Applications of Spiking Neural Networks in Visual Place Recognition", *IEEE Transactions on Robotics 2025*. [[Paper](https://arxiv.org/pdf/2311.13186)]
+
+* **H3-Mapping**: "H3-Mapping: Quasi-Heterogeneous Feature Grids for Real-time Dense Mapping Using Hierarchical Hybrid Representation", *arxiv2024*. [[Code](https://github.com/SYSU-STAR/H3-Mapping)]
+
+* **PE3R**: "PE3R: Perception-Efficient 3D Reconstruction", *arxiv2025*. [[Code](https://github.com/hujiecpp/PE3R)]
+
 
 
 ---
@@ -484,6 +491,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **HK PolyU Visual Learning and Reasoning Group** [[Homepage](https://github.com/vLAR-group)]
 
+* **UMacau Intelligent Machine Research Lab (IMRL)** [[Homepage](https://github.com/IMRL)]
+
 * **NTNU Autonomous Robots Lab** [[Homepage](https://github.com/ntnu-arl)]
 
 * **Tsinghua IIIS MARS Lab** [[Homepage](https://github.com/Tsinghua-MARS-Lab)]
@@ -649,7 +658,7 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **R3LIVE** [[Homepage](https://github.com/ziv-lin/r3live_dataset)]
 * **WildScenes** [[Homepage](https://github.com/csiro-robotics/WildScenes)]
 * **RELLIS-3D** [[Homepage](https://github.com/unmannedlab/RELLIS-3D)]
-
+* **Night-Voyager** [[Homepage](https://github.com/IMRL/Night-Voyager)]
 
 
 * **Rubble** [[Homepage](https://meganerf.cmusatyalab.org/)]
@@ -701,6 +710,7 @@ Calibration:
 * **livox_camera_calib** [[LiDARCam](https://github.com/hku-mars/livox_camera_calib)]
 * **direct_visual_lidar_calibration** [[LiDARCam](https://github.com/koide3/direct_visual_lidar_calibration)]
 * **Calibration-Is-All-You-Need** [[LiDARCam/LiDARIMU/CamIMU/CamCam](https://github.com/linClubs/Calibration-Is-All-You-Need)]
+* **GRIL-Calib** [[LiDARIMU](https://github.com/Taeyoung96/GRIL-Calib)]
 
 
 
@@ -957,6 +967,10 @@ Books:
 reduce z-axis drift
 
 * **Norlab-icp**: "A 2-D/3-D mapping library relying on the "Iterative Closest Point" algorithm.", [[Code](https://github.com/norlab-ulaval/norlab_icp_mapper)]
+
+
+
+
 
 
    Follow [[Ji Zhang](https://github.com/jizhang-cmu)] for more information on Robust Navigation, I will do supplement when I have time.
