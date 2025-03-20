@@ -579,16 +579,18 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 
 * **IJRR International Journal of Robotics Research** [[Registeration](https://mc.manuscriptcentral.com/ijrr)]
 
-* **JFR Journal of Field Robotics** [[Registeration](https://onlinelibrary.wiley.com/page/journal/15564967/homepage/forauthors.html)]
-
 * **Transportation Research Part C** [[Registeration](https://www.editorialmanager.com/trc/default.aspx)]
+
+* **RCIM Robotics and Computer-Integrated Manufacturing** [[Registeration](https://www.editorialmanager.com/rcim/)]
 
 * **TII IEEE Transactions on Industrial Informatics** [[Registeration](https://mc.manuscriptcentral.com/tii)]
 
-* **TITS IEEE Transactions on Intelligent Transportation Systems** [[Registeration](https://mc.manuscriptcentral.com/t-its)]
+* **JFR Journal of Field Robotics** [[Registeration](https://onlinelibrary.wiley.com/page/journal/15564967/homepage/forauthors.html)]
 
 * **TASE IEEE Transactions on Automation Science and Engineering** [[Registeration](https://www.ieee-ras.org/publications/t-ase)]
-
+  
+* **TITS IEEE Transactions on Intelligent Transportation Systems** [[Registeration](https://mc.manuscriptcentral.com/t-its)]
+  
 * **TMech IEEE/ASME Transactions on Mechatronics** [[Registeration](http://www.ieee-asme-mechatronics.info/)]
 
 * **TGRS IEEE Transactions on Geoscience and Remote Sensing** [[Registeration](https://mc.manuscriptcentral.com/tgrs)]
@@ -599,13 +601,13 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 
 * **TIM IEEE Transactions on Instrumentation & Measurement** [[Registeration](https://www.editorialmanager.com/tim/default.aspx)]
 
-* **RA-L IEEE Robotics and Automation Letters** [[Registeration](https://ras.papercept.net/journals/ral/scripts/login.pl)]
-
-* **TVT IEEE Transactions on Vehicular Technology** [[Registeration](https://mc.manuscriptcentral.com/tvt-ieee/)]
-
 * **TTE IEEE Transactions on Transportation Electrification** [[Registeration](https://mc.manuscriptcentral.com/tte-ieee)]
 
 * **TIE IEEE Transactions on Industrial Electronics** [[Registeration](https://mc.manuscriptcentral.com/tie-ieee)]
+
+* **RA-L IEEE Robotics and Automation Letters** [[Registeration](https://ras.papercept.net/journals/ral/scripts/login.pl)]
+
+* **TVT IEEE Transactions on Vehicular Technology** [[Registeration](https://mc.manuscriptcentral.com/tvt-ieee/)]
 
 * **Communications in Transportation Research** [[Registeration](https://www.sciencedirect.com/journal/communications-in-transportation-research)]
 
@@ -671,7 +673,7 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **BorealTC** [[Homepage](https://github.com/norlab-ulaval/BorealTC)]
 * **fusionportable** [[Homepage](https://fusionportable.github.io/dataset/fusionportable_v2/)]
 
-find more in paperwithcode
+find more in [paperwithcode](https://paperswithcode.com/), [awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets)
 
 ## Competition
 
@@ -695,6 +697,7 @@ Libs:
 * **gsplines** [[Link](https://github.com/rafaelrojasmiliani/gsplines_cpp)]
 * **VAE** [[Link](https://github.com/clementchadebec/benchmark_VAE)]
 * **pypose** [[Link](https://github.com/pypose/pypose)]
+* **pyslam** [[Link](https://github.com/luigifreda/pyslam)]
 
 
 NeRF/3DGS:
@@ -741,7 +744,7 @@ Writing:
 * **NSFC-Latex** [[Video](https://github.com/MCG-NKU/NSFC-LaTex)]
 
 
-Books:
+Books and Reviews:
 
 * **learnLLM**[[Code](https://github.com/Lordog/dive-into-llms)]
 
@@ -754,6 +757,12 @@ Books:
 * **slambook2**[[Code](https://github.com/gaoxiang12/slambook2)]
 
 * **TransferLearning**[[Code](https://github.com/jindongwang/transferlearning)]
+
+* **Present and Future of SLAM in Extreme Environments**: "Present and Future of SLAM in Extreme Environments: The DARPA SubT Challenge", *2022 IEEE Transactions on Robotics*.  [[Paper](https://ieeexplore.ieee.org/document/10286080)] 
+
+* **General Place Recognition Survey**: "General Place Recognition Survey: Towards Real-World Autonomy", *2024 arxiv*.  [[Paper](https://arxiv.org/pdf/2405.04812)] [[Code](https://github.com/MetaSLAM/GPRS_Survey)]
+
+* **NeRF in Robotics**: "NeRF in Robotics: A Survey", *2024 arxiv*.  [[Paper](https://arxiv.org/pdf/2405.01333)] 
 
 
 
@@ -807,27 +816,29 @@ Books:
 
    For bridging college and society, mainly base in Shanghai, Beijing, Hangzhou, Suzhou, Canton, Shenzhen, HongKong
 
-   Shanghai: AI Lab, DiDi, Horizon, Li Auto, BOSCH, Huawei, SenseTime,
+   Shanghai: AI Lab, DiDi, Horizon, Li Auto, BOSCH, Huawei, SenseTime, 
 
-   Beijing: Xiaomi, Baidu, Pony.ai, 
+   Beijing: Xiaomi, Baidu, Pony.ai, MSRA
 
    Hangzhou: Unitree, Damo,
 
    Suzhou: Momenta,
 
    Canton: ZhuoYu, WeRide, Xiaopeng,
-
-   interview experience like [Find More](https://zhuanlan.zhihu.com/p/710108368)
+   
+   [Interview experience](https://zhuanlan.zhihu.com/p/710108368)
 
    BTW, RA/TA Opportunities：
 
    CMU AirLab
 
-   A STAR
+   A STAR Singapore
    
    CityU MetaSLAM
 
    ETH-RSS
+   
+   [Find More](https://github.com/StarCycle/Awesome-Embodied-AI-Job)
 
   
 ----
@@ -916,8 +927,6 @@ Books:
 ## WhyLongTerm
 
    For multi-session mapping and updating (change detection), dynamic objects filter.
-
-* **Present and Future of SLAM in Extreme Environments**: "Present and Future of SLAM in Extreme Environments: The DARPA SubT Challenge", *2022 IEEE Transactions on Robotics*.  [[Paper](https://ieeexplore.ieee.org/document/10286080)] 
 
 * **LT-Mapper**: "Lt-mapper: A modular framework for lidar-based lifelong mapping", *2022 International Conference on Robotics and Automation (ICRA)*.  [[Paper](https://github.com/gisbi-kim/lt-mapper/blob/main/doc/ltmapper.pdf)] [[Code](https://github.com/gisbi-kim/lt-mapper)]
 
