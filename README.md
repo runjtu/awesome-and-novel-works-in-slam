@@ -214,6 +214,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **Bosch Research** [[Homepage](https://github.com/boschresearch)]
 
+* **Vector AI** [[Homepage](https://github.com/VectorInstitute)]
+
 * **Motional** [[Homepage](https://github.com/nutonomy)]
 
 * **valeo.ai** [[Homepage](https://github.com/valeoai)]
@@ -297,6 +299,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **EPFL CV LAB** [[Homepage](https://github.com/cvlab-epfl)]
 
+* **EPFL Intelligent Maintenance and Operations Systems** [[Homepage](https://github.com/EPFL-IMOS)]
+
 * **TUM-Institue-of-Auotomative-Technology** [[Homepage](https://github.com/TUMFTM)]
 
 * **TUM-Computer-Vision-Group** [[Homepage](https://github.com/tum-vision)]
@@ -345,9 +349,17 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **LTU Robotics & AI Engineering Group** [[Homepage](https://github.com/LTU-RAI)]
 
+* **University of Luxembourg Automation and Robotics Research Group (ARG)** [[Homepage](https://github.com/snt-arg)]
+
 * **Control of Networked Systems Group at University of Klagenfurt** [[Homepage](https://github.com/aau-cns/)]
 
 * **Vision for Robotics and Autonomous Systems Czech Technical University in Prague (CTU)** [[Homepage](https://github.com/ctu-vras)]
+
+* **Multi-robot Systems (MRS) group Czech Technical University in Prague (CTU)** [[Homepage](https://github.com/ctu-mrs)]
+  
+* **LARICS Lab** [[Homepage](https://github.com/larics)]
+
+
 
 
 ### Notrh America
@@ -364,9 +376,9 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **Stanford Open Virtual Assistant Lab** [[Homepage](https://github.com/stanford-oval)]
 
-* **MIT-SPARKs** [[Homepage](https://github.com/MIT-SPARK)]
+* **Stanford NAV Lab** [[Homepage](https://github.com/Stanford-NavLab)]
 
-* **MIT Driverless Perception Team** [[Homepage](https://github.com/cv-core)]
+* **MIT-SPARKs** [[Homepage](https://github.com/MIT-SPARK)]
 
 * **MIT CSAIL Computer Vision** [[Homepage](https://github.com/CSAILVision)]
 
@@ -379,6 +391,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **MIT Robust Robotics Group** [[Homepage](https://github.com/robustrobotics)]
 
 * **MIT Urban Mobility Lab + Transit Lab** [[Homepage](https://github.com/jtl-transit)]
+
+* **MIT Driverless Perception Team** [[Homepage](https://github.com/cv-core)]
 
 * **CMU Robotics Institute AirLab** [[Homepage](https://github.com/castacks)][[FRC](https://frc.ri.cmu.edu)]
 
@@ -400,6 +414,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **Berkeley Automation Lab** [[Homepage](https://github.com/BerkeleyAutomation)]
 
+* **JHU Laboratory for Computational Sensing and Robotics** [[Homepage](https://github.com/jhu-lcsr)]
+
 * **UCLA Verifiable & Control-Theoretic Robotics Laboratory** [[Homepage](https://github.com/vectr-ucla)]
 
 * **UCLA Mobility Lab** [[Homepage](https://github.com/ucla-mobility)]
@@ -407,6 +423,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **Cornell Tech Kuleshov Group** [[Homepage](https://github.com/kuleshov-group)]
 
 * **UCSD Existential Robotics Lab** [[Homepage](https://github.com/ExistentialRobotics)]
+
+* **UCSD Autonomous Vehicle Laboratory** [[Homepage](https://github.com/AutonomousVehicleLaboratory)]
 
 * **UCSD Hao Su's Lab** [[Homepage](https://github.com/haosulab)]
 
@@ -428,6 +446,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **UIUC-Robotics** [[Homepage](https://github.com/UIUC-Robotics)]
 
+* **UIUC-iSE** [[Homepage](https://github.com/ise-uiuc)]
+
 * **Texas Austin Autonomous Mobile Robotics Laboratory** [[Homepage](https://github.com/ut-amrl)]
 
 * **Texas Austin Visual Informatics Group** [[Homepage](https://github.com/VITA-Group)]
@@ -435,6 +455,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **University of Delaware Robot Perception Navigation Group RPNG** [[Homepage](https://github.com/rpng)]
 
 * **Virginia Tech Transportation Institute** [[Homepage](https://github.com/VTTI)]
+
+* **ASU Intelligent Robotics and Interactive Systems (IRIS) Lab** [[Homepage](https://github.com/asu-iris)]
 
 * **SIT Robust Field Autonomy Lab** [[Homepage](https://github.com/RobustFieldAutonomyLab)]
 
@@ -448,9 +470,13 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **UWaterloo CL2** [[Homepage](https://github.com/CL2-UWaterloo)]
 
+* **IntRoLab - Intelligent / Interactive / Integrated / Interdisciplinary Robot Lab @ Université de Sherbrooke** [[Homepage](https://github.com/introlab)]
+
 * **École Polytechnique de Montréal Making Innovative Space Technology Lab** [[Homepage](https://github.com/MISTLab)]
 
 * **Université Laval Northern Robotics Laboratory** [[Homepage](https://github.com/norlab-ulaval/)]
+
+* **Queen's Estimation, Search, and Planning Research Group** [[Homepage](https://github.com/robotic-esp)]
 
   
 ### Asia 
@@ -486,6 +512,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **HKU CVMI Lab** [[Homepage](https://github.com/CVMI-Lab)]
 
 * **CUHK Deep Vision Lab** [[Homepage](https://github.com/dvlab-research)]
+
+* **CUHK DeciForce** [[Homepage](https://github.com/decisionforce)]
 
 * **City University of Hong Kong MetaSLAM** [[Homepage](https://github.com/MetaSLAM)]
 
@@ -531,6 +559,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **ShanghaiTech Vision and Intelligent Perception Lab** [[Homepage](https://github.com/svip-lab)]
 
+* **ShanghaiTech Automation and Robotics Center** [[Homepage](https://github.com/STAR-Center)]
+
 * **HITSZ nROS-Lab** [[Homepage](https://github.com/HITSZ-NRSL)]
 
 * **GAP-LAB-CUHK-SZ** [[Homepage](https://github.com/GAP-LAB-CUHK-SZ)]
@@ -549,6 +579,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **SYSU Pengyu Team** [[Homepage](https://github.com/PengYu-Team)]
 
+* **SYSU Human Cyber Physical (HCP) Intelligence Integration Lab** [[Homepage](https://github.com/HCPLab-SYSU)]
+
 * **NKU Robot Autonomy and Human-AI Collaboration Group** [[Homepage](https://github.com/NKU-MobFly-Robotics)]
 
 * **HKUSTGZ Research group of visual generative models** [[Homepage](https://github.com/EnVision-Research)]
@@ -556,6 +588,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **HNU Neuromorphic Automation and Intelligence Lab** [[Homepage](https://github.com/NAIL-HNU)]
 
 * **NEU REAL** [[Homepage](https://github.com/NEU-REAL)]
+
+* **SZU College of Computer Science and Software Engineering** [[Homepage](https://github.com/SZU-AdvTech-2023)]
 
 * **Israel Autonomous Navigation and Sensor Fusion Lab** [[Homepage](https://github.com/ansfl)]
 
@@ -885,8 +919,10 @@ Books and Reviews:
 
 
 
+   Follow [[Gmberton](https://github.com/gmberton)] for more information on Visual Place Recognition, I will do supplement when I have time.
 
-
+   Follow [[Sarlinpe](https://github.com/sarlinpe)] for more information on SfM & mapfusion, I will do supplement when I have time.
+  
    Follow [[TUMFTM](https://github.com/TUMFTM)] for more information on HDMap & SDMap aided localization, I will do supplement when I have time.
    
    Follow [[Tong Qin](https://github.com/qintonguav)] for more information on SDMap aided localization, I will do supplement when I have time.
@@ -921,7 +957,7 @@ Books and Reviews:
 
 * **GroundGrid**: "GroundGrid: LiDAR Point Cloud Ground Segmentation and Terrain Estimation", [[Code](https://github.com/dcmlr/groundgrid)]
 
-
+   Follow [[Jianhao Jiao](https://github.com/gogojjh)] for more information on Intelligent Nav, I will do supplement when I have time.
 
 ----
 ## WhyLongTerm
@@ -990,13 +1026,22 @@ reduce z-axis drift
    
    Follow [[Gisbi Kim](https://github.com/gisbi-kim/lt-mapper)] for more information on Map Maintaining, I will do supplement when I have time.
 
-   Follow [[Kin Zhang](https://github.com/Kin-Zhang)] for more information on Dynamic Objects Removing, I will do supplement when I have time.
+   Follow [[Qingwen Zhang](https://github.com/Kin-Zhang)] for more information on Dynamic Objects Removing, I will do supplement when I have time.
 
    Follow [[Zhijian Qiao](https://github.com/qiaozhijian)] for more information on Multi-Session Mapping, I will do supplement when I have time.
 
+
+
+
+   Engineering:
+
    Follow [[koide](https://github.com/koide3)] for more information on Life-Long LiDAR Mapping, I will do supplement when I have time.
 
+   Follow [[Xiangcheng Hu](https://github.com/JokerJohn)] for more information on Life-Long LiDAR Mapping, I will do supplement when I have time.
 
+   Follow [[Chengwei Zhao](https://github.com/chengwei0427)] for more information on LiDAR SLAM, I will do supplement when I have time.
+
+   Follow [[Heming Liang](https://github.com/liangheming)] for more information on LiDAR SLAM, I will do supplement when I have time.
 
 
 ----
