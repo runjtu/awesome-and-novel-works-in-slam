@@ -452,6 +452,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **Texas Austin Visual Informatics Group** [[Homepage](https://github.com/VITA-Group)]
 
+* **Texas Robot Perception and Learning Lab** [[Homepage](https://github.com/UT-Austin-RPL)]
+
 * **University of Delaware Robot Perception Navigation Group RPNG** [[Homepage](https://github.com/rpng)]
 
 * **Virginia Tech Transportation Institute** [[Homepage](https://github.com/VTTI)]
@@ -461,6 +463,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **SIT Robust Field Autonomy Lab** [[Homepage](https://github.com/RobustFieldAutonomyLab)]
 
 * **University at Buffalo Spatial AI & Robotics Lab** [[Homepage](https://github.com/sair-lab)]
+
+* **UCR Trustworthy Autonomous Systems Laboratory (TASL)** [[Homepage](https://github.com/tasl-lab)]
 
 * **Toronto STARS Laboratory** [[Homepage](https://github.com/utiasSTARS)]
 
@@ -562,6 +566,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **ShanghaiTech Automation and Robotics Center** [[Homepage](https://github.com/STAR-Center)]
 
 * **HITSZ nROS-Lab** [[Homepage](https://github.com/HITSZ-NRSL)]
+
+* **HITSZ CLASS-Lab** [[Homepage](https://github.com/CLASS-Lab)]
 
 * **GAP-LAB-CUHK-SZ** [[Homepage](https://github.com/GAP-LAB-CUHK-SZ)]
 
@@ -695,6 +701,8 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **WildScenes** [[Homepage](https://github.com/csiro-robotics/WildScenes)]
 * **RELLIS-3D** [[Homepage](https://github.com/unmannedlab/RELLIS-3D)]
 * **Night-Voyager** [[Homepage](https://github.com/IMRL/Night-Voyager)]
+* **ustc-flicar** [[Homepage](https://github.com/ustc-flicar/ustc-flicar.github.io)]
+* **M2UDr** [[Homepage](https://github.com/Yaepiii/M2UD)]
 
 
 * **Rubble** [[Homepage](https://meganerf.cmusatyalab.org/)]
@@ -704,8 +712,10 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **CVGlobal** [[Homepage](https://opendatalab.com/CVeRS/CVGlobal)]
 * **mapillary** [[Homepage](https://github.com/mapillary)]
 * **SLABIM** [[Homepage](https://github.com/HKUST-Aerial-Robotics/SLABIM)]
+* **BIMNet** [[Homepage](https://github.com/LydJason/BIMNet)]
 * **BorealTC** [[Homepage](https://github.com/norlab-ulaval/BorealTC)]
 * **fusionportable** [[Homepage](https://fusionportable.github.io/dataset/fusionportable_v2/)]
+
 
 find more in [paperwithcode](https://paperswithcode.com/), [awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets)
 
@@ -916,6 +926,10 @@ Books and Reviews:
 * **EI-Nav**: "OPEN: Openstreetmap-enhanced oPen-air sEmantic Navigation", *2025 arxiv*. [[Code](https://github.com/EI-Nav/light-map-navigation)]
 
 * **DeepGPS**: "DeepGPS: deep learning enhanced GPS positioning in urban canyons", *2024 IEEE Transactions on Mobile Computing (TMC)*. [[Code](https://github.com/bducgroup/DeepGPS)]
+
+* **TESM**: "Topological Exploration using Segmented Map with Keyframe Contribution in Subterranean Environments", *2023 arxiv*. [[Paper](https://arxiv.org/pdf/2309.08397)]
+
+* **SD++**: "SD++: Enhancing Standard Definition Maps by Incorporating Road Knowledge using LLMs", *2025 arxiv*. [[Paper](https://arxiv.org/pdf/2502.02773)]
 
 
 
