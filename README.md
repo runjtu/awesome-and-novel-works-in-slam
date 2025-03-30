@@ -94,11 +94,13 @@ Follow [[Chongjie Ye](https://github.com/hugoycj)] for more practical experience
 
 * **InfiniCube**: "InfiniCube: Unbounded and Controllable Dynamic 3D Driving Scene Generation with World-Guided Video Models", *arXiv 2024*. [[Paper](https://arxiv.org/pdf/2412.03934)]
 
-* **GS-LIVOM**: "Real-time Gaussian Splatting Assisted LiDAR-Inertial-Visual Odometry and Dense Mappings", *arXiv2024*. [[Code](https://github.com/xieyuser/GS-LIVOM)]
+* **GS-LIVOM**: "Real-time Gaussian Splatting Assisted LiDAR-Inertial-Visual Odometry and Dense Mappings", *arXiv 2024*. [[Code](https://github.com/xieyuser/GS-LIVOM)]
 
-* **OpenGS-SLAM**: "OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding", *arXiv2024*. [[Code](https://github.com/YOUNG-bit/open_semantic_slam)]
+* **OpenGS-SLAM**: "OpenGS-SLAM: Open-Set Dense Semantic SLAM with 3D Gaussian Splatting for Object-Level Scene Understanding", *arXiv 2024*. [[Code](https://github.com/YOUNG-bit/open_semantic_slam)]
 
-* **AKF-LIO**: "AKF-LIO: LiDAR-Inertial Odometry with Gaussian Map by Adaptive Kalman Filter", *arXiv2025*. [[Paper](https://arxiv.org/pdf/2503.06891)] [[Code](https://github.com/xpxie/AKF-LIO)]
+* **AKF-LIO**: "AKF-LIO: LiDAR-Inertial Odometry with Gaussian Map by Adaptive Kalman Filter", *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.06891)] [[Code](https://github.com/xpxie/AKF-LIO)]
+
+* **GSPR**: "GSPR: Multimodal Place Recognition Using 3D Gaussian Splatting for Autonomous Driving", *arXiv 2025*. [[Paper](https://arxiv.org/abs/2410.00299)] 
 
 
 
@@ -151,7 +153,21 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **H3-Mapping**: "H3-Mapping: Quasi-Heterogeneous Feature Grids for Real-time Dense Mapping Using Hierarchical Hybrid Representation", *arxiv2024*. [[Code](https://github.com/SYSU-STAR/H3-Mapping)]
 
-* **PE3R**: "PE3R: Perception-Efficient 3D Reconstruction", *arxiv2025*. [[Code](https://github.com/hujiecpp/PE3R)]
+* **PE3R**: "PE3R: Perception-Efficient 3D Reconstruction", *arxiv 2025*. [[Code](https://github.com/hujiecpp/PE3R)]
+
+* **SD-DefSLAM**: "SD-DefSLAM: Semi-Direct Monocular SLAM for Deformable and Intracorporeal Scenes", *2021 IEEE International Conference on Robotics and Automation (ICRA)*. [[Code](https://github.com/UZ-SLAMLab/SD-DefSLAM)]
+
+* **robust-pose-estimator**: "Learning how to robustly estimate camera pose in endoscopic videos", *International Journal of Computer Assisted Radiology and Surgery 2023*. [[Code](https://github.com/aimi-lab/robust-pose-estimator)]
+
+* **NR-SLAM**: "NR-SLAM: Non-Rigid Monocular SLAM", *2023 arxiv*. [[Code](https://github.com/endomapper/NR-SLAM)]
+
+
+
+
+
+
+
+
 
 
 
@@ -183,6 +199,19 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **Lotus**[[Code](https://github.com/EnVision-Research/Lotus)]
 
 * **VLN-CE-Isaac**[[Code](https://github.com/yang-zj1026/VLN-CE-Isaac)]
+
+* **Orion**: "ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation", *arxiv 2025*. [[Project](https://xiaomi-mlab.github.io/Orion/)]
+
+* **GASP**: "GASP: Unifying Geometric and Semantic Self-Supervised Pre-training for Autonomous Driving", *arxiv 2025*. [[Paper](https://arxiv.org/abs/2503.15672)]
+
+* **SpatialLM**: "SpatialLM: Large Language Model for Spatial Understanding", *github 2025*. [[Code](https://github.com/manycore-research/SpatialLM)]
+
+* **VL-Nav**: "VL-Nav: Real-time Vision-Language Navigation with Spatial Reasoning", *arxiv 2025*. [[Paper](https://arxiv.org/abs/2502.00931)]
+
+* **MiLA**: "MiLA: Multi-view Intensive-fidelity Long-term Video Generation World Model for Autonomous Driving", *arxiv 2025*. [[Paper](https://arxiv.org/abs/2503.15875)]
+
+* **GAIA-2**: "GAIA-2: Pushing the Boundaries of Video Generative Models for Safer Assisted and Automated Driving", *arxiv 2025*. [[Project](https://wayve.ai/thinking/gaia-2/)]
+
 
 
 
@@ -450,6 +479,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **UIUC-Robotics** [[Homepage](https://github.com/UIUC-Robotics)]
 
 * **UIUC-iSE** [[Homepage](https://github.com/ise-uiuc)]
+
+* **GAMMA UMD** [[Homepage](https://gamma.umd.edu/)]
 
 * **Texas Austin Autonomous Mobile Robotics Laboratory** [[Homepage](https://github.com/ut-amrl)]
 
@@ -811,6 +842,10 @@ Books and Reviews:
 
 * **NeRF in Robotics**: "NeRF in Robotics: A Survey", *2024 arxiv*.  [[Paper](https://arxiv.org/pdf/2405.01333)] 
 
+* **Learning-based 3D Reconstruction in AD**: "Learning-based 3D Reconstruction in Autonomous Driving: A Comprehensive Survey", *2025 arxiv*.  [[Paper](https://arxiv.org/abs/2503.14537)] 
+
+
+
 
 
 ----
@@ -848,6 +883,8 @@ Books and Reviews:
 * **Mujoco** [[Sim now](https://github.com/google-deepmind/mujoco)]
 * **Genesis** [[Sim now](https://github.com/Genesis-Embodied-AI/Genesis)]
 * **Cosmos** [[Sim now](https://github.com/NVIDIA/Cosmos)]
+* **BeamNG** [[Sim now](https://www.beamng.com/game/)]
+
 
 
 
@@ -865,13 +902,13 @@ Books and Reviews:
 
    Shanghai: AI Lab, DiDi, Horizon, Li Auto, BOSCH, Huawei, SenseTime, 
 
-   Beijing: Xiaomi, Baidu, Pony.ai, MSRA
+   Beijing: Xiaomi, Baidu, Pony.ai, MSRA, QCraft, 
 
-   Hangzhou: Unitree, Damo,
+   Hangzhou: Unitree, Damo, 
 
-   Suzhou: Momenta,
+   Suzhou: Momenta, 
 
-   Canton: ZhuoYu, WeRide, Xiaopeng,
+   Canton: ZhuoYu, WeRide, Xiaopeng, DeepRoute, 
    
    [Interview experience](https://zhuanlan.zhihu.com/p/710108368)
 
@@ -893,6 +930,8 @@ Books and Reviews:
 ## WeMedia
 
    Follow [[XueLingFeiHua](https://www.zhihu.com/people/maxhnnl/answers)] for general understanding of sensors used by autonomous vehicle, I will do supplement when I have time.
+
+   Follow [[MITRoboticsSeminar](https://www.youtube.com/c/MITRoboticsSeminar/videos)] for cutting edge seminar in robotics, I will do supplement when I have time.
 
 
 
