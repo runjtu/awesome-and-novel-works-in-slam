@@ -4,6 +4,9 @@ This repo contains a mostly cutting edge (new derives from old) list of **awesom
 
 If you find this repository useful, please consider STARing this list. Feel free to share this list with others! More comments will be found below, yet just opinions of mine. Let's make slamer great again.
 
+https://github.com/runjtu/awesome-and-novel-works-in-slam/blob/main/slam2.0.drawio.png
+
+
 ---
 ## Overview
 
