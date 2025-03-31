@@ -161,6 +161,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **NR-SLAM**: "NR-SLAM: Non-Rigid Monocular SLAM", *2023 arxiv*. [[Code](https://github.com/endomapper/NR-SLAM)]
 
+* **level-k**: "vehicle-interaction-decision-making", *2024 github*. [[Code](https://github.com/PuYuuu/vehicle-interaction-decision-making)]
+
 
 
 
@@ -511,6 +513,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **IntRoLab - Intelligent / Interactive / Integrated / Interdisciplinary Robot Lab @ Université de Sherbrooke** [[Homepage](https://github.com/introlab)]
 
 * **École Polytechnique de Montréal Making Innovative Space Technology Lab** [[Homepage](https://github.com/MISTLab)]
+
+* **York-SDCNLab** [[Homepage](https://github.com/York-SDCNLab)]
 
 * **Université Laval Northern Robotics Laboratory** [[Homepage](https://github.com/norlab-ulaval/)]
 
