@@ -104,7 +104,9 @@ Follow [[Chongjie Ye](https://github.com/hugoycj)] for more practical experience
 
 * **MTGS**: "MTGS:Multi-Traversal Gaussian Splatting", *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.12552)] 
 
+* **Semantic Gaussians**: "Semantic Gaussians: Open-Vocabulary Scene Understanding with 3D Gaussian Splatting", *arXiv 2025*. [[Code](https://github.com/sharinka0715/semantic-gaussians)] 
 
+* **diff-gaussian-rasterization**: "3D Gaussian Splatting for Real-Time Rendering of Radiance Fields", *ACM Transactions on Graphics 2023*. [[Code](https://github.com/JonathonLuiten/diff-gaussian-rasterization-w-depth)] 
 
 
 
@@ -226,9 +228,9 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **NeuPAN**: "NeuPAN: Direct Point Robot Navigation with End-to-End Model-based Learning", *IEEE Transactions on Robotics 2025*. [[Paper](https://arxiv.org/pdf/2403.06828)] [[Code](https://github.com/hanruihua/NeuPAN)]
 
-
 * **OpenDriveVLA**: "OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model", *arxiv 2025*. [[Code](https://github.com/DriveVLA/OpenDriveVLA)]
 
+* **Distill Any Depth**: "Distill Any Depth: Distillation Creates a Stronger Monocular Depth Estimator", *arxiv 2025*. [[Code](hhttps://github.com/Westlake-AGI-Lab/Distill-Any-Depth)]
 
 
 
