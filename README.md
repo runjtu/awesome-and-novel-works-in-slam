@@ -102,6 +102,9 @@ Follow [[Chongjie Ye](https://github.com/hugoycj)] for more practical experience
 
 * **GSPR**: "GSPR: Multimodal Place Recognition Using 3D Gaussian Splatting for Autonomous Driving", *arXiv 2025*. [[Paper](https://arxiv.org/abs/2410.00299)] 
 
+* **MTGS**: "MTGS:Multi-Traversal Gaussian Splatting", *arXiv 2025*. [[Paper](https://arxiv.org/pdf/2503.12552)] 
+
+
 
 
 
@@ -163,6 +166,13 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **level-k**: "vehicle-interaction-decision-making", *2024 github*. [[Code](https://github.com/PuYuuu/vehicle-interaction-decision-making)]
 
+* **Murre**: "Multi-view Reconstruction via SfM-guided Monocular Depth Estimation", *2025 arxiv*. [[Code](https://github.com/zju3dv/Murre)]
+
+* **STDLoc**: "From Sparse to Dense: Camera Relocalization with Scene-Specific Detector from Feature Gaussian Splatting", *arxiv 2025*. [[Code](https://github.com/zju3dv/STDLoc)]
+
+* **Scene Graph**: "Controllable 3D Outdoor Scene Generation via Scene Graphs", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2503.07152)]
+
+* **SPR**: "SPR: Scene-agnostic Pose Regression for Visual Localization", *CVPR 2025*. [[Code](https://github.com/JunweiZheng93/SPR)]
 
 
 
@@ -213,6 +223,11 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **MiLA**: "MiLA: Multi-view Intensive-fidelity Long-term Video Generation World Model for Autonomous Driving", *arxiv 2025*. [[Paper](https://arxiv.org/abs/2503.15875)]
 
 * **GAIA-2**: "GAIA-2: Pushing the Boundaries of Video Generative Models for Safer Assisted and Automated Driving", *arxiv 2025*. [[Project](https://wayve.ai/thinking/gaia-2/)]
+
+* **NeuPAN**: "NeuPAN: Direct Point Robot Navigation with End-to-End Model-based Learning", *IEEE Transactions on Robotics 2025*. [[Paper](https://arxiv.org/pdf/2403.06828)] [[Code](https://github.com/hanruihua/NeuPAN)]
+
+
+* **OpenDriveVLA**: "OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model", *arxiv 2025*. [[Code](https://github.com/DriveVLA/OpenDriveVLA)]
 
 
 
@@ -1097,11 +1112,15 @@ reduce z-axis drift
 
    Follow [[koide](https://github.com/koide3)] for more information on Life-Long LiDAR Mapping, I will do supplement when I have time.
 
+   Follow [[Zikang Yuan](https://github.com/ZikangYuan)] for more information on LIO, I will do supplement when I have time.
+
    Follow [[Xiangcheng Hu](https://github.com/JokerJohn)] for more information on Life-Long LiDAR Mapping, I will do supplement when I have time.
 
    Follow [[Chengwei Zhao](https://github.com/chengwei0427)] for more information on LiDAR SLAM, I will do supplement when I have time.
 
    Follow [[Heming Liang](https://github.com/liangheming)] for more information on LiDAR SLAM, I will do supplement when I have time.
+
+
 
 
 ----
