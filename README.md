@@ -33,11 +33,14 @@ If you find this repository useful, please consider STARing this list. Feel free
 
 ## 3DGSNeRF
 
+Follow [[Songyou Peng](https://pengsongyou.github.io/)] for more endeavors on 3DGS, I will do supplement when I have time.
+
 Follow [[Jiheng Yang](https://github.com/yangjiheng/nerf_and_beyond_docs)] for more information on NeRF/3DGS/EVER, He will update news weekly, best Chinese community for NeRF/3DGS, I will do supplement when I have time.
 
 Follow [[ai kwea](https://github.com/kwea123)] for more practical experience on NeRF, I will do supplement when I have time.
 
 Follow [[Chongjie Ye](https://github.com/hugoycj)] for more practical experience on 3DGS, I will do supplement when I have time.
+
 
 * **EVER**: "Exact Volumetric Ellipsoid Rendering for Real-time View Synthesis", *arxiv 2024*.  [[Code](https://github.com/half-potato/ever_training)] 
 
@@ -108,6 +111,9 @@ Follow [[Chongjie Ye](https://github.com/hugoycj)] for more practical experience
 
 * **diff-gaussian-rasterization**: "3D Gaussian Splatting for Real-Time Rendering of Radiance Fields", *ACM Transactions on Graphics 2023*. [[Code](https://github.com/JonathonLuiten/diff-gaussian-rasterization-w-depth)] 
 
+* **WildGS-SLAM**: "WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments", *CVPR 2025*. [[Code](https://github.com/GradientSpaces/WildGS-SLAM)] 
+
+
 
 
 ---
@@ -175,6 +181,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **Scene Graph**: "Controllable 3D Outdoor Scene Generation via Scene Graphs", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2503.07152)]
 
 * **SPR**: "SPR: Scene-agnostic Pose Regression for Visual Localization", *CVPR 2025*. [[Code](https://github.com/JunweiZheng93/SPR)]
+
+* **BEV-LIO-LC**: "BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure", *arxiv 2025*. [[Code](https://github.com/HxCa1/BEV-LIO-LC)]
 
 
 
@@ -1011,6 +1019,9 @@ Books and Reviews:
 
    For all terrain navigation, because We're tired of filtering ground points...
    
+
+
+* **salon**: "Off-road driving by learning from interaction and demonstration". [[Code](https://github.com/castacks/salon_ws)] [[Project](https://theairlab.org/offroad)]
 
 * **MonoForce**: "MonoForce: Self-supervised Learning of Physics-aware Model for Predicting Robot-terrain Interaction", *arXiv 2022*. [[Paper](https://arxiv.org/pdf/2309.09007)] [[Code](https://github.com/ctu-vras/traversability_estimation)]
 
