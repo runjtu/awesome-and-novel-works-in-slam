@@ -741,12 +741,8 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 ----
 
 ## Datasets
-* **NYU MARS** [[Homepage](https://ai4ce.github.io/MARS/)]
-* **KAIST Urban** [[Homepage](https://sites.google.com/view/complex-urban-dataset/)]
+
 * **EuRoC** [[Homepage](https://github.com/topics/euroc-dataset/)]
-* **MCD Dataset** [[Homepage](https://mcdviral.github.io/)]
-* **MSU-4S** [[Homepage](https://egr.msu.edu/waves/msu4s/)]
-* **HoloVIC** [[Homepage](https://holovic.net/)]
 * **Oxford Robotcar** [[Homepage](https://robotcar-dataset.robots.ox.ac.uk/)]
 * **NCLT** [[Homepage](http://robots.engin.umich.edu/nclt/)]
 * **Newer College** [[Homepage](https://ori-drs.github.io/newer-college-dataset/)]
@@ -754,8 +750,13 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **KITTI** [[Homepage](https://www.cvlibs.net/datasets/kitti/)]
 * **Argoverse** [[Homepage](https://www.argoverse.org/)]
 * **Onpenlanev2** [[Homepage](https://github.com/OpenDriveLab/OpenLane-V2)]
+* **NYU MARS** [[Homepage](https://ai4ce.github.io/MARS/)]
+* **KAIST Urban** [[Homepage](https://sites.google.com/view/complex-urban-dataset/)]
+* **MCD Dataset** [[Homepage](https://mcdviral.github.io/)]
+* **MSU-4S** [[Homepage](https://egr.msu.edu/waves/msu4s/)]
+* **HoloVIC** [[Homepage](https://holovic.net/)]
 
-
+* **BotanicGarden** [[Homepage](https://github.com/robot-pesg/BotanicGarden)]
 * **M2DGR** [[Homepage](https://github.com/SJTU-ViSYS/M2DGR)]
 * **GEODE** [[Homepage](https://github.com/PengYu-Team/GEODE_dataset)]
 * **SubT** [[Homepage](https://www.openrobotics.org/blog/2022/2/3/open-robotics-and-the-darpa-subterranean-challenge)]
@@ -777,7 +778,11 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **SLABIM** [[Homepage](https://github.com/HKUST-Aerial-Robotics/SLABIM)]
 * **BIMNet** [[Homepage](https://github.com/LydJason/BIMNet)]
 * **BorealTC** [[Homepage](https://github.com/norlab-ulaval/BorealTC)]
-* **fusionportable** [[Homepage](https://fusionportable.github.io/dataset/fusionportable_v2/)]
+* **fusionportable** [[Homepage](https://fusionportable.github.io/dataset/fusionportable_v2)]
+* **CVCities** [[Homepage](https://github.com/GaoShuang98/CVCities)]
+* **GAMa** [[Homepage](https://github.com/svyas23/GAMa)]
+
+
 
 
 find more in [paperwithcode](https://paperswithcode.com/), [awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets)
@@ -872,6 +877,10 @@ Books and Reviews:
 * **NeRF in Robotics**: "NeRF in Robotics: A Survey", *2024 arxiv*.  [[Paper](https://arxiv.org/pdf/2405.01333)] 
 
 * **Learning-based 3D Reconstruction in AD**: "Learning-based 3D Reconstruction in Autonomous Driving: A Comprehensive Survey", *2025 arxiv*.  [[Paper](https://arxiv.org/abs/2503.14537)] 
+
+* **World Model**: "The Role of World Models in Shaping Autonomous Driving: A Comprehensive Survey", [[Code](https://github.com/LMD0311/Awesome-World-Model)]
+
+* **HFHWC**: "Autonomous Driving in Unstructured Environments: How Far Have We Come?", [[Code](https://github.com/chaytonmin/Survey-Autonomous-Driving-in-Unstructured-Environments)]
 
 
 
@@ -1030,8 +1039,6 @@ Books and Reviews:
 * **TMMP**: "Bayesian Generalized Kernel Inference for Terrain Traversability Mapping", *the 2nd Annual Conference on Robot Learning*. [[Code](https://github.com/TixiaoShan/traversability_mapping)]
 
 * **STEPP**: "STEPP: Semantic Traversability Estimation using Pose Projected features", *not yet*. [[Code](https://github.com/RPL-CS-UCL/STEPP-Code)]
-
-* **HFHWC**: "Autonomous Driving in Unstructured Environments: How Far Have We Come?", [[Code](https://github.com/chaytonmin/Survey-Autonomous-Driving-in-Unstructured-Environments)]
 
 * **EcSemMap**: "Uncertainty-aware Evidential Bayesian Semantic Mapping (EBS)", [[Code](https://github.com/junwon-vision/EvSemMap)]
 
