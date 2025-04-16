@@ -116,6 +116,7 @@ Follow [[Chongjie Ye](https://github.com/hugoycj)] for more practical experience
 
 
 
+
 ---
 ## v2x
 
@@ -141,6 +142,9 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 ---
 ## novel
+
+* **MASt3R-SLAM**: "MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors", [[Code](https://github.com/rmurai0610/MASt3R-SLAM)]
+
 
 * **DRLSV**: "Dense reinforcement learning for safety validation of autonomous vehicles", *Nature 2023*. [[Paper](https://www.nature.com/articles/s41586-023-05732-2)]
 
@@ -238,7 +242,12 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **OpenDriveVLA**: "OpenDriveVLA: Towards End-to-end Autonomous Driving with Large Vision Language Action Model", *arxiv 2025*. [[Code](https://github.com/DriveVLA/OpenDriveVLA)]
 
-* **Distill Any Depth**: "Distill Any Depth: Distillation Creates a Stronger Monocular Depth Estimator", *arxiv 2025*. [[Code](hhttps://github.com/Westlake-AGI-Lab/Distill-Any-Depth)]
+* **Distill Any Depth**: "Distill Any Depth: Distillation Creates a Stronger Monocular Depth Estimator", *arxiv 2025*. [[Code](https://github.com/Westlake-AGI-Lab/Distill-Any-Depth)]
+
+* **TAP**: "Tracking Any Point (TAP)", *github 2025*. [[Code](https://github.com/google-deepmind/tapnet)]
+
+* **ORION**: "ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation", *github 2025*. [[Code](https://github.com/xiaomi-mlab/Orion)]
+
 
 
 
@@ -882,6 +891,10 @@ Books and Reviews:
 
 * **HFHWC**: "Autonomous Driving in Unstructured Environments: How Far Have We Come?", [[Code](https://github.com/chaytonmin/Survey-Autonomous-Driving-in-Unstructured-Environments)]
 
+* **FutureMapping2**: "FutureMapping 2: Gaussian Belief Propagation for Spatial AI", [[Paper](https://arxiv.org/abs/1910.14139)]
+
+
+
 
 
 
@@ -951,14 +964,6 @@ Books and Reviews:
    [Interview experience](https://zhuanlan.zhihu.com/p/710108368)
 
    BTW, RA/TA Opportunities：
-
-   CMU AirLab
-
-   A STAR Singapore
-   
-   CityU MetaSLAM
-
-   ETH-RSS
    
    [Find More](https://github.com/StarCycle/Awesome-Embodied-AI-Job)
 
@@ -980,6 +985,9 @@ Books and Reviews:
 
    Especially for indoor environments, the prior is BIM [[BIM](https://github.com/HKUST-Aerial-Robotics/SLABIM)]
 
+
+
+* **AddressCLIP**: "AddressCLIP: Empowering Vision-Language Models for City-wide Image Address Localization", *arxiv 2024*. [[Paper](https://arxiv.org/abs/2407.08156)]
 
 * **RoadNet**: "Translating Images to Road Network: A Non-Autoregressive Sequence-to-Sequence Approach", *ICCV 2023 (Oral)*. [[Paper](https://arxiv.org/abs/2402.08207)] [[Code](https://github.com/fudan-zvg/RoadNet)]
 
@@ -1052,6 +1060,10 @@ Books and Reviews:
 
 * **GroundGrid**: "GroundGrid: LiDAR Point Cloud Ground Segmentation and Terrain Estimation", [[Code](https://github.com/dcmlr/groundgrid)]
 
+* **Holistic Fusion**: "Holistic Fusion: Task and Setup-agnostic Robot Localization and State Estimation with Factor Graphs", [[Code](https://github.com/leggedrobotics/holistic_fusion)]
+
+
+
    Follow [[Jianhao Jiao](https://github.com/gogojjh)] for more information on Intelligent Nav, I will do supplement when I have time.
 
 ----
@@ -1106,7 +1118,11 @@ Books and Reviews:
   
 reduce z-axis drift
 
-* **Norlab-icp**: "A 2-D/3-D mapping library relying on the "Iterative Closest Point" algorithm.", [[Code](https://github.com/norlab-ulaval/norlab_icp_mapper)]
+* **Norlab-icp**: "A 2-D/3-D mapping library relying on the "Iterative Closest Point" algorithm", [[Code](https://github.com/norlab-ulaval/norlab_icp_mapper)]
+
+* **SuperOdometry**: "SuperOdometry: Lightweight LiDAR-inertial Odometry and Mapping", [[Code](https://github.com/superxslam/SuperOdom)]
+
+* **RING#**: "RING#: PR-by-PE Global Localization with Roto-translation Equivariant Gram Learning", [[Code](https://github.com/lus6-Jenny/RINGSharp)]
 
 
 
