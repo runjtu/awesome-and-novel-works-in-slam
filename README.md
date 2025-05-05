@@ -113,6 +113,8 @@ Follow [[Chongjie Ye](https://github.com/hugoycj)] for more practical experience
 
 * **WildGS-SLAM**: "WildGS-SLAM: Monocular Gaussian Splatting SLAM in Dynamic Environments", *CVPR 2025*. [[Code](https://github.com/GradientSpaces/WildGS-SLAM)] 
 
+* **SiLVR**: "SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection", *arxiv 2024*. [[Paper](https://arxiv.org/abs/2403.06877)] 
+
 
 
 
@@ -144,7 +146,6 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 ## novel
 
 * **MASt3R-SLAM**: "MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors", [[Code](https://github.com/rmurai0610/MASt3R-SLAM)]
-
 
 * **DRLSV**: "Dense reinforcement learning for safety validation of autonomous vehicles", *Nature 2023*. [[Paper](https://www.nature.com/articles/s41586-023-05732-2)]
 
@@ -188,13 +189,9 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **BEV-LIO-LC**: "BEV Image Assisted LiDAR-Inertial Odometry with Loop Closure", *arxiv 2025*. [[Code](https://github.com/HxCa1/BEV-LIO-LC)]
 
+* **DRO**: "DRO: Doppler-Aware Direct Radar Odometry", *RSS 2025*. [[Code](https://github.com/utiasASRL/dro)]
 
-
-
-
-
-
-
+* **RIO**: "EKF-based Radar Inertial Odometry using 4D mmWave radar sensors", *github 2022*. [[Code](https://github.com/christopherdoer/rio)]
 
 
 ---
@@ -247,6 +244,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **TAP**: "Tracking Any Point (TAP)", *github 2025*. [[Code](https://github.com/google-deepmind/tapnet)]
 
 * **ORION**: "ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation", *github 2025*. [[Code](https://github.com/xiaomi-mlab/Orion)]
+
+* **FindAnything**: "FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2504.08603)]
 
 
 
@@ -504,6 +503,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **Umich Computational Autonomy and Robotics Laboratory** [[Homepage](https://github.com/UMich-CURLY)]
 
+* **Umich Mobility Transformation Lab** [[Homepage](https://traffic.engin.umich.edu/)]
+
 * **NYU AI4CE Lab** [[Homepage](https://github.com/ai4ce)]
 
 * **GaTech BORG Lab** [[Homepage](https://github.com/borglab)]
@@ -553,6 +554,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **Université Laval Northern Robotics Laboratory** [[Homepage](https://github.com/norlab-ulaval/)]
 
 * **Queen's Estimation, Search, and Planning Research Group** [[Homepage](https://github.com/robotic-esp)]
+
+* **Queen's offroad robotics** [[Homepage](https://www.queensu.ca/offroad-robotics/)]
 
   
 ### Asia 
@@ -800,6 +803,7 @@ find more in [paperwithcode](https://paperswithcode.com/), [awesome-slam-dataset
 
 Practice makes perfect, though lack of innovation.
 
+* **ICRA 2025 FR** [[Link](https://norlab-ulaval.github.io/icra_workshop_field_robotics/)]
 * **ICRA 2023 Robodepth** [[Link](https://robodepth.github.io/)]
 * **ICRA 2024 RoboDrive** [[Link](https://robodrive-24.github.io/)]
 * **ICRA 2023 Sim2Real** [[Link](https://air.tsinghua.edu.cn/robomaster/sim2real_icra23.html)]
@@ -877,6 +881,8 @@ Books and Reviews:
 
 * **slambook2**[[Code](https://github.com/gaoxiang12/slambook2)]
 
+* **SLAM Course (2013)**[[Video](https://www.youtube.com/playlist?app=desktop&list=PLgnQpQtFTOGQrZ4O5QzbIHgl3b1JHimN_)]
+
 * **TransferLearning**[[Code](https://github.com/jindongwang/transferlearning)]
 
 * **Present and Future of SLAM in Extreme Environments**: "Present and Future of SLAM in Extreme Environments: The DARPA SubT Challenge", *2022 IEEE Transactions on Robotics*.  [[Paper](https://ieeexplore.ieee.org/document/10286080)] 
@@ -892,6 +898,7 @@ Books and Reviews:
 * **HFHWC**: "Autonomous Driving in Unstructured Environments: How Far Have We Come?", [[Code](https://github.com/chaytonmin/Survey-Autonomous-Driving-in-Unstructured-Environments)]
 
 * **FutureMapping2**: "FutureMapping 2: Gaussian Belief Propagation for Spatial AI", [[Paper](https://arxiv.org/abs/1910.14139)]
+
 
 
 
@@ -935,6 +942,7 @@ Books and Reviews:
 * **Genesis** [[Sim now](https://github.com/Genesis-Embodied-AI/Genesis)]
 * **Cosmos** [[Sim now](https://github.com/NVIDIA/Cosmos)]
 * **BeamNG** [[Sim now](https://www.beamng.com/game/)]
+* **metadrive** [[Sim now](https://github.com/metadriverse/metadrive)]
 
 
 
