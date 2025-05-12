@@ -145,6 +145,10 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 ---
 ## novel
 
+* **FastMap**: "FastMap: Revisiting Dense and Scalable Structure from Motion", [[Code](https://github.com/pals-ttic/fastmap)]
+
+* **VGGT**: "VGGT: Visual Geometry Grounded Transformer", [[Code](https://github.com/facebookresearch/vggt)]
+
 * **MASt3R-SLAM**: "MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors", [[Code](https://github.com/rmurai0610/MASt3R-SLAM)]
 
 * **DRLSV**: "Dense reinforcement learning for safety validation of autonomous vehicles", *Nature 2023*. [[Paper](https://www.nature.com/articles/s41586-023-05732-2)]
@@ -192,6 +196,10 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **DRO**: "DRO: Doppler-Aware Direct Radar Odometry", *RSS 2025*. [[Code](https://github.com/utiasASRL/dro)]
 
 * **RIO**: "EKF-based Radar Inertial Odometry using 4D mmWave radar sensors", *github 2022*. [[Code](https://github.com/christopherdoer/rio)]
+
+* **ApexNav**: "ApexNav: An Adaptive Exploration Strategy for Zero-Shot Object Navigation with Target-centric Semantic Fusion", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2504.14478)]
+
+
 
 
 ---
@@ -246,6 +254,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **ORION**: "ORION: A Holistic End-to-End Autonomous Driving Framework by Vision-Language Instructed Action Generation", *github 2025*. [[Code](https://github.com/xiaomi-mlab/Orion)]
 
 * **FindAnything**: "FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2504.08603)]
+
+* **Hier-SLAM**: "Hier-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting", *ICRA 2025*. [[Code](https://github.com/LeeBY68/Hier-SLAM)]
 
 
 
@@ -899,7 +909,9 @@ Books and Reviews:
 
 * **FutureMapping2**: "FutureMapping 2: Gaussian Belief Propagation for Spatial AI", [[Paper](https://arxiv.org/abs/1910.14139)]
 
+* **Vision-Language-ActionModels**: "Vision-Language-ActionModels: Concepts, Progress, Applications and Challenges", [[Paper](https://arxiv.org/pdf/2505.04769)]
 
+* **Embodied Intelligence for 3D Understanding**: "Embodied Intelligence for 3D Understanding: A Survey on 3D Scene Question Answering", [[Paper](https://arxiv.org/pdf/2502.00342)]
 
 
 
