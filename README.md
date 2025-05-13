@@ -15,7 +15,7 @@ If you find this repository useful, please consider STARing this list. Feel free
   - [Semantic](#semantic)
   - [novel](#novel)
   - [Largemodel](#largemodel)
-  - [leaders](#leaders)
+  - [leaders/labs](#leaders/labs)
   - [journals](#journals)
   - [conferences](#conferences)
   - [Datasets](#Datasets)
@@ -199,6 +199,10 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **ApexNav**: "ApexNav: An Adaptive Exploration Strategy for Zero-Shot Object Navigation with Target-centric Semantic Fusion", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2504.14478)]
 
+* **LP2**: "LP2: Language-based Probabilistic Long-term Prediction", *RAL 2024*. [[Code](https://github.com/MIT-SPARK/LP2)]
+
+
+
 
 
 
@@ -257,11 +261,13 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **Hier-SLAM**: "Hier-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting", *ICRA 2025*. [[Code](https://github.com/LeeBY68/Hier-SLAM)]
 
+* **SpatialLM**: "SpatialLM: Large Language Model for Spatial Understanding", *github 2025*. [[Code](https://github.com/manycore-research/SpatialLM)]
+
 
 
 
 ----
-## leaders
+## leaders/labs
 
 ### Industries and the off-campus
 
@@ -920,7 +926,7 @@ Books and Reviews:
 
 ----
 
-## Sim (experienced software, not toys from paper)
+## Sim (experienced and promising software)
 
 * **AAI** [[Sim now](https://www.automotive-ai.com/)]
 * **Airsim** [[Sim now](https://github.com/microsoft/AirSim)]
@@ -955,6 +961,9 @@ Books and Reviews:
 * **Cosmos** [[Sim now](https://github.com/NVIDIA/Cosmos)]
 * **BeamNG** [[Sim now](https://www.beamng.com/game/)]
 * **metadrive** [[Sim now](https://github.com/metadriverse/metadrive)]
+* **cosmos-transfer** [[Sim now](https://github.com/nvidia-cosmos/cosmos-transfer1)]
+* **LimSim** [[Sim now](https://github.com/PJLab-ADG/LimSim)]
+
 
 
 
