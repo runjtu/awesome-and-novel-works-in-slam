@@ -795,6 +795,8 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **Night-Voyager** [[Homepage](https://github.com/IMRL/Night-Voyager)]
 * **ustc-flicar** [[Homepage](https://github.com/ustc-flicar/ustc-flicar.github.io)]
 * **M2UDr** [[Homepage](https://github.com/Yaepiii/M2UD)]
+* **GND** [[Homepage](https://cs.gmu.edu/~xiao/Research/GND/)]
+
 
 
 * **Rubble** [[Homepage](https://meganerf.cmusatyalab.org/)]
