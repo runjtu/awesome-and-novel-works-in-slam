@@ -115,7 +115,13 @@ Follow [[Chongjie Ye](https://github.com/hugoycj)] for more practical experience
 
 * **SiLVR**: "SiLVR: Scalable Lidar-Visual Reconstruction with Neural Radiance Fields for Robotic Inspection", *arxiv 2024*. [[Paper](https://arxiv.org/abs/2403.06877)] 
 
+* **DyNFL**: "Dynamic LiDAR Re-simulation using Compositional Neural Fields", *CVPR 2024*. [[Paper](https://arxiv.org/pdf/2312.05247)] 
 
+* **VPGS-SLAM**: "VPGS-SLAM: Voxel-based Progressive 3D Gaussian SLAM in Large-Scale Scenes", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2505.18992)] 
+
+* **MAC-Ego3D**: "MAC-Ego3D: Multi-Agent Gaussian Consensus for Real-Time Collaborative Ego-Motion and Photorealistic 3D Reconstruction", *CVPR 2025*. [[Code](https://github.com/Xiaohao-Xu/MAC-Ego3D)]
+
+* **LucidDreamer**: "LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes", *arxiv 2023*. [[Code](https://github.com/luciddreamer-cvlab/LucidDreamer)]
 
 
 
@@ -201,6 +207,13 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **LP2**: "LP2: Language-based Probabilistic Long-term Prediction", *RAL 2024*. [[Code](https://github.com/MIT-SPARK/LP2)]
 
+* **Matrix3D**: "Matrix3D: Large Photogrammetry Model All-in-One", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2502.07685)]
+
+* **ViewCrafter**: "ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis", *arxiv 2024*. [[Code](https://github.com/Drexubery/ViewCrafter)]
+
+* **GelSLAM**: "GelSLAM: A Real-Time, High-Resolution, and Robust 3D Tactile SLAM System", *ICRA 2025*. [[Project](https://joehjhuang.github.io/gelslam/)]
+
+* **MAC-VO**: "MAC-VO: Metrics-Aware Covariance for Learning-based Stereo Visual Odometry", *ICRA 2025*. [[Project](https://mac-vo.github.io/)]
 
 
 
@@ -263,7 +276,13 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **SpatialLM**: "SpatialLM: Large Language Model for Spatial Understanding", *github 2025*. [[Code](https://github.com/manycore-research/SpatialLM)]
 
+* **LightEMMA**: "LightEMMA: Lightweight End-to-End Multimodal Model for Autonomous Driving", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2505.00284)]
 
+* **SOLVE**: "SOLVE: Synergy of Language-Vision and End-to-End Networks for Autonomous Driving", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2505.16805)]
+
+* **VL-Nav**: "VL-Nav: Real-time Vision-Language Navigation with Spatial Reasoning", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2502.00931)]
+
+* **VLM-3R**: "VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction", *arxiv 2025*. [[Code](https://github.com/VITA-Group/VLM-3R)]
 
 
 ----
@@ -921,6 +940,9 @@ Books and Reviews:
 
 * **Embodied Intelligence for 3D Understanding**: "Embodied Intelligence for 3D Understanding: A Survey on 3D Scene Question Answering", [[Paper](https://arxiv.org/pdf/2502.00342)]
 
+* **Generative AI for AD: R**: "Generative AI for Autonomous Driving: A Review", [[Paper](https://arxiv.org/pdf/2505.15863)]
+
+* **Generative AI for AD: FO**: "GENERATIVE AI FOR AUTONOMOUS DRIVING: FRONTIERS AND OPPORTUNITIES", [[Paper](https://arxiv.org/pdf/2505.08854)]
 
 
 
