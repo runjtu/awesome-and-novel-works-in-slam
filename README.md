@@ -2,8 +2,9 @@
 
 This repo contains a mostly cutting edge (new derives from old) list of **awesome and novel works in slam** <br>
 
-If you find this repository useful, please consider STARing this list. Feel free to share this list with others! More comments will be found below, yet just opinions of mine. Let's make slamer great again.
-
+If you find this repository useful, please consider STARing this list. Feel free to share this list with others! More comments will be found below, yet just opinions of mine. Let's make slamer great again. 
+Please note that arxiv is a preprint platform that has not undergone peer review. Some of the content is of very low quality. It is necessary to pay attention to the latest version of formal journals or conferences.
+There exists a significant disparity between engineering and academic pursuits, wherein numerous sophisticated concepts exhibit substantial gaps in practical implementation. This phenomenon is inherently normal and necessitates case-specific analysis to address the unique challenges encountered.
 
 ![graph](https://github.com/runjtu/awesome-and-novel-works-in-slam/blob/main/slam2.0.drawio.png)
 
@@ -124,7 +125,6 @@ Follow [[Chongjie Ye](https://github.com/hugoycj)] for more practical experience
 * **LucidDreamer**: "LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes", *arxiv 2023*. [[Code](https://github.com/luciddreamer-cvlab/LucidDreamer)]
 
 
-
 ---
 ## v2x
 
@@ -214,6 +214,9 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **GelSLAM**: "GelSLAM: A Real-Time, High-Resolution, and Robust 3D Tactile SLAM System", *ICRA 2025*. [[Project](https://joehjhuang.github.io/gelslam/)]
 
 * **MAC-VO**: "MAC-VO: Metrics-Aware Covariance for Learning-based Stereo Visual Odometry", *ICRA 2025*. [[Project](https://mac-vo.github.io/)]
+
+* **GeoNav**: "GeoNav: Empowering MLLMs with Explicit Geospatial Reasoning Abilities for Language-Goal Aerial Navigation", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2504.09587)]
+
 
 
 
@@ -345,6 +348,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **OpenRobotLab** [[Homepage](https://github.com/OpenRobotLab)]
 
 * **Alibaba AD Lab** [[Homepage](https://github.com/ADLab-AutoDrive)]
+
+* **LiAutoAD** [[Homepage](https://github.com/LiAutoAD)]
 
 * **Sense-GVT** [[Homepage](https://github.com/Sense-GVT)]
 
@@ -987,6 +992,8 @@ Books and Reviews:
 * **metadrive** [[Sim now](https://github.com/metadriverse/metadrive)]
 * **cosmos-transfer** [[Sim now](https://github.com/nvidia-cosmos/cosmos-transfer1)]
 * **LimSim** [[Sim now](https://github.com/PJLab-ADG/LimSim)]
+* **robosuite** [[Sim now](https://github.com/ARISE-Initiative/robosuite)]
+
 
 
 
@@ -1028,6 +1035,16 @@ Books and Reviews:
    Follow [[XueLingFeiHua](https://www.zhihu.com/people/maxhnnl/answers)] for general understanding of sensors used by autonomous vehicle, I will do supplement when I have time.
 
    Follow [[MITRoboticsSeminar](https://www.youtube.com/c/MITRoboticsSeminar/videos)] for cutting edge seminar in robotics, I will do supplement when I have time.
+
+   Follow [[IVDesign]([https://www.youtube.com/c/MITRoboticsSeminar/videos](https://mp.weixin.qq.com/s?__biz=Mzg5NDcxMDIxNA==&mid=2247516332&idx=1&sn=5d032b0138cd21a1ddb99bc782c0ef36&chksm=c19755d1da727e4d0d587f708cf0b55809dec06a24cf8750dfbf0adfdfa62ee8c68d0e1de83d&mpshare=1&scene=1&srcid=0602oIjWC7yhrpVLA8y1wEY3&sharer_shareinfo=6107cac786755ca405ea6c61abcec6b3&sharer_shareinfo_first=6107cac786755ca405ea6c61abcec6b3#rd))] [[ADCol]([https://mp.weixin.qq.com/s?__biz=Mzg2Mjg3MTc5OA==&mid=2247509070&idx=1&sn=06928562224f8925f4029024606c73ec&chksm=cfa060b85d43f23b20affd16d531baef6760207dc444d60404be7a01b2c5bb7dba2cf8f5f085&mpshare=1&scene=1&srcid=0602XGswFLqPDFyQR9GrrVoD&sharer_shareinfo=2dab53f5511ad80838f81c96cad4f399&sharer_shareinfo_first=2dab53f5511ad80838f81c96cad4f399#rd))] [[VLN]([https://mp.weixin.qq.com/s?__biz=MzkwMTgxNjk5OA==&mid=2247488168&idx=1&sn=c68f1ab4c1fc1bdeee6401503d2fb880&chksm=c10eb53663875cce034f79f5697d4878a0236dc328e13169e4d300eec111a820398f3b241b56&mpshare=1&scene=1&srcid=0602v2HW5yuGN3QT94iPwNXH&sharer_shareinfo=65b9bcf5f94e2e37b4032cdb20572d2b&sharer_shareinfo_first=65b9bcf5f94e2e37b4032cdb20572d2b#rd))] [[ADFeed]([https://mp.weixin.qq.com/s?__biz=MjM5NTI1NzgzMA==&mid=2447787620&idx=1&sn=9abb1bed1af25bdd016ee570264f6aad&chksm=b385150198ec29acc9b72cf0030f6013894a0085739b6926ad96cff02e21f28036403a48a4db&mpshare=1&scene=1&srcid=0602FttrTqDZmzic24Lk6PsL&sharer_shareinfo=457a044e076051cd771c5454f9dc1e7b&sharer_shareinfo_first=457a044e076051cd771c5454f9dc1e7b#rd))] for cutting edge paper and talks, scan QR code for more Wxtweet, I will do supplement when I have time.
+
+
+
+
+
+
+
+
 
 
 
