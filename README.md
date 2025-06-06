@@ -124,6 +124,10 @@ Follow [[Chongjie Ye](https://github.com/hugoycj)] for more practical experience
 
 * **LucidDreamer**: "LucidDreamer: Domain-free Generation of 3D Gaussian Splatting Scenes", *arxiv 2023*. [[Code](https://github.com/luciddreamer-cvlab/LucidDreamer)]
 
+* **LODGE**: "LODGE:Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2505.23158)]
+
+
+
 
 ---
 ## v2x
@@ -286,6 +290,11 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **VL-Nav**: "VL-Nav: Real-time Vision-Language Navigation with Spatial Reasoning", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2502.00931)]
 
 * **VLM-3R**: "VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction", *arxiv 2025*. [[Code](https://github.com/VITA-Group/VLM-3R)]
+
+* **Impromptu-VLA**: "Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models", *arxiv 2025*. [[Code](https://github.com/ahydchh/Impromptu-VLA)] [[Paper](https://arxiv.org/pdf/2505.23757v1)]
+
+
+
 
 
 ----
@@ -807,6 +816,7 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **MCD Dataset** [[Homepage](https://mcdviral.github.io/)]
 * **MSU-4S** [[Homepage](https://egr.msu.edu/waves/msu4s/)]
 * **HoloVIC** [[Homepage](https://holovic.net/)]
+* **Seeing in the Dark** [[Homepage](https://oxdan.active.vision/)]
 
 * **BotanicGarden** [[Homepage](https://github.com/robot-pesg/BotanicGarden)]
 * **M2DGR** [[Homepage](https://github.com/SJTU-ViSYS/M2DGR)]
