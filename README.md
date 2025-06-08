@@ -959,7 +959,11 @@ Books and Reviews:
 
 * **Generative AI for AD: FO**: "GENERATIVE AI FOR AUTONOMOUS DRIVING: FRONTIERS AND OPPORTUNITIES", [[Paper](https://arxiv.org/pdf/2505.08854)]
 
+* **LLM4Drive**: "LLM4Drive: A Survey of Large Language Models for Autonomous Driving", *arxiv 2023*. [[Code](https://github.com/Thinklab-SJTU/Awesome-LLM4AD)]
 
+* **MA-AD**: "Multi-Agent-Autonomous-Driving", *github 2025*. [[Code](https://github.com/dl-m9/Multi-Agent-Autonomous-Driving)]
+
+* **4DRadar-tutorial**: "4D Radar Technology and Advanced Sensor Fusion AI", *ICRA 2025*. [[Project](https://sites.google.com/view/icra25-4dradar-tutorial)]
 
 
 
@@ -1099,6 +1103,7 @@ Books and Reviews:
 
 * **SD++**: "SD++: Enhancing Standard Definition Maps by Incorporating Road Knowledge using LLMs", *2025 arxiv*. [[Paper](https://arxiv.org/pdf/2502.02773)]
 
+* **ERPoT**: "ERPoT: Effective and Reliable Pose Tracking for Mobile Robots Using Lightweight Polygon Maps", *2025 TRO*. [[Paper](https://ieeexplore.ieee.org/document/11024226)] [[Code](https://github.com/ghm0819/ERPoT)]
 
 
    Follow [[Gmberton](https://github.com/gmberton)] for more information on Visual Place Recognition, I will do supplement when I have time.
