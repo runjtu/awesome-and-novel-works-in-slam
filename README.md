@@ -595,6 +595,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **Toronto Autonomous Space Robotics Lab** [[Homepage](https://github.com/utiasASRL)]
 
+* **Toronto TRAIL Lab** [[Homepage](https://www.trailab.utias.utoronto.ca/)]
+
 * **UBC Computer Vision Group** [[Homepage](https://github.com/ubc-vision)]
 
 * **UWaterloo CL2** [[Homepage](https://github.com/CL2-UWaterloo)]
