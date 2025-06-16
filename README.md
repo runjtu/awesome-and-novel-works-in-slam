@@ -126,6 +126,8 @@ Follow [[Chongjie Ye](https://github.com/hugoycj)] for more practical experience
 
 * **LODGE**: "LODGE:Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2505.23158)]
 
+* **Omni-Scene**: "Omni-Scene: Omni-Gaussian Representation for Ego-Centric Sparse-View Scene Reconstruction", *CVPR 2025*. [[Paper](https://arxiv.org/pdf/2412.06273)]
+
 
 
 
@@ -157,7 +159,7 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **FastMap**: "FastMap: Revisiting Dense and Scalable Structure from Motion", [[Code](https://github.com/pals-ttic/fastmap)]
 
-* **VGGT**: "VGGT: Visual Geometry Grounded Transformer", [[Code](https://github.com/facebookresearch/vggt)]
+* **VGGT**: "VGGT: Visual Geometry Grounded Transformer", *CVPR 2025*. [[Code](https://github.com/facebookresearch/vggt)]
 
 * **MASt3R-SLAM**: "MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors", [[Code](https://github.com/rmurai0610/MASt3R-SLAM)]
 
@@ -220,6 +222,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **MAC-VO**: "MAC-VO: Metrics-Aware Covariance for Learning-based Stereo Visual Odometry", *ICRA 2025*. [[Project](https://mac-vo.github.io/)]
 
 * **GeoNav**: "GeoNav: Empowering MLLMs with Explicit Geospatial Reasoning Abilities for Language-Goal Aerial Navigation", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2504.09587)]
+
+* **NavDP**: "NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance", *arxiv 2025*. [[Paper](https://arxiv.org/abs/2505.08712)]
 
 
 
@@ -293,6 +297,7 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **Impromptu-VLA**: "Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models", *arxiv 2025*. [[Code](https://github.com/ahydchh/Impromptu-VLA)] [[Paper](https://arxiv.org/pdf/2505.23757v1)]
 
+* **Cosmos-Drive-Dreams**: "Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models", *arxiv 2025*. [[Project](https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams/)] [[Paper](https://arxiv.org/pdf/2506.09042)]
 
 
 
@@ -964,6 +969,9 @@ Books and Reviews:
 * **MA-AD**: "Multi-Agent-Autonomous-Driving", *github 2025*. [[Code](https://github.com/dl-m9/Multi-Agent-Autonomous-Driving)]
 
 * **4DRadar-tutorial**: "4D Radar Technology and Advanced Sensor Fusion AI", *ICRA 2025*. [[Project](https://sites.google.com/view/icra25-4dradar-tutorial)]
+
+* **Toward Embodied AGI**: "Toward Embodied AGI: A Review of Embodied AI and the Road Ahead", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2505.14235)]
+
 
 
 
