@@ -16,11 +16,11 @@ There exists a significant disparity between engineering and academic pursuits, 
   - [Semantic](#semantic)
   - [novel](#novel)
   - [Largemodel](#largemodel)
-  - [leaders/labs](#leaders/labs)
+  - [bignames](#bignames)
   - [journals](#journals)
   - [conferences](#conferences)
   - [Datasets](#Datasets)
-  - [Competition](#Competition)
+  - [Competitions](#Competitions)
   - [Tools](#Tools)
   - [Sim](#Sim)
   - [BuySensors](#BuySensors)
@@ -127,6 +127,15 @@ Follow [[Chongjie Ye](https://github.com/hugoycj)] for more practical experience
 * **LODGE**: "LODGE:Level-of-Detail Large-Scale Gaussian Splatting with Efficient Rendering", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2505.23158)]
 
 * **Omni-Scene**: "Omni-Scene: Omni-Gaussian Representation for Ego-Centric Sparse-View Scene Reconstruction", *CVPR 2025*. [[Paper](https://arxiv.org/pdf/2412.06273)]
+
+* **QuadricFormer**: "QuadricFormer: Scene as Superquadrics for 3D Semantic Occupancy Prediction", *arxiv 2025*. [[Code](https://github.com/zuosc19/QuadricFormer)] [[Paper](https://arxiv.org/pdf/2506.10977)]
+
+* **X-Scene**: "X-Scene: Large-Scale Driving Scene Generation with High Fidelity and Flexible Controllability", *arxiv 2025*. [[Project](https://www.catalyzex.com/paper/x-scene-large-scale-driving-scene-generation)]
+
+* **GaussNav**: " GaussNav: Gaussian Splatting for Visual Navigation", *arxiv 2024*. [[Code](https://github.com/XiaohanLei/GaussNav)] [[Paper](https://arxiv.org/pdf/2403.11625)]
+
+* **SplatFormer**: "SplatFormer: Point Transformer for Robust 3D Gaussian Splatting", *ICLR 2025*. [[Paper](https://arxiv.org/abs/2411.06390)]
+
 
 
 
@@ -303,7 +312,7 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 
 ----
-## leaders/labs
+## bignames
 
 ### Industries and the off-campus
 
@@ -634,21 +643,35 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **NUS showlab** [[Homepage](https://github.com/showlab)]
 
+* **NUS clearlab** [[Homepage](https://clear-nus.github.io/)]
+
+* **NUS adacomp** [[Homepage](https://adacomp.comp.nus.edu.sg/)]
+
+* **NUS marmotlab** [[Homepage](https://www.marmotlab.org/)]
+
+* **NUS cvrp lab** [[Homepage](https://www.comp.nus.edu.sg/~leegh/)]
+
+* **NTU AutoMan** [[Homepage](https://lvchen.wixsite.com/automan/people)]
+
 * **NTU ARIS** [[Homepage](https://github.com/ntu-aris)]
 
 * **CUHK OpenMMLab** [[Homepage](https://github.com/open-mmlab)]
 
-* **HKUST Aerial Robotics Group** [[Homepage](https://github.com/HKUST-Aerial-Robotics)]
+* **CUHK T Stone** [[Homepage](https://www4.mae.cuhk.edu.hk/peoples/liu-yun-hui/)]
 
-* **HKUST XRIM-Lab** [[Homepage](https://github.com/XRIM-Lab)]
+* **CUHK usr** [[Homepage](http://www.mae.cuhk.edu.hk/~usr/index.html)]
+
+* **CUHK Deep Vision Lab** [[Homepage](https://github.com/dvlab-research)]
+
+* **CUHK DeciForce** [[Homepage](https://github.com/decisionforce)]
 
 * **HKU Mars Lab** [[Homepage](https://github.com/hku-mars)]
 
 * **HKU CVMI Lab** [[Homepage](https://github.com/CVMI-Lab)]
 
-* **CUHK Deep Vision Lab** [[Homepage](https://github.com/dvlab-research)]
+* **HKUST Aerial Robotics Group** [[Homepage](https://github.com/HKUST-Aerial-Robotics)]
 
-* **CUHK DeciForce** [[Homepage](https://github.com/decisionforce)]
+* **HKUST XRIM-Lab** [[Homepage](https://github.com/XRIM-Lab)]
 
 * **City University of Hong Kong MetaSLAM** [[Homepage](https://github.com/MetaSLAM)]
 
@@ -858,10 +881,11 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 
 find more in [paperwithcode](https://paperswithcode.com/), [awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets)
 
-## Competition
+## Competitions
 
 Practice makes perfect, though lack of innovation.
 
+* **CVPR 2025 drivex** [[Link](https://drivex-workshop.github.io/)]
 * **ICRA 2025 FR** [[Link](https://norlab-ulaval.github.io/icra_workshop_field_robotics/)]
 * **ICRA 2023 Robodepth** [[Link](https://robodepth.github.io/)]
 * **ICRA 2024 RoboDrive** [[Link](https://robodrive-24.github.io/)]
