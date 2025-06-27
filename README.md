@@ -19,7 +19,7 @@ There exists a significant disparity between engineering and academic pursuits, 
   - [bignames](#bignames)
   - [journals](#journals)
   - [conferences](#conferences)
-  - [Datasets](#Datasets)
+  - [sets](#sets)
   - [Competitions](#Competitions)
   - [Tools](#Tools)
   - [Sim](#Sim)
@@ -234,6 +234,7 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **NavDP**: "NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance", *arxiv 2025*. [[Paper](https://arxiv.org/abs/2505.08712)]
 
+* **COMO**: "COMO: Compact Mapping and Odometry", *ECCV 2024*. [[Code](https://github.com/edexheim/como)]
 
 
 
@@ -307,6 +308,10 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **Impromptu-VLA**: "Impromptu VLA: Open Weights and Open Data for Driving Vision-Language-Action Models", *arxiv 2025*. [[Code](https://github.com/ahydchh/Impromptu-VLA)] [[Paper](https://arxiv.org/pdf/2505.23757v1)]
 
 * **Cosmos-Drive-Dreams**: "Cosmos-Drive-Dreams: Scalable Synthetic Driving Data Generation with World Foundation Models", *arxiv 2025*. [[Project](https://research.nvidia.com/labs/toronto-ai/cosmos_drive_dreams/)] [[Paper](https://arxiv.org/pdf/2506.09042)]
+
+* **AnyCam**: "AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos", *CVPR 2025*. [[Code](https://github.com/Brummi/anycam)] 
+
+* **Depth Any Camera**: "Depth Any Camera: Zero-Shot Metric Depth Estimation from Any Camera", *CVPR 2025*. [[Code](https://github.com/yuliangguo/depth_any_camera)] 
 
 
 
@@ -594,6 +599,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **ASU Intelligent Robotics and Interactive Systems (IRIS) Lab** [[Homepage](https://github.com/asu-iris)]
 
+* **Unmanned Systems Lab at Texas A&M** [[Homepage](https://github.com/unmannedlab)]
+
 * **SIT Robust Field Autonomy Lab** [[Homepage](https://github.com/RobustFieldAutonomyLab)]
 
 * **University at Buffalo Spatial AI & Robotics Lab** [[Homepage](https://github.com/sair-lab)]
@@ -860,6 +867,8 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **ustc-flicar** [[Homepage](https://github.com/ustc-flicar/ustc-flicar.github.io)]
 * **M2UDr** [[Homepage](https://github.com/Yaepiii/M2UD)]
 * **GND** [[Homepage](https://cs.gmu.edu/~xiao/Research/GND/)]
+* **Toronto-3D** [[Homepage](https://github.com/WeikaiTan/Toronto-3D)]
+
 
 
 
@@ -1041,6 +1050,9 @@ Books and Reviews:
 * **cosmos-transfer** [[Sim now](https://github.com/nvidia-cosmos/cosmos-transfer1)]
 * **LimSim** [[Sim now](https://github.com/PJLab-ADG/LimSim)]
 * **robosuite** [[Sim now](https://github.com/ARISE-Initiative/robosuite)]
+* **PlayerOne** [[Sim now](https://github.com/yuanpengtu/PlayerOne)]
+
+
 
 
 
@@ -1115,7 +1127,7 @@ Books and Reviews:
 
 * **svo-dt**: " Drift-free Visual SLAM using Digital Twins", *arxiv 2024*. [[Paper](https://arxiv.org/pdf/2412.08496)] [[Code](https://github.com/uzh-rpg/rpg_svo_pro_with_digital_twins)]
 
-* **CityNav**: "CityNav: Language-Goal Aerial Navigation Dataset with Geographic Information", *arxiv 2024*.  [[Paper](https://arxiv.org/pdf/2406.14240)] 
+* **CityNav**: "CityNav: Language-Goal Aerial Navigation set with Geographic Information", *arxiv 2024*.  [[Paper](https://arxiv.org/pdf/2406.14240)] 
 
 * **DFVDT**: "Drift-free Visual SLAM using Digital Twins", *arxiv 2024*.  [[Paper](https://arxiv.org/pdf/2412.08496)] 
 
