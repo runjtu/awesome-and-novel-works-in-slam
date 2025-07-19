@@ -136,6 +136,7 @@ Follow [[Chongjie Ye](https://github.com/hugoycj)] for more practical experience
 
 * **SplatFormer**: "SplatFormer: Point Transformer for Robust 3D Gaussian Splatting", *ICLR 2025*. [[Paper](https://arxiv.org/abs/2411.06390)]
 
+* **AD-GS**: "AD-GS: Object-Aware B-Spline Gaussian Splatting for Self-Supervised Autonomous Driving", *ICCV 2025*. [[Project](https://jiaweixu8.github.io/AD-GS-web/)]
 
 
 
@@ -166,11 +167,13 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 ---
 ## novel
 
-* **FastMap**: "FastMap: Revisiting Dense and Scalable Structure from Motion", [[Code](https://github.com/pals-ttic/fastmap)]
+* **Scene-Diffuser**: "Diffusion-based Generation, Optimization, and Planning in 3D Scenes", *CVPR 2023*. [[Project](https://scenediffuser.github.io)]
+
+* **FastMap**: "FastMap: Revisiting Dense and Scalable Structure from Motion", *arxiv 2025*. [[Code](https://github.com/pals-ttic/fastmap)]
 
 * **VGGT**: "VGGT: Visual Geometry Grounded Transformer", *CVPR 2025*. [[Code](https://github.com/facebookresearch/vggt)]
 
-* **MASt3R-SLAM**: "MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors", [[Code](https://github.com/rmurai0610/MASt3R-SLAM)]
+* **MASt3R-SLAM**: "MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors", *CVPR 2025*. [[Code](https://github.com/rmurai0610/MASt3R-SLAM)]
 
 * **DRLSV**: "Dense reinforcement learning for safety validation of autonomous vehicles", *Nature 2023*. [[Paper](https://www.nature.com/articles/s41586-023-05732-2)]
 
@@ -228,15 +231,31 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **GelSLAM**: "GelSLAM: A Real-Time, High-Resolution, and Robust 3D Tactile SLAM System", *ICRA 2025*. [[Project](https://joehjhuang.github.io/gelslam/)]
 
+* **GF-SLAM**: "GF-SLAM: A Novel Hybrid Localization Method Incorporating Global and Arc Features", *TASE 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10691946)]
+
 * **MAC-VO**: "MAC-VO: Metrics-Aware Covariance for Learning-based Stereo Visual Odometry", *ICRA 2025*. [[Project](https://mac-vo.github.io/)]
 
 * **GeoNav**: "GeoNav: Empowering MLLMs with Explicit Geospatial Reasoning Abilities for Language-Goal Aerial Navigation", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2504.09587)]
 
-* **NavDP**: "NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance", *arxiv 2025*. [[Paper](https://arxiv.org/abs/2505.08712)]
+* **NavDP**: "NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2505.08712)]
 
 * **COMO**: "COMO: Compact Mapping and Odometry", *ECCV 2024*. [[Code](https://github.com/edexheim/como)]
 
+* **π³**: "π³: Scalable Permutation-Equivariant Visual Geometry Learning", *arxiv 2025*. [[Project](https://yyfz.github.io/pi3/)]
 
+* **MGSfM**: "MGSfM: Multi-Camera Geometry Driven Global Structure-from-Motion", *ICCV 2025*. [[Paper](https://arxiv.org/pdf/2507.03306)]
+
+* **NavigScene**: "NavigScene: Bridging Local Perception and Global Navigation for Beyond-Visual-Range Autonomous Driving", *ACM MM 2025*. [[Paper](https://arxiv.org/pdf/2507.05227)]
+
+* **L-OGM**: "Self-supervised Multi-future Occupancy Forecasting for Autonomous Driving", *arxiv 2024*. [[Paper](https://arxiv.org/pdf/2407.21126v2)]
+
+* **U-ViLAR**: "U-ViLAR: Uncertainty-Aware Visual Localization for Autonomous Driving via Differentiable Association and Registration", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2507.04503)]
+
+* **Move to Understand a 3D Scene**: "Move to Understand a 3D Scene: Bridging Visual Grounding and Exploration for Efficient and Versatile Embodied Navigation", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2507.04047v1)]
+
+* **GeNIE**: "GeNIE: A Generalizable Navigation System for In-the-Wild Environments", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2506.17960)]
+
+* **CREStE**: "CREStE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance", *RSS 2025*. [[Code](https://github.com/ut-amrl/creste_public)]
 
 
 
@@ -313,6 +332,7 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **Depth Any Camera**: "Depth Any Camera: Zero-Shot Metric Depth Estimation from Any Camera", *CVPR 2025*. [[Code](https://github.com/yuliangguo/depth_any_camera)] 
 
+* **LLaVA-4D**: "LLaVA-4D: Embedding SpatioTemporal Prompt into LMMs for 4D Scene Understanding", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2505.12253)] 
 
 
 
@@ -817,6 +837,8 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 
 ## Conferences
 
+* **Jan. SIGGRAPH Special Interest Group for Computer GRAPHICS** [[Registeration](https://s2023.siggraph.org/)]
+
 * **Mar. RSS Robotics: Science and Systems** [[Registeration](https://roboticsconference.org/)]
   
 * **Nov. CVPR IEEE Conference on Computer Vision and Pattern Recognition** [[Registeration](https://cvpr.thecvf.com/)]
@@ -829,11 +851,21 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 
 * **Mar. ECCV European Conference on Computer Vision** [[Registeration](https://www.ecva.net/index.php#conferences)]
 
-* **Jan. SIGGRAPH Special Interest Group for Computer GRAPHICS** [[Registeration](https://s2023.siggraph.org/)]
+* **May. ITSC International Conference on Intelligent Transportation Systems** [[Registeration](https://ieee-itsc.org/2025/attend/)]
 
-* **Jul. CoRL Conference on Robot Learning** [[Registeration](https://www.corl2023.org/)]
+* **May. CoRL Conference on Robot Learning** [[Registeration](https://www.corl.org/home)]
+
+* **May. NIPS Annual Conference on Neural Information Processing Systems** [[Registeration](https://neurips.cc/)]
+
+* **May. ACM MM ACM International Conference on Multimedia** [[Registeration](https://acmmm2025.org/)]
+
+* **Aug. AAAI Annual AAAI Conference on Artificial Intelligence** [[Registeration](https://aaai.org/conference/aaai/aaai-25/)]
 
 * **Sept. ICLR International Conference on Learning Representations** [[Registeration](https://iclr.cc/)]
+
+* **Oct. ICML International Conference on Machine Learning** [[Registeration](https://icml.cc/)]
+
+
 
 
 ----
@@ -857,6 +889,7 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 
 * **BotanicGarden** [[Homepage](https://github.com/robot-pesg/BotanicGarden)]
 * **M2DGR** [[Homepage](https://github.com/SJTU-ViSYS/M2DGR)]
+* **M3DGR** [[Homepage](https://github.com/sjtuyinjie/M3DGR)]
 * **GEODE** [[Homepage](https://github.com/PengYu-Team/GEODE_dataset)]
 * **SubT** [[Homepage](https://www.openrobotics.org/blog/2022/2/3/open-robotics-and-the-darpa-subterranean-challenge)]
 * **darpa_subt_worlds** [[Homepage](https://github.com/LTU-RAI/darpa_subt_worlds)]
@@ -884,8 +917,6 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **fusionportable** [[Homepage](https://fusionportable.github.io/dataset/fusionportable_v2)]
 * **CVCities** [[Homepage](https://github.com/GaoShuang98/CVCities)]
 * **GAMa** [[Homepage](https://github.com/svyas23/GAMa)]
-
-
 
 
 find more in [paperwithcode](https://paperswithcode.com/), [awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets)
@@ -1007,6 +1038,9 @@ Books and Reviews:
 
 * **Toward Embodied AGI**: "Toward Embodied AGI: A Review of Embodied AI and the Road Ahead", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2505.14235)]
 
+* **Multi-sensor Mapping**: "LiDAR, GNSS and IMU Sensor Alignment through Dynamic Time Warping to Construct 3D City Maps", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2507.08420)]
+
+* **Embodied Navigation**: "Embodied Navigation", *Science China Information Sciences 2025*. [[Paper](https://link.springer.com/article/10.1007/s11432-024-4303-8)]
 
 
 
@@ -1094,7 +1128,9 @@ Books and Reviews:
 
    Follow [[XueLingFeiHua](https://www.zhihu.com/people/maxhnnl/answers)] for general understanding of sensors used by autonomous vehicle, I will do supplement when I have time.
 
-   Follow [[MITRoboticsSeminar](https://www.youtube.com/c/MITRoboticsSeminar/videos)] for cutting edge seminar in robotics, I will do supplement when I have time.
+   Follow [[MITRoboticsSeminar](https://www.youtube.com/c/MITRoboticsSeminar/videos)] for cutting edge seminars in robotics, I will do supplement when I have time.
+
+   Follow [[RSS](https://www.youtube.com/@roboticsscienceandsystems2817)] for cutting edge seminars in robotics, I will do supplement when I have time.
 
    Follow [[IVDesign]([https://www.youtube.com/c/MITRoboticsSeminar/videos](https://mp.weixin.qq.com/s?__biz=Mzg5NDcxMDIxNA==&mid=2247516332&idx=1&sn=5d032b0138cd21a1ddb99bc782c0ef36&chksm=c19755d1da727e4d0d587f708cf0b55809dec06a24cf8750dfbf0adfdfa62ee8c68d0e1de83d&mpshare=1&scene=1&srcid=0602oIjWC7yhrpVLA8y1wEY3&sharer_shareinfo=6107cac786755ca405ea6c61abcec6b3&sharer_shareinfo_first=6107cac786755ca405ea6c61abcec6b3#rd))] [[ADCol]([https://mp.weixin.qq.com/s?__biz=Mzg2Mjg3MTc5OA==&mid=2247509070&idx=1&sn=06928562224f8925f4029024606c73ec&chksm=cfa060b85d43f23b20affd16d531baef6760207dc444d60404be7a01b2c5bb7dba2cf8f5f085&mpshare=1&scene=1&srcid=0602XGswFLqPDFyQR9GrrVoD&sharer_shareinfo=2dab53f5511ad80838f81c96cad4f399&sharer_shareinfo_first=2dab53f5511ad80838f81c96cad4f399#rd))] [[VLN]([https://mp.weixin.qq.com/s?__biz=MzkwMTgxNjk5OA==&mid=2247488168&idx=1&sn=c68f1ab4c1fc1bdeee6401503d2fb880&chksm=c10eb53663875cce034f79f5697d4878a0236dc328e13169e4d300eec111a820398f3b241b56&mpshare=1&scene=1&srcid=0602v2HW5yuGN3QT94iPwNXH&sharer_shareinfo=65b9bcf5f94e2e37b4032cdb20572d2b&sharer_shareinfo_first=65b9bcf5f94e2e37b4032cdb20572d2b#rd))] [[ADFeed]([https://mp.weixin.qq.com/s?__biz=MjM5NTI1NzgzMA==&mid=2447787620&idx=1&sn=9abb1bed1af25bdd016ee570264f6aad&chksm=b385150198ec29acc9b72cf0030f6013894a0085739b6926ad96cff02e21f28036403a48a4db&mpshare=1&scene=1&srcid=0602FttrTqDZmzic24Lk6PsL&sharer_shareinfo=457a044e076051cd771c5454f9dc1e7b&sharer_shareinfo_first=457a044e076051cd771c5454f9dc1e7b#rd))] for cutting edge paper and talks, scan QR code for more Wxtweet, I will do supplement when I have time.
 
@@ -1161,6 +1197,9 @@ Books and Reviews:
    Follow [[Tong Qin](https://github.com/qintonguav)] for more information on SDMap aided localization, I will do supplement when I have time.
 
    Follow [[Yujiao Shi](https://github.com/YujiaoShi/)] and [[tudelft-iv](https://github.com/tudelft-iv)] for more information on Satellite images aided localization, I will do supplement when I have time.
+
+   Follow [[Waipang Kwan](https://kwanwaipang.github.io/home/)] for more information on Scene Understanding Blogs.
+
 
 ----
 ## WhyTraversability
