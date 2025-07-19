@@ -6,6 +6,8 @@ If you find this repository useful, please consider STARing this list. Feel free
 Please note that arxiv is a preprint platform that has not undergone peer review. Some of the content is of very low quality. It is necessary to pay attention to the latest version of formal journals or conferences.
 There exists a significant disparity between engineering and academic pursuits, wherein numerous sophisticated concepts exhibit substantial gaps in practical implementation. This phenomenon is inherently normal and necessitates case-specific analysis to address the unique challenges encountered.
 
+For latest Spatial AI related work, please refer [[SAI-arxiv-daily-Repo](https://github.com/runjtu/vpr-arxiv-daily)]
+
 ![graph](https://github.com/runjtu/awesome-and-novel-works-in-slam/blob/main/slam2.0.drawio.png)
 
 ---
