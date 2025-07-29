@@ -1,6 +1,6 @@
-# awesome-and-l-works-in-slam [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome-and-novel-works-in-slam [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repo contains a mostly cutting edge (new derives from old) list of **awesome and l works in slam** <br>
+This repo contains a mostly cutting edge (new derives from old) list of **awesome and novel works in slam** <br>
 
 If you find this repository useful, please consider STARing this list. Feel free to share this list with others! More comments will be found below, yet just opinions of mine. Let's make slamer great again. 
 Please note that arxiv is a preprint platform that has not undergone peer review. Some of the content is of very low quality. It is necessary to pay attention to the latest version of formal journals or conferences.
@@ -8,7 +8,7 @@ There exists a significant disparity between engineering and academic pursuits, 
 
 For latest Spatial AI related work, please refer [[SAI-arxiv-daily-Repo](https://github.com/runjtu/vpr-arxiv-daily)]
 
-![graph](https://github.com/runjtu/awesome-and-l-works-in-slam/blob/main/slam2.0.drawio.png)
+![graph](https://github.com/runjtu/awesome-and-novel-works-in-slam/blob/main/slam2.0.drawio.png)
 
 ---
 ## Overview
@@ -172,7 +172,7 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 
 ---
-## novel
+## 
 
 * **Scene-Diffuser**: "Diffusion-based Generation, Optimization, and Planning in 3D Scenes", *CVPR 2023*. [[Project](https://scenediffuser.github.io)]
 
@@ -234,11 +234,11 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **Matrix3D**: "Matrix3D: Large Photogrammetry Model All-in-One", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2502.07685)]
 
-* **ViewCrafter**: "ViewCrafter: Taming Video Diffusion Models for High-fidelity Novel View Synthesis", *arxiv 2024*. [[Code](https://github.com/Drexubery/ViewCrafter)]
+* **ViewCrafter**: "ViewCrafter: Taming Video Diffusion Models for High-fidelity  View Synthesis", *arxiv 2024*. [[Code](https://github.com/Drexubery/ViewCrafter)]
 
 * **GelSLAM**: "GelSLAM: A Real-Time, High-Resolution, and Robust 3D Tactile SLAM System", *ICRA 2025*. [[Project](https://joehjhuang.github.io/gelslam/)]
 
-* **GF-SLAM**: "GF-SLAM: A Novel Hybrid Localization Method Incorporating Global and Arc Features", *TASE 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10691946)]
+* **GF-SLAM**: "GF-SLAM: A  Hybrid Localization Method Incorporating Global and Arc Features", *TASE 2024*. [[Paper](https://ieeexplore.ieee.org/abstract/document/10691946)]
 
 * **MAC-VO**: "MAC-VO: Metrics-Aware Covariance for Learning-based Stereo Visual Odometry", *ICRA 2025*. [[Project](https://mac-vo.github.io/)]
 
@@ -1369,9 +1369,9 @@ If you find this repository useful, please consider citing this repo:
 
 ```
 @misc{runjtu2024slamrepo,
-    title = {awesome-and-novel-works-in-slam},
+    title = {awesome-and--works-in-slam},
     author = {Runheng Zuo},
-    howpublished = {\url{https://github.com/runjtu/awesome-and-novel-works-in-slam}},
+    howpublished = {\url{https://github.com/runjtu/awesome-and--works-in-slam}},
     year = {2024},
     note = "[Online; accessed 04-October-2024]"
 }
