@@ -1,6 +1,6 @@
-# awesome-and-novel-works-in-slam [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
+# awesome-and-l-works-in-slam [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-This repo contains a mostly cutting edge (new derives from old) list of **awesome and novel works in slam** <br>
+This repo contains a mostly cutting edge (new derives from old) list of **awesome and l works in slam** <br>
 
 If you find this repository useful, please consider STARing this list. Feel free to share this list with others! More comments will be found below, yet just opinions of mine. Let's make slamer great again. 
 Please note that arxiv is a preprint platform that has not undergone peer review. Some of the content is of very low quality. It is necessary to pay attention to the latest version of formal journals or conferences.
@@ -8,7 +8,7 @@ There exists a significant disparity between engineering and academic pursuits, 
 
 For latest Spatial AI related work, please refer [[SAI-arxiv-daily-Repo](https://github.com/runjtu/vpr-arxiv-daily)]
 
-![graph](https://github.com/runjtu/awesome-and-novel-works-in-slam/blob/main/slam2.0.drawio.png)
+![graph](https://github.com/runjtu/awesome-and-l-works-in-slam/blob/main/slam2.0.drawio.png)
 
 ---
 ## Overview
@@ -16,7 +16,7 @@ For latest Spatial AI related work, please refer [[SAI-arxiv-daily-Repo](https:/
   - [3DGSNeRF](#3DGSNeRF)
   - [v2x](#v2x)
   - [Semantic](#semantic)
-  - [novel](#novel)
+  - [l](#l)
   - [Largemodel](#largemodel)
   - [bignames](#bignames)
   - [journals](#journals)
@@ -140,6 +140,11 @@ Follow [[Chongjie Ye](https://github.com/hugoycj)] for more practical experience
 
 * **AD-GS**: "AD-GS: Object-Aware B-Spline Gaussian Splatting for Self-Supervised Autonomous Driving", *ICCV 2025*. [[Project](https://jiaweixu8.github.io/AD-GS-web/)]
 
+* **splatnav**: "Safe Real-Time Robot Navigation in Gaussian Splatting Maps", *arxiv 2024*. [[Project](https://chengine.github.io/splatnav/)]
+
+* **VR-Robo**: "VR-Robo: A Real-to-Sim-to-Real Framework for Visual Robot Navigation and Locomotion", *RAL 2025*. [[Project](https://vr-robo.github.io/)]
+
+* **GaussianVLM**: "GaussianVLM: Scene-centric 3D Vision-Language Models using Language-aligned Gaussian Splats for Embodied Reasoning and Beyond", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2507.00886)]
 
 
 
@@ -259,6 +264,12 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **CREStE**: "CREStE: Scalable Mapless Navigation with Internet Scale Priors and Counterfactual Guidance", *RSS 2025*. [[Code](https://github.com/ut-amrl/creste_public)]
 
+* **Reloc3r**: "Reloc3r: Large-Scale Training of Relative Camera Pose Regression for Generalizable, Fast, and Accurate Visual Localization", *CVPR 2025*. [[Code](https://github.com/ffrivera0/reloc3r)]
+
+* **DualMap**: "DualMap: Online Open-Vocabulary Semantic Mapping for Natural Language Navigation in Dynamic Changing Scenes", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2506.01950)]
+
+* **ScoreLiDAR**: "Distilling Diffusion Models to Efficient 3D LiDAR Scene Completion", *ICCV 2025*. [[Paper](https://arxiv.org/pdf/2412.03515)]
+
 
 
 ---
@@ -336,6 +347,11 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **LLaVA-4D**: "LLaVA-4D: Embedding SpatioTemporal Prompt into LMMs for 4D Scene Understanding", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2505.12253)] 
 
+* **StreamVLN**: "StreamVLN: Streaming Vision-and-Language Navigation via SlowFast Context Modeling", *arxiv 2025*. [[Code](https://github.com/InternRobotics/StreamVLN)]
+
+* **Mem4Nav**: "Mem4Nav: Boosting Vision-and-Language Navigation in Urban Environments with a Hierarchical Spatial-Cognition Long-Short Memory System", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2506.19433v1)]
+
+* **NavDP**: "NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2505.08712)]
 
 
 ----
@@ -888,6 +904,9 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **MSU-4S** [[Homepage](https://egr.msu.edu/waves/msu4s/)]
 * **HoloVIC** [[Homepage](https://holovic.net/)]
 * **Seeing in the Dark** [[Homepage](https://oxdan.active.vision/)]
+* **oxford_spires_dataset** [[Homepage](https://github.com/ori-drs/oxford_spires_dataset)]
+
+
 
 * **BotanicGarden** [[Homepage](https://github.com/robot-pesg/BotanicGarden)]
 * **M2DGR** [[Homepage](https://github.com/SJTU-ViSYS/M2DGR)]
@@ -998,6 +1017,8 @@ Books and Reviews:
 
 * **learnLLM**[[Code](https://github.com/Lordog/dive-into-llms)]
 
+* **awesome-llm4tr**[[Code](https://github.com/tongnie/awesome-llm4tr)]
+
 * **Foundations-of-LLMs**[[Code](https://github.com/ZJU-LLMs/Foundations-of-LLMs)]
 
 * **MathRL**[[Code](https://github.com/MathFoundationRL/Book-Mathematical-Foundation-of-Reinforcement-Learning)]
@@ -1043,6 +1064,12 @@ Books and Reviews:
 * **Multi-sensor Mapping**: "LiDAR, GNSS and IMU Sensor Alignment through Dynamic Time Warping to Construct 3D City Maps", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2507.08420)]
 
 * **Embodied Navigation**: "Embodied Navigation", *Science China Information Sciences 2025*. [[Paper](https://link.springer.com/article/10.1007/s11432-024-4303-8)]
+
+* **EvaluateLO**: "A Comprehensive Evaluation of LiDAR Odometry Techniques", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2507.16000)]
+
+* **HDMap**: "What Really Matters for Robust Multi-Sensor HD Map Construction?", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2507.01484)]
+
+* **MSFEAI**: " A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2506.19769)]
 
 
 
@@ -1144,8 +1171,6 @@ Books and Reviews:
 
 
 
-
-
 ----
 ## WhySDMap
 
@@ -1189,6 +1214,10 @@ Books and Reviews:
 
 * **ERPoT**: "ERPoT: Effective and Reliable Pose Tracking for Mobile Robots Using Lightweight Polygon Maps", *2025 TRO*. [[Paper](https://ieeexplore.ieee.org/document/11024226)] [[Code](https://github.com/ghm0819/ERPoT)]
 
+* **osmAG-LLM**: "osmAG-LLM: Zero-Shot Open-Vocabulary Object Navigation via Semantic Maps and Large Language Models Reasoning", *2025 arxiv*. [[Code](https://anonymous.4open.science/r/osmAG-LLM/README.md)]
+
+
+ 
 
    Follow [[Gmberton](https://github.com/gmberton)] for more information on Visual Place Recognition, I will do supplement when I have time.
 
@@ -1287,15 +1316,16 @@ Books and Reviews:
 * **BlockMap**: "Block-Map-Based Localization in Large-Scale Environment", *IEEE International Conference on Robotics and Automation 2024*.  [[Paper](https://arxiv.org/pdf/2404.18192)] [[Code](https://github.com/YixFeng/Block-Map-Based-Localization)]
 
 * **SLIM**: "SLIM: Scalable and Lightweight LiDAR Mapping in Urban Environments", *arxiv maybe tro 2024*.  [[Paper](https://arxiv.org/pdf/2409.08681)] [[Code](https://github.com/HKUST-Aerial-Robotics/SLIM)]
-  
+
+* **RING#**: "RING#: PR-by-PE Global Localization with Roto-translation Equivariant Gram Learning", [[Code](https://github.com/lus6-Jenny/RINGSharp)]
+
 reduce z-axis drift
 
 * **Norlab-icp**: "A 2-D/3-D mapping library relying on the "Iterative Closest Point" algorithm", [[Code](https://github.com/norlab-ulaval/norlab_icp_mapper)]
 
 * **SuperOdometry**: "SuperOdometry: Lightweight LiDAR-inertial Odometry and Mapping", [[Code](https://github.com/superxslam/SuperOdom)]
 
-* **RING#**: "RING#: PR-by-PE Global Localization with Roto-translation Equivariant Gram Learning", [[Code](https://github.com/lus6-Jenny/RINGSharp)]
-
+* **BUFFER-X**: "BUFFER-X: Zero-Shot Point Cloud Registration", *ICCV 2025*. [[Code](https://github.com/MIT-SPARK/BUFFER-X)]
 
 
 
@@ -1348,4 +1378,4 @@ If you find this repository useful, please consider citing this repo:
 ```
 
 
-![Star History Chart](https://api.star-history.com/svg?repos=runjtu/awesome-and-novel-works-in-slam&type=Date)
+![Star History Chart](https://api.star-history.com/svg?repos=runjtu/awesome-and-l-works-in-slam&type=Date)
