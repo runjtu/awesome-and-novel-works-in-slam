@@ -172,7 +172,7 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 
 ---
-## 
+## novel
 
 * **Scene-Diffuser**: "Diffusion-based Generation, Optimization, and Planning in 3D Scenes", *CVPR 2023*. [[Project](https://scenediffuser.github.io)]
 
