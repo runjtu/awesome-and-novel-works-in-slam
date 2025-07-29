@@ -16,7 +16,6 @@ For latest Spatial AI related work, please refer [[SAI-arxiv-daily-Repo](https:/
   - [3DGSNeRF](#3DGSNeRF)
   - [v2x](#v2x)
   - [Semantic](#semantic)
-  - [l](#l)
   - [Largemodel](#largemodel)
   - [bignames](#bignames)
   - [journals](#journals)
