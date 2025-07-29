@@ -1369,13 +1369,13 @@ If you find this repository useful, please consider citing this repo:
 
 ```
 @misc{runjtu2024slamrepo,
-    title = {awesome-and--works-in-slam},
+    title = {awesome-and-novel-works-in-slam},
     author = {Runheng Zuo},
-    howpublished = {\url{https://github.com/runjtu/awesome-and--works-in-slam}},
+    howpublished = {\url{https://github.com/runjtu/awesome-and-novel-works-in-slam}},
     year = {2024},
     note = "[Online; accessed 04-October-2024]"
 }
 ```
 
 
-![Star History Chart](https://api.star-history.com/svg?repos=runjtu/awesome-and-l-works-in-slam&type=Date)
+![Star History Chart](https://api.star-history.com/svg?repos=runjtu/awesome-and-novel-works-in-slam&type=Date)
