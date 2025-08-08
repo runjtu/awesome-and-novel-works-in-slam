@@ -353,6 +353,15 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **NavDP**: "NavDP: Learning Sim-to-Real Navigation Diffusion Policy with Privileged Information Guidance", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2505.08712)]
 
+* **Bench2ADVLM**: "Bench2ADVLM: Closed-Loop Evaluation Framework for Vision-language Models in Autonomous Driving", *arxiv 2025*. [[Project](https://bench2advlm.github.io/)]
+
+* **SpatialVLA**: "SpatialVLA: Exploring Spatial Representations for Visual-Language-Action Model", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2501.15830)]
+
+* **NavA3**: "NavA3: Understanding Any Instruction, Navigating Anywhere, Finding Anything", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2508.04598)]
+
+* **DriveLM**: "DriveLM: Driving with Graph Visual Question Answering", *ECCV 2024*. [[Code](https://github.com/OpenDriveLab/DriveLM)]
+
+
 
 ----
 ## bignames
@@ -1315,9 +1324,15 @@ Books and Reviews:
 
 * **BlockMap**: "Block-Map-Based Localization in Large-Scale Environment", *IEEE International Conference on Robotics and Automation 2024*.  [[Paper](https://arxiv.org/pdf/2404.18192)] [[Code](https://github.com/YixFeng/Block-Map-Based-Localization)]
 
-* **SLIM**: "SLIM: Scalable and Lightweight LiDAR Mapping in Urban Environments", *arxiv maybe tro 2024*.  [[Paper](https://arxiv.org/pdf/2409.08681)] [[Code](https://github.com/HKUST-Aerial-Robotics/SLIM)]
+* **SLIM**: "SLIM: Scalable and Lightweight LiDAR Mapping in Urban Environments", *arxiv maybe tro 2025*.  [[Paper](https://arxiv.org/pdf/2409.08681)] [[Code](https://github.com/HKUST-Aerial-Robotics/SLIM)]
 
-* **RING#**: "RING#: PR-by-PE Global Localization with Roto-translation Equivariant Gram Learning", [[Code](https://github.com/lus6-Jenny/RINGSharp)]
+* **RING#**: "RING#: PR-by-PE Global Localization with Roto-translation Equivariant Gram Learning", *TRO 2025*. [[Code](https://github.com/lus6-Jenny/RINGSharp)]
+
+* **LT-Gaussian**: "LT-Gaussian: Long-Term Map Update Using 3D Gaussian Splatting for Autonomous Driving", [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11097624)]
+
+* **GS-LTS**: "GS-LTS: 3D Gaussian Splatting-Based Adaptive Modeling for Long-Term Service Robots", [[Paper](https://arxiv.org/abs/2503.17733)]
+
+
 
 reduce z-axis drift
 
