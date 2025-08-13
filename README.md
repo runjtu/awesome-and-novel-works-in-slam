@@ -1225,16 +1225,15 @@ Books and Reviews:
 
 * **osmAG-LLM**: "osmAG-LLM: Zero-Shot Open-Vocabulary Object Navigation via Semantic Maps and Large Language Models Reasoning", *2025 arxiv*. [[Code](https://anonymous.4open.science/r/osmAG-LLM/README.md)]
 
+* **BevSplat**: "BevSplat: Resolving Height Ambiguity via Feature-Based Gaussian Primitives for Weakly-Supervised Cross-View Localization", *2025 maybe NeuIPS*. [[Paper](https://arxiv.org/abs/2502.09080)]
 
  
 
-   Follow [[Gmberton](https://github.com/gmberton)] for more information on Visual Place Recognition, I will do supplement when I have time.
+   Follow [[Michael Milford](https://ieeexplore.ieee.org/author/37283633100)], [[Gmberton](https://github.com/gmberton)] and [[Amar Ali-bey](https://github.com/amaralibey)] for more information on Visual Place Recognition, I will do supplement when I have time.
 
-   Follow [[Sarlinpe](https://github.com/sarlinpe)] for more information on SfM & mapfusion, I will do supplement when I have time.
+   Follow [[Sarlinpe](https://github.com/sarlinpe)] and [[NAVER](https://github.com/naver)] for more information on SfM & mapfusion, I will do supplement when I have time.
   
-   Follow [[TUMFTM](https://github.com/TUMFTM)] for more information on HDMap & SDMap aided localization, I will do supplement when I have time.
-   
-   Follow [[Tong Qin](https://github.com/qintonguav)] for more information on SDMap aided localization, I will do supplement when I have time.
+   Follow [[Yuxiang Sun](https://github.com/lab-sun)] and for more information on SDMap aided localization, I will do supplement when I have time.
 
    Follow [[Yujiao Shi](https://github.com/YujiaoShi/)] and [[tudelft-iv](https://github.com/tudelft-iv)] for more information on Satellite images aided localization, I will do supplement when I have time.
 
