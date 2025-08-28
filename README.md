@@ -1197,6 +1197,8 @@ Books and Reviews:
 
 * **OSMLoc**: "OSMLoc: Single Image-Based Visual Localization in OpenStreetMap with Semantic and Geometric Guidances", *arxiv 2024*. [[Paper](https://arxiv.org/pdf/2411.08665)] [[Code](https://github.com/WHU-USI3DV/OSMLoc/tree/main)]
 
+* **OPAL**: "Opal: Visibility-aware lidar-to-openstreetmap place recognition via adaptive radial fusion", *CoRL 2025*. [[Paper](https://arxiv.org/abs/2504.19258)] [[Code](https://github.com/kang-1-2-3/OPAL)]
+
 * **svo-dt**: " Drift-free Visual SLAM using Digital Twins", *arxiv 2024*. [[Paper](https://arxiv.org/pdf/2412.08496)] [[Code](https://github.com/uzh-rpg/rpg_svo_pro_with_digital_twins)]
 
 * **CityNav**: "CityNav: Language-Goal Aerial Navigation set with Geographic Information", *arxiv 2024*.  [[Paper](https://arxiv.org/pdf/2406.14240)] 
