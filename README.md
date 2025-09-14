@@ -180,6 +180,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **VGGT**: "VGGT: Visual Geometry Grounded Transformer", *CVPR 2025*. [[Code](https://github.com/facebookresearch/vggt)]
 
+* **ViPE**: "ViPE: Video Pose Engine for 3D Geometric Perception", *arxiv 2025*. [[Paper](https://research.nvidia.com/labs/toronto-ai/vipe/)]
+
 * **MASt3R-SLAM**: "MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors", *CVPR 2025*. [[Code](https://github.com/rmurai0610/MASt3R-SLAM)]
 
 * **DRLSV**: "Dense reinforcement learning for safety validation of autonomous vehicles", *Nature 2023*. [[Paper](https://www.nature.com/articles/s41586-023-05732-2)]
@@ -269,6 +271,12 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **DualMap**: "DualMap: Online Open-Vocabulary Semantic Mapping for Natural Language Navigation in Dynamic Changing Scenes", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2506.01950)]
 
 * **ScoreLiDAR**: "Distilling Diffusion Models to Efficient 3D LiDAR Scene Completion", *ICCV 2025*. [[Paper](https://arxiv.org/pdf/2412.03515)]
+
+* **DiffMVS & CasDiffMVS**: "Lightweight and Accurate Multi-View Stereo with Confidence-Aware Diffusion Model", *TPAMI 2025*. [[Code](https://github.com/cvg/diffmvs)]
+
+* **SAIL-Recon**: "SAIL-Recon: Large SfM by Augmenting Scene Regression with Localization", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2508.17972)]
+
+
 
 
 
@@ -867,10 +875,8 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **Jan. SIGGRAPH Special Interest Group for Computer GRAPHICS** [[Registeration](https://s2023.siggraph.org/)]
 
 * **Mar. RSS Robotics: Science and Systems** [[Registeration](https://roboticsconference.org/)]
-  
-* **Nov. CVPR IEEE Conference on Computer Vision and Pattern Recognition** [[Registeration](https://cvpr.thecvf.com/)]
 
-* **Sept. ICRA IEEE International Conference on Robotics and Automation** [[Registeration](https://2024.ieee-icra.org/)]
+* **Apr. CASE IEEE International Conference on Automation Science and Engineering** [[Registeration](https://www.ieee-ras.org/conferences-workshops/fully-sponsored/case)]
 
 * **Mar. IROS IEEE/RSJ lnternational Conference onlntelligent Robots and Systems** [[Registeration](https://ieee-iros.org/)]
 
@@ -890,7 +896,12 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 
 * **Sept. ICLR International Conference on Learning Representations** [[Registeration](https://iclr.cc/)]
 
+* **Sept. ICRA IEEE International Conference on Robotics and Automation** [[Registeration](https://2024.ieee-icra.org/)]
+
 * **Oct. ICML International Conference on Machine Learning** [[Registeration](https://icml.cc/)]
+
+* **Nov. CVPR IEEE Conference on Computer Vision and Pattern Recognition** [[Registeration](https://cvpr.thecvf.com/)]
+
 
 
 
@@ -1078,8 +1089,11 @@ Books and Reviews:
 
 * **HDMap**: "What Really Matters for Robust Multi-Sensor HD Map Construction?", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2507.01484)]
 
-* **MSFEAI**: " A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2506.19769)]
+* **MSFEAI**: "A Survey of Multi-sensor Fusion Perception for Embodied AI: Background, Methods, Challenges and Prospects", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2506.19769)]
 
+* **awesome-3D-scene-graphs**: "awesome-3D-scene-graphs", *github 2025*. [[Code](https://github.com/DennisRotondi/awesome-3D-scene-graphs)]
+
+* **SSM-EN**: "Sensing, Social, and Motion Intelligence in Embodied Navigation: A Comprehensive Surve", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2508.15354)]
 
 
 ----
@@ -1123,6 +1137,8 @@ Books and Reviews:
 * **LimSim** [[Sim now](https://github.com/PJLab-ADG/LimSim)]
 * **robosuite** [[Sim now](https://github.com/ARISE-Initiative/robosuite)]
 * **PlayerOne** [[Sim now](https://github.com/yuanpengtu/PlayerOne)]
+* **Genie-Envisioner** [[Sim now](https://github.com/AgibotTech/Genie-Envisioner)]
+
 
 
 
@@ -1229,6 +1245,8 @@ Books and Reviews:
 
 * **BevSplat**: "BevSplat: Resolving Height Ambiguity via Feature-Based Gaussian Primitives for Weakly-Supervised Cross-View Localization", *2025 maybe NeuIPS*. [[Paper](https://arxiv.org/abs/2502.09080)]
 
+* **GLEAM**: " GLEAM: LEARNING TO MATCH AND EXPLAIN IN CROSS-VIEW GEO-LOCALIZATION", *2025 arxiv*. [[Paper](https://arxiv.org/pdf/2509.07450)]
+
  
 
    Follow [[Michael Milford](https://ieeexplore.ieee.org/author/37283633100)], [[Gmberton](https://github.com/gmberton)] and [[Amar Ali-bey](https://github.com/amaralibey)] for more information on Visual Place Recognition, I will do supplement when I have time.
@@ -1301,6 +1319,10 @@ Books and Reviews:
 * **G3Reg**: "Pyramid Semantic Graph-based Global Point Cloud Registration with Low Overlap", *IEEE/RSJ International Conference on Intelligent Robots and Systems 2023*. [[Code](https://github.com/HKUST-Aerial-Robotics/G3Reg)]
 
 * **SG-Reg**: "SG-Reg: Generalizable and Efficient Scene Graph Registration", *TRO under review*. [[Code](https://github.com/HKUST-Aerial-Robotics/SG-Reg)]
+
+* **rko_lio**: "A Robust Approach for LiDAR-Inertial Odometry Without Sensor-Specific Modelling", *2025 arxiv*. [[Code](https://github.com/PRBonn/rko_lio)]
+
+* **DCReg**: "DCReg: Decoupled Characterization for Efficient Degenerate LiDAR Registration", *IJRR under review*. [[Code](https://github.com/JokerJohn/DCReg)]
 
 * **DeepPointMap**: "DeepPointMap: Advancing LiDAR SLAM with Unified Neural Descriptors", *AAAI Conference on Artificial Intelligence 2024*. [[Code](https://github.com/ZhangXiaze/DeepPointMap)]
 
