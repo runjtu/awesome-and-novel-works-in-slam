@@ -925,6 +925,7 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **HoloVIC** [[Homepage](https://holovic.net/)]
 * **Seeing in the Dark** [[Homepage](https://oxdan.active.vision/)]
 * **oxford_spires_dataset** [[Homepage](https://github.com/ori-drs/oxford_spires_dataset)]
+* **lamaria-city-vio** [[Homepage](https://github.com/cvg/lamaria)]
 
 
 
@@ -1031,6 +1032,10 @@ Deep Learning Framework:
 Writing:
 
 * **NSFC-Latex** [[Video](https://github.com/MCG-NKU/NSFC-LaTex)]
+
+* **Poster-Slides** [[PPT](https://entuedu-my.sharepoint.com/:p:/g/personal/shyuan_staff_main_ntu_edu_sg/EVaOK4bBReFIio4IFeOpAocB5XBsRV5zPoIvwfgeZCTYfw?rtime=P0x2EskP3kg)]
+
+* **Review** [[Blog](https://www.chuchuchen.net/note/review)]
 
 
 Books and Reviews:
