@@ -1356,6 +1356,9 @@ Books and Reviews:
 
 * **RING#**: "RING#: PR-by-PE Global Localization with Roto-translation Equivariant Gram Learning", *TRO 2025*. [[Code](https://github.com/lus6-Jenny/RINGSharp)]
 
+* **Multi-Mapcher**: "Multi-Mapcher: Loop Closure Detection-Free Heterogeneous LiDAR Multi-Session SLAM Leveraging Outlier-Robust Registration for Autonomous Vehicles", *TIV 2025*. [[Paper](https://arxiv.org/abs/2511.00635)]
+
+
 * **LT-Gaussian**: "LT-Gaussian: Long-Term Map Update Using 3D Gaussian Splatting for Autonomous Driving", [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11097624)]
 
 * **GS-LTS**: "GS-LTS: 3D Gaussian Splatting-Based Adaptive Modeling for Long-Term Service Robots", [[Paper](https://arxiv.org/abs/2503.17733)]
