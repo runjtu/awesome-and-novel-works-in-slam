@@ -1103,7 +1103,9 @@ Books and Reviews:
 
 ----
 
-## Sim (experienced and promising software)
+## Sim
+
+Both experienced and promising software
 
 * **AAI** [[Sim now](https://www.automotive-ai.com/)]
 * **Airsim** [[Sim now](https://github.com/microsoft/AirSim)]
