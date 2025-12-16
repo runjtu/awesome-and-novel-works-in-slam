@@ -1371,7 +1371,7 @@ Both experienced and promising software
 
 * **DiSCo-SLAM**: "DiSCo-SLAM: Distributed Scan Context-Enabled Multi-Robot LiDAR SLAM With Two-Stage Global-Local Graph Optimization", *IEEE International Conference on Robotics and Automation 2022*.  [[Paper](https://ieeexplore./document/9662965)] [[Code](https://github.com/RobustFieldAutonomyLab/DiSCo-SLAM)]
 
-* **imesa**: "{iMESA}: Incremental Distributed Optimization for Collaborative Simultaneous Localization and Mapping", *Robotics: Science and Systems 2024*.  [[Paper](https://arxiv.org/pdf/2406.07371)] [[Code](https://github.com/rpl-cmu/imesa)]
+* **imesa**: "{iMESA}: Incremental Distributed Optimization for Collaborative Simultaneous Localization and Mapping", *Robotics: Science and Systems 2024*. [[Paper](https://arxiv.org/pdf/2406.07371)] [[Code](https://github.com/rpl-cmu/imesa)]
 
 * **DCL-SLAM**: "Swarm-lio: Decentralized swarm lidar-inertial odometry", *IEEE International Conference on Robotics and Automation 2023*.  [[Paper](https://ieeexplore.ieee.org/document/10161355)] [[Code](https://github.com/PengYu-Team/DCL-SLAM)]
 
@@ -1402,6 +1402,8 @@ reduce z-axis drift
 * **Norlab-icp**: "A 2-D/3-D mapping library relying on the "Iterative Closest Point" algorithm", [[Code](https://github.com/norlab-ulaval/norlab_icp_mapper)]
 
 * **SuperOdometry**: "SuperOdometry: Lightweight LiDAR-inertial Odometry and Mapping", [[Code](https://github.com/superxslam/SuperOdom)]
+
+* **SuperOdometry+**: "Resilient odometry via hierarchical adaptation", *Science Robotics 2025*. [[Paper](https://www.science.org/doi/10.1126/scirobotics.adv1818)]
 
 * **BUFFER-X**: "BUFFER-X: Zero-Shot Point Cloud Registration", *ICCV 2025*. [[Code](https://github.com/MIT-SPARK/BUFFER-X)]
 
