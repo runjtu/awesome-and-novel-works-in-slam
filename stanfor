@@ -6,7 +6,7 @@ If you find this repository useful, please consider STARing this list. Feel free
 Please note that arxiv is a preprint platform that has not undergone peer review. Some of the content is of very low quality. It is necessary to pay attention to the latest version of formal journals or conferences.
 There exists a significant disparity between engineering and academic pursuits, wherein numerous sophisticated concepts exhibit substantial gaps in practical implementation. This phenomenon is inherently normal and necessitates case-specific analysis to address the unique challenges encountered.
 
-For latest Spatial AI related work, please refer [[SAI-arxiv-daily-Repo](https://github.com/runjtu/vpr-arxiv-daily)]
+For latest Spatial AI related work, please refer to [[SAI-arxiv-daily-Repo](https://github.com/runjtu/vpr-arxiv-daily)]
 
 ![graph](https://github.com/runjtu/awesome-and-novel-works-in-slam/blob/main/slam2.0.drawio.png)
 
@@ -146,6 +146,11 @@ Follow [[Chongjie Ye](https://github.com/hugoycj)] for more practical experience
 
 * **GaussianVLM**: "GaussianVLM: Scene-centric 3D Vision-Language Models using Language-aligned Gaussian Splats for Embodied Reasoning and Beyond", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2507.00886)]
 
+* **RMVR**: "Radiance Meshes for Volumetric Reconstruction", *arxiv 2025*. [[Code](https://github.com/half-potato/radiance_meshes)]
+
+* **HybridWorldSim**: "HybridWorldSim: A Scalable and Controllable High-fidelity Simulator for Autonomous Driving", *arxiv 2025*. [[Paper](https://arxiv.org/abs/2511.22187)]
+
+
 
 
 ---
@@ -276,6 +281,7 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **SAIL-Recon**: "SAIL-Recon: Large SfM by Augmenting Scene Regression with Localization", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2508.17972)]
 
+* **DGGT**: "DGGT: Feedforward 4D Reconstruction of Dynamic Driving Scenes Using Unposed Images", *arxiv 2025*. [[Project](https://xiaomi-research.github.io/dggt/)]
 
 
 
@@ -333,6 +339,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **FindAnything**: "FindAnything: Open-Vocabulary and Object-Centric Mapping for Robot Exploration in Any Environment", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2504.08603)]
 
+* **DAAAM**: "Describe Anything Anywhere At Any Moment", *arxiv 2025*. [[Paper](https://arxiv.org/abs/2512.00565)]
+
 * **Hier-SLAM**: "Hier-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting", *ICRA 2025*. [[Code](https://github.com/LeeBY68/Hier-SLAM)]
 
 * **SpatialLM**: "SpatialLM: Large Language Model for Spatial Understanding", *github 2025*. [[Code](https://github.com/manycore-research/SpatialLM)]
@@ -342,6 +350,12 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **SOLVE**: "SOLVE: Synergy of Language-Vision and End-to-End Networks for Autonomous Driving", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2505.16805)]
 
 * **VL-Nav**: "VL-Nav: Real-time Vision-Language Navigation with Spatial Reasoning", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2502.00931)]
+
+* **Social-Nav**: "SocialNav: Training Human-Inspired Foundation Model for Socially-Aware Embodied Navigation", *arxiv 2025*. [[Paper](https://arxiv.org/abs/2511.21135)]
+
+* **JanusVLN**: "JanusVLN: Decoupling Semantics and Spatiality with Dual Implicit Memory for Vision-Language Navigation", *arxiv 2025*. [[Code](https://github.com/MIV-XJTU/JanusVLN)]
+
+* **NOLO**: "NOLO:Navigate Only Look Once", *arxiv 2024*. [[Paper](https://arxiv.org/pdf/2408.01384)]
 
 * **VLM-3R**: "VLM-3R: Vision-Language Models Augmented with Instruction-Aligned 3D Reconstruction", *arxiv 2025*. [[Code](https://github.com/VITA-Group/VLM-3R)]
 
@@ -368,6 +382,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **NavA3**: "NavA3: Understanding Any Instruction, Navigating Anywhere, Finding Anything", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2508.04598)]
 
 * **DriveLM**: "DriveLM: Driving with Graph Visual Question Answering", *ECCV 2024*. [[Code](https://github.com/OpenDriveLab/DriveLM)]
+
+* **TrackVLA**: "TrackVLA: Embodied Visual Tracking in the Wild", *arxiv 2025*. [[Paper](https://arxiv.org/abs/2505.23189)]
 
 
 
@@ -584,6 +600,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **MIT Driverless Perception Team** [[Homepage](https://github.com/cv-core)]
 
+* **Stanford Open Virtual Assistant Lab** [[Homepage](https://github.com/stanford-oval)]
+
 * **CMU Robotics Institute AirLab** [[Homepage](https://github.com/castacks)][[FRC](https://frc.ri.cmu.edu)]
 
 * **CMU Robotic Exploration Lab** [[Homepage](https://github.com/RoboticExplorationLab)]
@@ -646,7 +664,7 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **Texas Austin Visual Informatics Group** [[Homepage](https://github.com/VITA-Group)]
 
-* **Texas Robot Perception and Learning Lab** [[Homepage](https://github.com/UT-Austin-RPL)]
+* **Texas Austin Robot Perception and Learning Lab** [[Homepage](https://github.com/UT-Austin-RPL)]
 
 * **University of Delaware Robot Perception Navigation Group RPNG** [[Homepage](https://github.com/rpng)]
 
@@ -666,7 +684,7 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **Toronto Autonomous Space Robotics Lab** [[Homepage](https://github.com/utiasASRL)]
 
-* **Toronto TRAIL Lab** [[Homepage](https://www.trailab.utias.utoronto.ca/)]
+* **Toronto TRAIL Lab** [[Homepage](https://github.com/TRAILab)]
 
 * **UBC Computer Vision Group** [[Homepage](https://github.com/ubc-vision)]
 
@@ -690,6 +708,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **KAIST Urban Robotics Lab** [[Homepage](https://github.com/url-kaist)]
 
 * **KAIST Cognitive Learning for Vision and Robotics CLVR lab** [[Homepage](https://github.com/clvrai)]
+
+* **KAIST cvlab** [[Homepage](https://github.com/cvlab-kaist)]
 
 * **Yonsei Computational Intelligence Laboratory** [[Homepage](https://github.com/yonsei-cilab)]
 
@@ -733,7 +753,7 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **HKUST Aerial Robotics Group** [[Homepage](https://github.com/HKUST-Aerial-Robotics)]
 
-* **HKUST XRIM-Lab** [[Homepage](https://github.com/XRIM-Lab)]
+* **HKUST Extended Reality and Interactive Media Lab** [[Homepage](https://github.com/XRIM-Lab)]
 
 * **City University of Hong Kong MetaSLAM** [[Homepage](https://github.com/MetaSLAM)]
 
@@ -753,6 +773,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **SJTU Thinklab** [[Homepage](https://github.com/Thinklab-SJTU)]
 
+* **SJTU VisionXLab** [[Homepage](https://github.com/VisionXLab)]
+
 * **ZJU Advanced-Perception-on-Robotics-and-Intelligent-Learning-Lab** [[Homepage](https://github.com/APRIL-ZJU)]
 
 * **ZJU CAD CG** [[Homepage](https://github.com/zju3dv)]
@@ -766,6 +788,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **ZJU OM-AI Lab** [[Homepage](https://github.com/om-ai-lab)]
 
 * **Fudan Zhang Vision Group** [[Homepage](https://github.com/fudan-zvg)]
+
+* **Fudan MAGIC Lab** [[Homepage](https://github.com/Fudan-MAGIC-Lab)]
 
 * **Chongxuan Li's research group @ Renmin University of China** [[Homepage](https://github.com/ML-GSAI)]
 
@@ -1195,6 +1219,7 @@ Both experienced and promising software
 
    Follow [[IVDesign]([https://www.youtube.com/c/MITRoboticsSeminar/videos](https://mp.weixin.qq.com/s?__biz=Mzg5NDcxMDIxNA==&mid=2247516332&idx=1&sn=5d032b0138cd21a1ddb99bc782c0ef36&chksm=c19755d1da727e4d0d587f708cf0b55809dec06a24cf8750dfbf0adfdfa62ee8c68d0e1de83d&mpshare=1&scene=1&srcid=0602oIjWC7yhrpVLA8y1wEY3&sharer_shareinfo=6107cac786755ca405ea6c61abcec6b3&sharer_shareinfo_first=6107cac786755ca405ea6c61abcec6b3#rd))] [[ADCol]([https://mp.weixin.qq.com/s?__biz=Mzg2Mjg3MTc5OA==&mid=2247509070&idx=1&sn=06928562224f8925f4029024606c73ec&chksm=cfa060b85d43f23b20affd16d531baef6760207dc444d60404be7a01b2c5bb7dba2cf8f5f085&mpshare=1&scene=1&srcid=0602XGswFLqPDFyQR9GrrVoD&sharer_shareinfo=2dab53f5511ad80838f81c96cad4f399&sharer_shareinfo_first=2dab53f5511ad80838f81c96cad4f399#rd))] [[VLN]([https://mp.weixin.qq.com/s?__biz=MzkwMTgxNjk5OA==&mid=2247488168&idx=1&sn=c68f1ab4c1fc1bdeee6401503d2fb880&chksm=c10eb53663875cce034f79f5697d4878a0236dc328e13169e4d300eec111a820398f3b241b56&mpshare=1&scene=1&srcid=0602v2HW5yuGN3QT94iPwNXH&sharer_shareinfo=65b9bcf5f94e2e37b4032cdb20572d2b&sharer_shareinfo_first=65b9bcf5f94e2e37b4032cdb20572d2b#rd))] [[ADFeed]([https://mp.weixin.qq.com/s?__biz=MjM5NTI1NzgzMA==&mid=2447787620&idx=1&sn=9abb1bed1af25bdd016ee570264f6aad&chksm=b385150198ec29acc9b72cf0030f6013894a0085739b6926ad96cff02e21f28036403a48a4db&mpshare=1&scene=1&srcid=0602FttrTqDZmzic24Lk6PsL&sharer_shareinfo=457a044e076051cd771c5454f9dc1e7b&sharer_shareinfo_first=457a044e076051cd771c5454f9dc1e7b#rd))] for cutting edge paper and talks, scan QR code for more Wxtweet, I will do supplement when I have time.
 
+   Follow [[Waipang Kwan](https://kwanwaipang.github.io/home/)] for more information on Scene Understanding Blogs.
 
 
 
@@ -1254,9 +1279,10 @@ Both experienced and promising software
 
 * **GLEAM**: " GLEAM: LEARNING TO MATCH AND EXPLAIN IN CROSS-VIEW GEO-LOCALIZATION", *2025 arxiv*. [[Paper](https://arxiv.org/pdf/2509.07450)]
 
- 
+ * **SR-AD**: "Spatial Retrieval Augmented Autonomous Driving", *2025 arxiv*. [[Paper](https://arxiv.org/pdf/2512.06865)]
 
-   Follow [[Michael Milford](https://ieeexplore.ieee.org/author/37283633100)], [[Gmberton](https://github.com/gmberton)] and [[Amar Ali-bey](https://github.com/amaralibey)] for more information on Visual Place Recognition, I will do supplement when I have time.
+
+   Follow [[Michael Milford](https://ieeexplore.ieee.org/author/37283633100)], [[Gmberton](https://github.com/gmberton)] , [[Feng Lu](https://github.com/Lu-Feng)] and [[Amar Ali-bey](https://github.com/amaralibey)] for more information on Visual Place Recognition, I will do supplement when I have time.
 
    Follow [[Sarlinpe](https://github.com/sarlinpe)] and [[NAVER](https://github.com/naver)] for more information on SfM & mapfusion, I will do supplement when I have time.
   
@@ -1264,7 +1290,6 @@ Both experienced and promising software
 
    Follow [[Yujiao Shi](https://github.com/YujiaoShi/)] and [[tudelft-iv](https://github.com/tudelft-iv)] for more information on Satellite images aided localization, I will do supplement when I have time.
 
-   Follow [[Waipang Kwan](https://kwanwaipang.github.io/home/)] for more information on Scene Understanding Blogs.
 
 
 ----
@@ -1359,6 +1384,11 @@ Both experienced and promising software
 * **RING#**: "RING#: PR-by-PE Global Localization with Roto-translation Equivariant Gram Learning", *TRO 2025*. [[Code](https://github.com/lus6-Jenny/RINGSharp)]
 
 * **Multi-Mapcher**: "Multi-Mapcher: Loop Closure Detection-Free Heterogeneous LiDAR Multi-Session SLAM Leveraging Outlier-Robust Registration for Autonomous Vehicles", *TIV 2025*. [[Paper](https://arxiv.org/abs/2511.00635)]
+
+
+* **CSMapping**: "CSMapping: Scalable Crowdsourced Semantic Mapping and Topology Inference for Autonomous Driving", *maybe TRO 2026*. [[Paper](https://arxiv.org/abs/2512.03510)]
+
+
 
 
 * **LT-Gaussian**: "LT-Gaussian: Long-Term Map Update Using 3D Gaussian Splatting for Autonomous Driving", [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11097624)]
