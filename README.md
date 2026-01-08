@@ -947,6 +947,11 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 
 ## Datasets
 
+Datasets and Metrics:
+
+For Classic SLAM:
+
+
 * **EuRoC** [[Homepage](https://github.com/topics/euroc-dataset/)]
 * **Oxford Robotcar** [[Homepage](https://robotcar-dataset.robots.ox.ac.uk/)]
 * **NCLT** [[Homepage](http://robots.engin.umich.edu/nclt/)]
@@ -964,6 +969,7 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **oxford_spires_dataset** [[Homepage](https://github.com/ori-drs/oxford_spires_dataset)]
 * **lamaria-city-vio** [[Homepage](https://github.com/cvg/lamaria)]
 
+For Newer SLAM:
 
 
 * **BotanicGarden** [[Homepage](https://github.com/robot-pesg/BotanicGarden)]
@@ -980,13 +986,12 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **M2UDr** [[Homepage](https://github.com/Yaepiii/M2UD)]
 * **GND** [[Homepage](https://cs.gmu.edu/~xiao/Research/GND/)]
 * **Toronto-3D** [[Homepage](https://github.com/WeikaiTan/Toronto-3D)]
-
-
-
-
 * **Rubble** [[Homepage](https://meganerf.cmusatyalab.org/)]
 * **TIERS** [[Homepage](https://github.com/TIERS/tiers-lidars-dataset)]
 * **HeLiPR** [[Homepage](https://arxiv.org/pdf/2309.14590)]
+
+For Place Recognization:
+
 * **GEODE** [[Homepage](https://arxiv.org/pdf/2409.04961v1)]
 * **CVGlobal** [[Homepage](https://opendatalab.com/CVeRS/CVGlobal)]
 * **mapillary** [[Homepage](https://github.com/mapillary)]
@@ -996,7 +1001,12 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **fusionportable** [[Homepage](https://fusionportable.github.io/dataset/fusionportable_v2)]
 * **CVCities** [[Homepage](https://github.com/GaoShuang98/CVCities)]
 * **GAMa** [[Homepage](https://github.com/svyas23/GAMa)]
+
+For World Model:
+
 * **WorldLens**: "WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World", *arxiv 2025*. [[Paper](https://arxiv.org/abs/2512.10958)]
+* **DrivingGen**: "DrivingGen: A Comprehensive Benchmark for Generative Video World Models in Autonomous Driving", *arxiv 2026*. [[Paper](https://arxiv.org/abs/2601.01528)]
+
 
 
 find more in [paperwithcode](https://paperswithcode.com/), [awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets)
