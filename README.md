@@ -990,7 +990,7 @@ For Newer SLAM:
 * **TIERS** [[Homepage](https://github.com/TIERS/tiers-lidars-dataset)]
 * **HeLiPR** [[Homepage](https://arxiv.org/pdf/2309.14590)]
 
-For Place Recognization:
+For Place Recognition:
 
 * **GEODE** [[Homepage](https://arxiv.org/pdf/2409.04961v1)]
 * **CVGlobal** [[Homepage](https://opendatalab.com/CVeRS/CVGlobal)]
