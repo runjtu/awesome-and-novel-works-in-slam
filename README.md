@@ -150,6 +150,13 @@ Follow [[Chongjie Ye](https://github.com/hugoycj)] for more practical experience
 
 * **HybridWorldSim**: "HybridWorldSim: A Scalable and Controllable High-fidelity Simulator for Autonomous Driving", *arxiv 2025*. [[Paper](https://arxiv.org/abs/2511.22187)]
 
+* **ParkGaussian**: "ParkGaussian: Surround-view 3D Gaussian Splatting for Autonomous Parking", *arxiv 2026*. [[Paper](https://arxiv.org/pdf/2601.01386)]
+
+* **SymDrive**: "SymDrive: Realistic and Controllable Driving Simulator via Symmetric Auto-regressive Online Restoration", *arxiv 2025*. [[Paper](https://arxiv.org/abs/2512.21618)]
+
+* **AalpaSim**: "AlpaSim: A modular, lightweight, and data-driven research simulator for autonomous driving", *github 2025*. [[Code](https://github.com/NVlabs/alpasim)]
+
+* **IGL-Nav**: "IGL-Nav: Incremental 3D Gaussian Localization for Image-goal Navigation", *arxiv 2025*. [[Paper](https://gwxuan.github.io/IGL-Nav/)]
 
 
 
@@ -283,6 +290,8 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **DGGT**: "DGGT: Feedforward 4D Reconstruction of Dynamic Driving Scenes Using Unposed Images", *arxiv 2025*. [[Project](https://xiaomi-research.github.io/dggt/)]
 
+* **Fly-DA**: "Flying in Clutter on Monocular RGB by Learning in 3D Radiance Fields with Domain Adaptation", *arxiv 2025*. [[Paper](https://arxiv.org/abs/2512.17349)]
+
 
 
 
@@ -366,6 +375,10 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **AnyCam**: "AnyCam: Learning to Recover Camera Poses and Intrinsics from Casual Videos", *CVPR 2025*. [[Code](https://github.com/Brummi/anycam)] 
 
 * **Depth Any Camera**: "Depth Any Camera: Zero-Shot Metric Depth Estimation from Any Camera", *CVPR 2025*. [[Code](https://github.com/yuliangguo/depth_any_camera)] 
+
+* **Register Any Point**: "Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching", *arxiv 2025*. [[Project](https://register-any-point.github.io/)] 
+
+
 
 * **LLaVA-4D**: "LLaVA-4D: Embedding SpatioTemporal Prompt into LMMs for 4D Scene Understanding", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2505.12253)] 
 
@@ -983,6 +996,7 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **fusionportable** [[Homepage](https://fusionportable.github.io/dataset/fusionportable_v2)]
 * **CVCities** [[Homepage](https://github.com/GaoShuang98/CVCities)]
 * **GAMa** [[Homepage](https://github.com/svyas23/GAMa)]
+* **WorldLens**: "WorldLens: Full-Spectrum Evaluations of Driving World Models in Real World", *arxiv 2025*. [[Paper](https://arxiv.org/abs/2512.10958)]
 
 
 find more in [paperwithcode](https://paperswithcode.com/), [awesome-slam-datasets](https://github.com/youngguncho/awesome-slam-datasets)
@@ -1061,6 +1075,8 @@ Writing:
 
 * **Review** [[Blog](https://www.chuchuchen.net/note/review)]
 
+* **learning_research** [[Blog](https://github.com/pengsida/learning_research)]
+
 
 Books and Reviews:
 
@@ -1124,6 +1140,9 @@ Books and Reviews:
 
 * **SSM-EN**: "Sensing, Social, and Motion Intelligence in Embodied Navigation: A Comprehensive Surve", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2508.15354)]
 
+* **CoT-AD**: "Chain-of-Thought for Autonomous Driving: A Comprehensive Survey and Future Prospects", *arxiv 2025*. [[Paper](https://arxiv.org/abs/2505.20223)]
+
+
 
 ----
 
@@ -1169,6 +1188,7 @@ Both experienced and promising software
 * **robosuite** [[Sim now](https://github.com/ARISE-Initiative/robosuite)]
 * **PlayerOne** [[Sim now](https://github.com/yuanpengtu/PlayerOne)]
 * **Genie-Envisioner** [[Sim now](https://github.com/AgibotTech/Genie-Envisioner)]
+* **HUTB-Sim** [[Sim now](https://github.com/OpenHUTB/hutb)]
 
 
 
