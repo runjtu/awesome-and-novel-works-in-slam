@@ -292,6 +292,9 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **Fly-DA**: "Flying in Clutter on Monocular RGB by Learning in 3D Radiance Fields with Domain Adaptation", *arxiv 2025*. [[Paper](https://arxiv.org/abs/2512.17349)]
 
+* **D4RT**: "Efficiently Reconstructing Dynamic Scenes One D4RT at a Time", *arxiv 2026*. [[Project](https://d4rt-paper.github.io/)]
+
+* **EVolSplat4D**: "EVolSplat4D: Efficient Volume-based Gaussian Splatting for 4D Urban Scene Synthesis", *arxiv 2026*. [[Project](https://xdimlab.github.io/EVolSplat4D/)]
 
 
 
@@ -880,11 +883,19 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 
 * **JFR Journal of Field Robotics** [[Registeration](https://onlinelibrary.wiley.com/page/journal/15564967/homepage/forauthors.html)]
 
-* **TASE IEEE Transactions on Automation Science and Engineering** [[Registeration](https://www.ieee-ras.org/publications/t-ase)]
+* **ISPRS Journal of Photogrammetry and Remote Sensing** [[Registeration](https://www.sciencedirect.com/journal/isprs-journal-of-photogrammetry-and-remote-sensing)]
+
+* **MSSP Mechanical Systems and Signal Processing** [[Registeration](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing)]
+
+* **TTE IEEE Transactions on Transportation Electrification** [[Registeration](https://mc.manuscriptcentral.com/tte-ieee)]
+
+* **TIE IEEE Transactions on Industrial Electronics** [[Registeration](https://mc.manuscriptcentral.com/tie-ieee)]
   
 * **TITS IEEE Transactions on Intelligent Transportation Systems** [[Registeration](https://mc.manuscriptcentral.com/t-its)]
   
 * **TMech IEEE/ASME Transactions on Mechatronics** [[Registeration](http://www.ieee-asme-mechatronics.info/)]
+
+* **TASE IEEE Transactions on Automation Science and Engineering** [[Registeration](https://www.ieee-ras.org/publications/t-ase)]
 
 * **TGRS IEEE Transactions on Geoscience and Remote Sensing** [[Registeration](https://mc.manuscriptcentral.com/tgrs)]
 
@@ -893,10 +904,6 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **TIV IEEE Transactions on Intelligent Vehicles** [[Registeration](https://mc.manuscriptcentral.com/t-iv)]
 
 * **TIM IEEE Transactions on Instrumentation & Measurement** [[Registeration](https://www.editorialmanager.com/tim/default.aspx)]
-
-* **TTE IEEE Transactions on Transportation Electrification** [[Registeration](https://mc.manuscriptcentral.com/tte-ieee)]
-
-* **TIE IEEE Transactions on Industrial Electronics** [[Registeration](https://mc.manuscriptcentral.com/tie-ieee)]
 
 * **RA-L IEEE Robotics and Automation Letters** [[Registeration](https://ras.papercept.net/journals/ral/scripts/login.pl)]
 
@@ -1418,6 +1425,11 @@ Both experienced and promising software
 
 * **CSMapping**: "CSMapping: Scalable Crowdsourced Semantic Mapping and Topology Inference for Autonomous Driving", *maybe TRO 2026*. [[Paper](https://arxiv.org/abs/2512.03510)]
 
+* **OKVIS2-X**: "OKVIS2-X: Open Keyframe-based Visual-Inertial SLAM Configurable with Dense Depth or LiDAR, and GNSS", *TRO 2025*. [[Paper](https://github.com/ethz-mrl/OKVIS2-X)]
+
+* **E-IPM**: "Enhancing Inverse Perspective Mapping for Automatic Vectorized Road Map Generation", *arxiv 2026*. [[Paper](https://arxiv.org/pdf/2601.19536)]
+
+* **TALO**: "TALO: Pushing 3D Vision Foundation Models Towards Globally Consistent Online Reconstruction", *arxiv 2025*. [[Paper](https://arxiv.org/abs/2512.02341)]
 
 
 
