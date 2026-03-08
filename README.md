@@ -158,6 +158,12 @@ Follow [[Chongjie Ye](https://github.com/hugoycj)] for more practical experience
 
 * **IGL-Nav**: "IGL-Nav: Incremental 3D Gaussian Localization for Image-goal Navigation", *arxiv 2025*. [[Paper](https://gwxuan.github.io/IGL-Nav/)]
 
+* **SurfSplat**: "SurfSplat: Conquering Feedforward 2D Gaussian Splatting with Surface Continuity Priors", *arxiv 2026*. [[Paper](https://arxiv.org/pdf/2602.02000)]
+
+* **PLANING**: "PLANING: A Loosely Coupled Triangle-Gaussian Framework for Streaming 3D Reconstruction", *arxiv 2026*. [[Paper](https://arxiv.org/pdf/2601.22046)]
+
+* **EmbodiedSplat**: "EmbodiedSplat: Personalized Real-to-Sim-to-Real Navigation with Gaussian Splats from a Mobile Device", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2509.17430)]
+
 
 
 ---
@@ -297,6 +303,15 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **EVolSplat4D**: "EVolSplat4D: Efficient Volume-based Gaussian Splatting for 4D Urban Scene Synthesis", *arxiv 2026*. [[Project](https://xdimlab.github.io/EVolSplat4D/)]
 
 
+* **ZipMap-TTT**: "ZipMap: Linear-Time Stateful 3D Reconstruction with Test-Time Training", *arxiv 2026*. [[Paper](https://arxiv.org/pdf/2603.04385v1)]
+
+* **Utonia**: "Utonia: Toward One Encoder for All Point Clouds", *arxiv 2026*. [[Paper](https://arxiv.org/pdf/2603.03283)] [[Project](https://pointcept.github.io/Utonia/)]
+
+* **ACE-Brain-0**: "ACE-Brain-0: Spatial Intelligence as a Shared Scaffold for Universal Embodiments", *arxiv 2026*. [[Project](https://ace-brain-team.github.io/ACE-Brain-0/)]
+
+* **SLAM-Former**: "SLAM-Former: Putting SLAM into One Transformer", *github 2026*. [[Code](https://github.com/Tsinghua-MARS-Lab/SLAM-Former)]
+
+
 
 ---
 ## largemodel
@@ -381,7 +396,7 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 
 * **Register Any Point**: "Register Any Point: Scaling 3D Point Cloud Registration by Flow Matching", *arxiv 2025*. [[Project](https://register-any-point.github.io/)] 
 
-
+* **AnyView**: "AnyView: Synthesizing Any Novel View in Dynamic Scenes", *arxiv 2026*. [[Project](https://tri-ml.github.io/AnyView/)] 
 
 * **LLaVA-4D**: "LLaVA-4D: Embedding SpatioTemporal Prompt into LMMs for 4D Scene Understanding", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2505.12253)] 
 
@@ -400,6 +415,18 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **DriveLM**: "DriveLM: Driving with Graph Visual Question Answering", *ECCV 2024*. [[Code](https://github.com/OpenDriveLab/DriveLM)]
 
 * **TrackVLA**: "TrackVLA: Embodied Visual Tracking in the Wild", *arxiv 2025*. [[Paper](https://arxiv.org/abs/2505.23189)]
+
+* **GaussianDWM**: "GaussianDWM: 3D Gaussian Driving World Model for Unified Scene Understanding and Multi-Modal Generation", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2512.23180)]
+
+* **GenieDrive**: "GenieDrive: Towards Physics-Aware Driving World Model with 4D Occupancy Guided Video Generation", *arxiv 2025*. [[Paper](https://arxiv.org/pdf/2512.12751)]
+
+* **SparseVideoNav**: "SparseVideoNav: Sparse Video Generation Propels Real-World Beyond-the-View Vision-Language Navigation", *arxiv 2026*. [[Code](https://github.com/OpenDriveLab/SparseVideoNav)]
+
+
+* **AirHunt**: "AirHunt: Bridging VLM Semantics and Continuous Planning for Efficient Aerial Object Navigation", *arxiv 2026*. [[Paper](https://arxiv.org/pdf/2601.12742)]
+
+* **FlyCo**: "FlyCo: Foundation Model-Empowered Drones for Autonomous 3D Structure Scanning in Open-World Environments", *arxiv 2026*. [[Paper](https://arxiv.org/pdf/2601.07558)]
+
 
 
 
@@ -467,6 +494,11 @@ Follow [[Runsheng Xu](https://github.com/DerrickXuNu)] for more information on V
 * **LiAutoAD** [[Homepage](https://github.com/LiAutoAD)]
 
 * **Sense-GVT** [[Homepage](https://github.com/Sense-GVT)]
+
+* **ACE Robotics** [[Homepage](https://github.com/ACE-Brain-Team/)]
+
+* **AgibotTech** [[Homepage](https://github.com/AgibotTech)]
+
 
 * **Megvii Robot** [[Homepage](https://github.com/MegviiRobot)]
 
@@ -873,11 +905,15 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 
 * **TRO IEEE Transactions on Robotics** [[Registeration](https://ras.papercept.net/journals/tro/scripts/login.pl)]
 
+* **TPAMI IEEE Transactions on Pattern Analysis and Machine Intelligence** [[Registeration](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=34)]
+
 * **IJRR International Journal of Robotics Research** [[Registeration](https://mc.manuscriptcentral.com/ijrr)]
 
 * **Transportation Research Part C** [[Registeration](https://www.editorialmanager.com/trc/default.aspx)]
 
 * **RCIM Robotics and Computer-Integrated Manufacturing** [[Registeration](https://www.editorialmanager.com/rcim/)]
+
+* **TMM IEEE Transactions on Multimedia** [[Registeration](https://mc.manuscriptcentral.com/tmm-ieee)]
 
 * **TII IEEE Transactions on Industrial Informatics** [[Registeration](https://mc.manuscriptcentral.com/tii)]
 
@@ -887,27 +923,33 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 
 * **MSSP Mechanical Systems and Signal Processing** [[Registeration](https://www.sciencedirect.com/journal/mechanical-systems-and-signal-processing)]
 
+* **IF Information Fusion** [[Registeration](https://www.sciencedirect.com/journal/information-fusion)]
+
 * **TTE IEEE Transactions on Transportation Electrification** [[Registeration](https://mc.manuscriptcentral.com/tte-ieee)]
 
 * **TIE IEEE Transactions on Industrial Electronics** [[Registeration](https://mc.manuscriptcentral.com/tie-ieee)]
-  
+
+* **TMC IEEE Transactions on Mobile Computing** [[Registeration](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)]
+
 * **TITS IEEE Transactions on Intelligent Transportation Systems** [[Registeration](https://mc.manuscriptcentral.com/t-its)]
   
 * **TMech IEEE/ASME Transactions on Mechatronics** [[Registeration](http://www.ieee-asme-mechatronics.info/)]
 
 * **TASE IEEE Transactions on Automation Science and Engineering** [[Registeration](https://www.ieee-ras.org/publications/t-ase)]
 
-* **TGRS IEEE Transactions on Geoscience and Remote Sensing** [[Registeration](https://mc.manuscriptcentral.com/tgrs)]
+* **TNNLS IEEE Transactions on Neural Networks and Learning Systems** [[Registeration](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)]
 
 * **TCSVT IEEE Transactions on Circuits and Systems for Video Technology** [[Registeration](https://ieee.atyponrex.com/submission/dashboard?siteName=TCSVT)]
 
+* **TVT IEEE Transactions on Vehicular Technology** [[Registeration](https://mc.manuscriptcentral.com/tvt-ieee/)]
+
 * **TIV IEEE Transactions on Intelligent Vehicles** [[Registeration](https://mc.manuscriptcentral.com/t-iv)]
+
+* **TGRS IEEE Transactions on Geoscience and Remote Sensing** [[Registeration](https://mc.manuscriptcentral.com/tgrs)]
 
 * **TIM IEEE Transactions on Instrumentation & Measurement** [[Registeration](https://www.editorialmanager.com/tim/default.aspx)]
 
 * **RA-L IEEE Robotics and Automation Letters** [[Registeration](https://ras.papercept.net/journals/ral/scripts/login.pl)]
-
-* **TVT IEEE Transactions on Vehicular Technology** [[Registeration](https://mc.manuscriptcentral.com/tvt-ieee/)]
 
 * **Communications in Transportation Research** [[Registeration](https://www.sciencedirect.com/journal/communications-in-transportation-research)]
 
@@ -932,7 +974,7 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 
 * **May. CoRL Conference on Robot Learning** [[Registeration](https://www.corl.org/home)]
 
-* **May. NIPS Annual Conference on Neural Information Processing Systems** [[Registeration](https://neurips.cc/)]
+* **May. NeurIPS Annual Conference on Neural Information Processing Systems** [[Registeration](https://neurips.cc/)]
 
 * **May. ACM MM ACM International Conference on Multimedia** [[Registeration](https://acmmm2025.org/)]
 
@@ -945,6 +987,10 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **Oct. ICML International Conference on Machine Learning** [[Registeration](https://icml.cc/)]
 
 * **Nov. CVPR IEEE Conference on Computer Vision and Pattern Recognition** [[Registeration](https://cvpr.thecvf.com/)]
+
+* **Nov. IV IEEE Intelligent Vehicles Symposium (IV)** [[Registeration](https://ieee-iv.org/2026/)]
+
+
 
 
 
@@ -976,6 +1022,7 @@ For Classic SLAM:
 * **oxford_spires_dataset** [[Homepage](https://github.com/ori-drs/oxford_spires_dataset)]
 * **lamaria-city-vio** [[Homepage](https://github.com/cvg/lamaria)]
 
+
 For Newer SLAM:
 
 
@@ -996,15 +1043,18 @@ For Newer SLAM:
 * **Rubble** [[Homepage](https://meganerf.cmusatyalab.org/)]
 * **TIERS** [[Homepage](https://github.com/TIERS/tiers-lidars-dataset)]
 * **HeLiPR** [[Homepage](https://arxiv.org/pdf/2309.14590)]
+* **Boreas-RT** [[Homepage](https://www.boreas.utias.utoronto.ca/)]
 
-For Place Recognition:
+
+
+For General Place Recognition:
 
 * **GEODE** [[Homepage](https://arxiv.org/pdf/2409.04961v1)]
 * **CVGlobal** [[Homepage](https://opendatalab.com/CVeRS/CVGlobal)]
 * **mapillary** [[Homepage](https://github.com/mapillary)]
 * **SLABIM** [[Homepage](https://github.com/HKUST-Aerial-Robotics/SLABIM)]
 * **BIMNet** [[Homepage](https://github.com/LydJason/BIMNet)]
-* **BorealTC** [[Homepage](https://github.com/norlab-ulaval/BorealTC)]
+* **Boreal-TC** [[Homepage](https://github.com/norlab-ulaval/BorealTC)]
 * **fusionportable** [[Homepage](https://fusionportable.github.io/dataset/fusionportable_v2)]
 * **CVCities** [[Homepage](https://github.com/GaoShuang98/CVCities)]
 * **GAMa** [[Homepage](https://github.com/svyas23/GAMa)]
@@ -1159,6 +1209,9 @@ Books and Reviews:
 
 * **CoT-AD**: "Chain-of-Thought for Autonomous Driving: A Comprehensive Survey and Future Prospects", *arxiv 2025*. [[Paper](https://arxiv.org/abs/2505.20223)]
 
+* **3DR-AD**: "Learning-based 3D Reconstruction in Autonomous Driving: A Comprehensive Survey", *T-ITS 2025*. [[Paper](https://arxiv.org/pdf/2503.14537)]
+
+
 
 
 ----
@@ -1211,15 +1264,10 @@ Both experienced and promising software
 
 
 
-
-
-
-
-
 ----
 ## BuySensors
 
-   Multi-sensors:RGB, RGBD, Infrared, Polarization, Event-based(Future), Motion, Capture(GT), 2D Spinning LiDAR, 3D Spinning LiDAR, 3D Solid-State LiDAR, 4D High Resolution Radar(Future), mmWave Radar, UWB, RTK(GT), Wheel Odom, IMU, Ultrasonic Sensor.
+   Multi-sensors:RGB, RGBD, Infrared, Polarization, Event-based(Future), Motion, Capture(GT), 2D Spinning LiDAR, 3D Spinning LiDAR, 3D Solid-State LiDAR, 4D High Resolution Radar(Future), mmWave Radar, UWB, RTK(GT), Wheel Odom, IMU, Ultrasonic Sensor, Tactile sensor.
    
 ----
 
@@ -1227,15 +1275,15 @@ Both experienced and promising software
 
    For bridging college and society, mainly base in Shanghai, Beijing, Hangzhou, Suzhou, Canton, Shenzhen, HongKong
 
-   Shanghai: AI Lab, DiDi, Horizon, Li Auto, BOSCH, Huawei, SenseTime, 
+   Shanghai: AI Lab, DiDi, Horizon, Li Auto, BOSCH, Huawei, SenseTime, Agibot, Momenta, cowarobot, MSRA, 
 
    Beijing: Xiaomi, Baidu, Pony.ai, MSRA, QCraft, 
 
-   Hangzhou: Unitree, Damo, 
+   Hangzhou: Unitree, Damo, AntGroup, 
 
    Suzhou: Momenta, 
 
-   Canton: ZhuoYu, WeRide, Xiaopeng, DeepRoute, 
+   Canton: ZhuoYu, WeRide, Xiaopeng, DeepRoute, PonyAI, 
    
    [Interview experience](https://zhuanlan.zhihu.com/p/710108368)
 
