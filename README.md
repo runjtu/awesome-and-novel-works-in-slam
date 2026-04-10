@@ -931,15 +931,23 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 
 * **TMC IEEE Transactions on Mobile Computing** [[Registeration](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7755)]
 
+* **TRL IEEE Transactions on Robot Learning** [[Registeration](https://www.ieee-ras.org/publications/t-rl/)]
+
+* **TCE IEEE Transactions on Consumer Electronics** [[Registeration](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=30)]
+
+* **TSMC IEEE Transactions on Systems, Man, and Cybernetics: Systems** [[Registeration](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221021)]
+
+* **TCSVT IEEE Transactions on Circuits and Systems for Video Technology** [[Registeration](https://ieee.atyponrex.com/submission/dashboard?siteName=TCSVT)]
+
 * **TITS IEEE Transactions on Intelligent Transportation Systems** [[Registeration](https://mc.manuscriptcentral.com/t-its)]
   
 * **TMech IEEE/ASME Transactions on Mechatronics** [[Registeration](http://www.ieee-asme-mechatronics.info/)]
 
 * **TASE IEEE Transactions on Automation Science and Engineering** [[Registeration](https://www.ieee-ras.org/publications/t-ase)]
 
-* **TNNLS IEEE Transactions on Neural Networks and Learning Systems** [[Registeration](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)]
+* **TAES IEEE Transactions on Aerospace and Electronic Systems** [[Registeration](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7)]
 
-* **TCSVT IEEE Transactions on Circuits and Systems for Video Technology** [[Registeration](https://ieee.atyponrex.com/submission/dashboard?siteName=TCSVT)]
+* **TNNLS IEEE Transactions on Neural Networks and Learning Systems** [[Registeration](https://cis.ieee.org/publications/t-neural-networks-and-learning-systems)]
 
 * **TVT IEEE Transactions on Vehicular Technology** [[Registeration](https://mc.manuscriptcentral.com/tvt-ieee/)]
 
@@ -959,6 +967,8 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 ## Conferences
 
 * **Jan. SIGGRAPH Special Interest Group for Computer GRAPHICS** [[Registeration](https://s2023.siggraph.org/)]
+
+* **Jan. ACL Annual Meeting of the Association for Computational Linguistics** [[Registeration](https://2026.aclweb.org/)]
 
 * **Mar. RSS Robotics: Science and Systems** [[Registeration](https://roboticsconference.org/)]
 
@@ -989,10 +999,6 @@ Find more on this link in case of u r looking for PhD positions[[I](https://zhua
 * **Nov. CVPR IEEE Conference on Computer Vision and Pattern Recognition** [[Registeration](https://cvpr.thecvf.com/)]
 
 * **Nov. IV IEEE Intelligent Vehicles Symposium (IV)** [[Registeration](https://ieee-iv.org/2026/)]
-
-
-
-
 
 
 
@@ -1044,6 +1050,9 @@ For Newer SLAM:
 * **TIERS** [[Homepage](https://github.com/TIERS/tiers-lidars-dataset)]
 * **HeLiPR** [[Homepage](https://arxiv.org/pdf/2309.14590)]
 * **Boreas-RT** [[Homepage](https://www.boreas.utias.utoronto.ca/)]
+* **DSERT-RoLL** [[Homepage](https://arxiv.org/pdf/2604.03685)]
+* **NSAVP** [[Homepage](https://umautobots.github.io/nsavp)]
+
 
 
 
