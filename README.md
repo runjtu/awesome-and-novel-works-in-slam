@@ -1488,7 +1488,7 @@ Both experienced and promising software
 
 * **TALO**: "TALO: Pushing 3D Vision Foundation Models Towards Globally Consistent Online Reconstruction", *arxiv 2025*. [[Paper](https://arxiv.org/abs/2512.02341)]
 
-
+* **Ultra-Fusion**: "Ultra-Fusion: A Resilient Tightly-Coupled Multi-Sensor Fusion SLAM Framework under Sensor Degradation and Spatiotemporal Perturbation for Intelligent Transportation Systems", [[Code](https://github.com/sjtuyinjie/Ultra-Fusion)]
 
 * **LT-Gaussian**: "LT-Gaussian: Long-Term Map Update Using 3D Gaussian Splatting for Autonomous Driving", [[Paper](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=11097624)]
 
@@ -1521,6 +1521,8 @@ reduce z-axis drift
    Follow [[Qingwen Zhang](https://github.com/Kin-Zhang)] for more information on Dynamic Objects Removing, I will do supplement when I have time.
 
    Follow [[Zhijian Qiao](https://github.com/qiaozhijian)] for more information on Multi-Session Mapping, I will do supplement when I have time.
+
+   Follow [[Jie Yin](https://github.com/sjtuyinjie)] for more information on Long-term SLAM, I will do supplement when I have time.
 
 
 
